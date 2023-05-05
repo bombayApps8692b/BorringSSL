@@ -1,0 +1,5 @@
+/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/networkDebug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/networkDebug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/networkDebug/arm64-v8a/CMakeFiles/OpenSSLApi.dir
+/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/networkDebug/arm64-v8a/CMakeFiles/keys.dir
+/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/networkDebug/arm64-v8a/CMakeFiles/native-lib.dir

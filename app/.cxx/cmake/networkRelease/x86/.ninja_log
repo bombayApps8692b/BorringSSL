@@ -1,0 +1,8 @@
+# ninja log v5
+0	11	0	clean	452fc6a661cbc723
+0	119	1673937236	CMakeFiles/OpenSSLApi.dir/src/main/c/OpenSSLApi.c.o	d3d547a5716d5ed2
+0	122	1673937236	CMakeFiles/keys.dir/src/main/c/keys.c.o	518e9d4e1e162bc8
+1	141	1673937236	CMakeFiles/native-lib.dir/src/main/c/native-lib.c.o	ee82d2603fcd37fa
+120	192	1673937236	../../../../build/intermediates/cmake/networkRelease/obj/x86/libOpenSSLApi.so	ba9e075a5953058d
+122	200	1673937236	../../../../build/intermediates/cmake/networkRelease/obj/x86/libkeys.so	8f4bd81fd656bfed
+141	215	1673937236	../../../../build/intermediates/cmake/networkRelease/obj/x86/libnative-lib.so	4757836aa9051fb9

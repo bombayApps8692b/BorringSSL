@@ -1,0 +1,3476 @@
+{
+  "stringTable": {
+    "0": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Daesgcm_EXPORTS -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -O2 -DNDEBUG -fPIC",
+    "2": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wvla -Wshadow -Wtype-limits -ggdb -Wall -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -fno-exceptions -fno-rtti -Wmissing-prototypes -O2 -DNDEBUG -fPIC -std=gnu++14",
+    "3": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wvla -Wshadow -Wtype-limits -ggdb -Wall -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -fno-exceptions -fno-rtti -Wmissing-prototypes -O2 -DNDEBUG -fPIC -std=gnu++14",
+    "4": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wvla -Wshadow -Wtype-limits -ggdb -Wall -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -fno-exceptions -fno-rtti -Wmissing-prototypes -O2 -DNDEBUG -fPIE -std=gnu++14",
+    "5": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wvla -Wshadow -Wtype-limits -ggdb -Wall -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -O2 -DNDEBUG -fPIC -std=gnu11",
+    "6": "-target x86_64-none-linux-android21 -gcc-toolchain /Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -Wa,--noexecstack -O2 -DNDEBUG -fPIC",
+    "7": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/../../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wvla -Wshadow -Wtype-limits -ggdb -Wall -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -O2 -DNDEBUG -fPIC -std=gnu11",
+    "8": "-target x86_64-none-linux-android21 -gcc-toolchain /Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/../../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -Wa,--noexecstack -O2 -DNDEBUG -fPIC",
+    "9": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wvla -Wshadow -Wtype-limits -ggdb -Wall -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -fno-exceptions -fno-rtti -Wmissing-prototypes -O2 -DNDEBUG -fPIC -std=gnu++14",
+    "10": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/../include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wvla -Wshadow -Wtype-limits -ggdb -Wall -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -fno-exceptions -fno-rtti -Wmissing-prototypes -O2 -DNDEBUG -fPIE -std=gnu++14",
+    "11": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/../include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wvla -Wshadow -Wtype-limits -ggdb -Wall -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -O2 -DNDEBUG -fPIE -std=gnu11",
+    "12": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/../include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wvla -Wshadow -Wtype-limits -ggdb -Wall -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -fno-exceptions -fno-rtti -Wmissing-prototypes -O2 -DNDEBUG -fPIC -std=gnu++14",
+    "13": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/../../include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wvla -Wshadow -Wtype-limits -ggdb -Wall -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -fno-exceptions -fno-rtti -Wmissing-prototypes -O2 -DNDEBUG -fPIE -std=gnu++14",
+    "14": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/../include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wvla -Wshadow -Wtype-limits -ggdb -Wall -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -fno-exceptions -fno-rtti -Wmissing-prototypes -O2 -DNDEBUG -fPIE -std=gnu++14",
+    "15": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/../include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wvla -Wshadow -Wtype-limits -ggdb -Wall -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -fno-exceptions -fno-rtti -Wmissing-prototypes -O2 -DNDEBUG -fPIE -std=gnu++14",
+    "16": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/../include -I/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wvla -Wshadow -Wtype-limits -ggdb -Wall -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -O2 -DNDEBUG -fPIC -std=gnu11",
+    "17": "null"
+  },
+  "buildFiles": [
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/CMakeLists.txt",
+    "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/CMakeLists.txt",
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/sources.cmake",
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/cmake/perlasm.cmake",
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/CMakeLists.txt",
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/CMakeLists.txt",
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/CMakeLists.txt",
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/CMakeLists.txt",
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/CMakeLists.txt",
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/CMakeLists.txt",
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/util/fipstools/CMakeLists.txt",
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/util/fipstools/acvp/modulewrapper/CMakeLists.txt",
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "bssl_shim-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" bssl_shim",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "bssl_shim",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/async_bio.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/bssl_shim.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/handshake_util.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/mock_quic_transport.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/packeted_bio.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/settings_writer.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/test_config.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/test_state.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/ssl/test/bssl_shim",
+      "runtimeFiles": []
+    },
+    "crypto-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" crypto",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "crypto",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-armv8-apple.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-armv8-linux.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-armv8-win.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/chacha20_poly1305_armv8-apple.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/chacha20_poly1305_armv8-linux.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/chacha20_poly1305_armv8-win.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-armv8-apple.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-armv8-linux.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-armv8-win.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-armv4-apple.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-armv4-linux.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-armv4-apple.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-armv4-linux.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-x86-apple.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-x86-linux.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-x86-apple.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-x86-linux.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-x86_64-apple.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-x86_64-linux.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/aes128gcmsiv-x86_64-apple.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/aes128gcmsiv-x86_64-linux.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/chacha20_poly1305_x86_64-apple.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/chacha20_poly1305_x86_64-linux.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-x86_64-apple.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-x86_64-linux.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/curve25519/asm/x25519-asm-arm.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/poly1305/poly1305_arm_asm.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/err_data.c.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-armv8-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-armv8-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-armv8-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/chacha20_poly1305_armv8-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/chacha20_poly1305_armv8-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/chacha20_poly1305_armv8-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-armv8-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-armv8-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-armv8-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-armv4-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-armv4-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-armv4-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-armv4-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-x86-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-x86-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-x86-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-x86-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/chacha/chacha-x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/aes128gcmsiv-x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/aes128gcmsiv-x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/chacha20_poly1305_x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/cipher_extra/chacha20_poly1305_x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/trampoline-x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/err_data.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_bitstr.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_bool.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_d2i_fp.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_dup.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_gentm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_i2d_fp.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_int.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_mbstr.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_object.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_octet.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_strex.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_strnid.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_time.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_type.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_utctm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/asn1_lib.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/asn1_par.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/asn_pack.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/f_int.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/f_string.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/tasn_dec.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/tasn_enc.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/tasn_fre.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/tasn_new.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/tasn_typ.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/tasn_utl.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/posix_time.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/base64/base64.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/bio.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/bio_mem.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/connect.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/fd.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/file.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/hexdump.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/pair.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/printf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/socket.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/socket_helper.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/blake2/blake2.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bn_extra/bn_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bn_extra/convert.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/buf/buf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bytestring/asn1_compat.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bytestring/ber.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bytestring/cbb.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bytestring/cbs.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bytestring/unicode.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/chacha/chacha.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/cipher_extra.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/derive_key.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_aesctrhmac.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_aesgcmsiv.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_chacha20poly1305.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_des.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_null.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_rc2.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_rc4.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_tls.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/tls_cbc.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/conf/conf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu_aarch64_apple.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu_aarch64_freebsd.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu_aarch64_fuchsia.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu_aarch64_linux.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu_aarch64_win.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu_arm_freebsd.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu_arm_linux.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu_arm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu_intel.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/crypto.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/curve25519/curve25519.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/curve25519/spake25519.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/des/des.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dh_extra/params.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dh_extra/dh_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/digest_extra/digest_extra.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dsa/dsa.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dsa/dsa_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/ecdh_extra/ecdh_extra.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/ecdsa_extra/ecdsa_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/ec_extra/ec_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/ec_extra/ec_derive.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/ec_extra/hash_to_curve.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/err/err.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/engine/engine.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/evp.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/evp_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/evp_ctx.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_dsa_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_ec.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_ec_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_ed25519.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_ed25519_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_hkdf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_rsa.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_rsa_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_x25519.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_x25519_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/pbkdf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/print.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/scrypt.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/sign.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/ex_data.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/hkdf/hkdf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/hpke/hpke.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/hrss/hrss.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/lhash/lhash.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/mem.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/obj/obj.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/obj/obj_xref.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_all.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_info.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_lib.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_oth.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_pk8.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_pkey.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_x509.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_xaux.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs7/pkcs7.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs7/pkcs7_x509.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs8/pkcs8.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs8/pkcs8_x509.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs8/p5_pbev2.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/poly1305/poly1305.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/poly1305/poly1305_arm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/poly1305/poly1305_vec.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pool/pool.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rand_extra/deterministic.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rand_extra/forkunsafe.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rand_extra/fuchsia.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rand_extra/passive.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rand_extra/rand_extra.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rand_extra/windows.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rc4/rc4.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/refcount_c11.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/refcount_lock.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rsa_extra/rsa_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rsa_extra/rsa_print.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/stack/stack.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/siphash/siphash.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/thread.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/thread_none.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/thread_pthread.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/thread_win.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/trust_token/pmbtoken.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/trust_token/trust_token.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/trust_token/voprf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/a_digest.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/a_sign.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/a_verify.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/algorithm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/asn1_gen.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/by_dir.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/by_file.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/i2d_pr.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/name_print.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/policy.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/rsa_pss.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/t_crl.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/t_req.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/t_x509.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/t_x509a.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_att.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_cmp.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_d2.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_def.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_ext.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_lu.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_obj.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_req.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_set.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_trs.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_txt.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_v3.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_vfy.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_vpm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509cset.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509name.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509rset.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509spki.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_algor.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_all.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_attrib.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_crl.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_exten.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_info.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_name.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_pkey.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_pubkey.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_req.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_sig.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_spki.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_val.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_x509.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_x509a.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_akey.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_akeya.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_alt.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_bcons.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_bitst.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_conf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_cpols.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_crld.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_enum.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_extku.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_genn.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_ia5.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_info.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_int.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_lib.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_ncons.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_ocsp.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_pci.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_pcia.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_pcons.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_pmaps.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_prn.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_purp.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_skey.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_utl.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/libcrypto.a"
+    },
+    "crypto_test-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" crypto_test",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "crypto_test",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/abi_self_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/asn1_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/base64/base64_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/bio_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/blake2/blake2_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/buf/buf_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bytestring/bytestring_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/chacha/chacha_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/aead_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/cipher_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/compiler_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/conf/conf_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/constant_time_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu_arm_linux_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/crypto_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/curve25519/ed25519_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/curve25519/spake25519_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/curve25519/x25519_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/ecdh_extra/ecdh_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dh_extra/dh_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/digest_extra/digest_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dsa/dsa_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/err/err_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/evp_extra_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/evp_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/pbkdf_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/scrypt_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/aes/aes_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/bn/bn_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/cmac/cmac_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/ec/ec_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/ec/p256-nistz_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/ecdsa/ecdsa_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/md5/md5_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/modes/gcm_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/rand/ctrdrbg_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/rand/fork_detect_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/service_indicator/service_indicator_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/sha/sha_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/hkdf/hkdf_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/hpke/hpke_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/hmac_extra/hmac_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/hrss/hrss_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/impl_dispatch_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/lhash/lhash_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/obj/obj_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs7/pkcs7_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs8/pkcs8_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs8/pkcs12_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/poly1305/poly1305_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pool/pool_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rand_extra/rand_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/refcount_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rsa_extra/rsa_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/self_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/stack/stack_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/siphash/siphash_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/file_test_gtest.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/thread_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/trust_token/trust_token_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_time_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/tab_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/crypto_test",
+      "runtimeFiles": []
+    },
+    "decrepit-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" decrepit",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "decrepit",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/bio/base64_bio.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/blowfish/blowfish.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/cast/cast.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/cast/cast_tables.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/cfb/cfb.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/des/cfb64ede.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/dh/dh_decrepit.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/dsa/dsa_decrepit.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/evp/dss1.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/evp/evp_do_all.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/obj/obj_decrepit.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/rc4/rc4_decrepit.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/ripemd/ripemd.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/rsa/rsa_decrepit.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/ssl/ssl_decrepit.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/x509/x509_decrepit.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/xts/xts.c",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/decrepit/libdecrepit.a"
+    },
+    "urandom_test-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" urandom_test",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "urandom_test",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/rand/urandom_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/urandom_test",
+      "runtimeFiles": []
+    },
+    "boringssl_gtest-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" boringssl_gtest",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "boringssl_gtest",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/src/gtest-all.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/libboringssl_gtest.a"
+    },
+    "test_support_lib-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" test_support_lib",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "test_support_lib",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/abi_test.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/file_test.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/malloc.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/test_util.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/wycheproof_util.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/test/libtest_support_lib.a"
+    },
+    "boringssl_gtest_main-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" boringssl_gtest_main",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "boringssl_gtest_main",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/gtest_main.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "run_tests-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" run_tests",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "run_tests",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/CMakeFiles/run_tests",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/CMakeFiles/run_tests.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "bssl-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" bssl",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "bssl",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/args.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/ciphers.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/client.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/const.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/digest.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/fd.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/file.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/generate_ech.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/generate_ed25519.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/genrsa.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/pkcs12.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/rand.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/server.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/sign.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/speed.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/tool.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/transport_common.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/tool/bssl",
+      "runtimeFiles": []
+    },
+    "fipsmodule-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" fipsmodule",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "fipsmodule",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-armv8-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-armv8-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-armv8-win.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-gcm-armv8-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-gcm-armv8-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-gcm-armv8-win.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/armv8-mont-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/armv8-mont-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/armv8-mont-win.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-neon-armv8-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-neon-armv8-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-neon-armv8-win.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armv8-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armv8-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armv8-win.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256_beeu-armv8-asm-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256_beeu-armv8-asm-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256_beeu-armv8-asm-win.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256-armv8-asm-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256-armv8-asm-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256-armv8-asm-win.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-armv8-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-armv8-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-armv8-win.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-armv8-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-armv8-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-armv8-win.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-armv8-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-armv8-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-armv8-win.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv8-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv8-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv8-win.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-armv7-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-armv7-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/armv4-mont-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/armv4-mont-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/bsaes-armv7-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/bsaes-armv7-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-armv4-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-armv4-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armv7-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armv7-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-armv4-large-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-armv4-large-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-armv4-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-armv4-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-armv4-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-armv4-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv7-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv7-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesni-x86-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesni-x86-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/bn-586-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/bn-586-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/co-586-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/co-586-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-ssse3-x86-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-ssse3-x86-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-x86-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-x86-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/md5-586-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/md5-586-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-586-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-586-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-586-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-586-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-586-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-586-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-x86-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-x86-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/x86-mont-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/x86-mont-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesni-gcm-x86_64-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesni-gcm-x86_64-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesni-x86_64-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesni-x86_64-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-ssse3-x86_64-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-ssse3-x86_64-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-x86_64-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-x86_64-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/md5-x86_64-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/md5-x86_64-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256_beeu-x86_64-asm-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256_beeu-x86_64-asm-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256-x86_64-asm-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256-x86_64-asm-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/rdrand-x86_64-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/rdrand-x86_64-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/rsaz-avx2-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/rsaz-avx2-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-x86_64-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-x86_64-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-x86_64-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-x86_64-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-x86_64-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-x86_64-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-x86_64-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-x86_64-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/x86_64-mont-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/x86_64-mont-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/x86_64-mont5-apple.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/x86_64-mont5-linux.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-armv8-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-armv8-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-armv8-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-gcm-armv8-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-gcm-armv8-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-gcm-armv8-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/armv8-mont-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/armv8-mont-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/armv8-mont-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-neon-armv8-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-neon-armv8-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-neon-armv8-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armv8-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armv8-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armv8-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256_beeu-armv8-asm-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256_beeu-armv8-asm-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256_beeu-armv8-asm-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256-armv8-asm-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256-armv8-asm-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256-armv8-asm-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-armv8-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-armv8-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-armv8-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-armv8-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-armv8-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-armv8-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-armv8-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-armv8-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-armv8-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv8-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv8-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv8-win.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-armv7-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesv8-armv7-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/armv4-mont-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/armv4-mont-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/bsaes-armv7-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/bsaes-armv7-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-armv4-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-armv4-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armv7-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armv7-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-armv4-large-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-armv4-large-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-armv4-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-armv4-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-armv4-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-armv4-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv7-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv7-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesni-x86-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesni-x86-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/bn-586-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/bn-586-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/co-586-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/co-586-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-ssse3-x86-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-ssse3-x86-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-x86-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-x86-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/md5-586-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/md5-586-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-586-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-586-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-586-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-586-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-586-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-586-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-x86-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-x86-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/x86-mont-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/x86-mont-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesni-gcm-x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesni-gcm-x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesni-x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/aesni-x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-ssse3-x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-ssse3-x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/ghash-x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/md5-x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/md5-x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256_beeu-x86_64-asm-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256_beeu-x86_64-asm-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256-x86_64-asm-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/p256-x86_64-asm-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/rdrand-x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/rdrand-x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/rsaz-avx2-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/rsaz-avx2-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha1-x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha256-x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/sha512-x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-x86_64-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/vpaes-x86_64-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/x86_64-mont-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/x86_64-mont-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/x86_64-mont5-apple.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto/fipsmodule/x86_64-mont5-linux.S.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/bcm.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/fips_shared_support.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "crypto_test_data-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" crypto_test_data",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "crypto_test_data",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto_test_data.cc.rule",
+          "flagsOrdinal": 17,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/crypto_test_data.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "ssl-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" ssl",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "ssl",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/bio_ssl.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/d1_both.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/d1_lib.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/d1_pkt.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/d1_srtp.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/dtls_method.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/dtls_record.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/encrypted_client_hello.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/extensions.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/handoff.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/handshake.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/handshake_client.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/handshake_server.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/s3_both.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/s3_lib.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/s3_pkt.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_aead_ctx.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_asn1.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_buffer.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_cert.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_cipher.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_file.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_key_share.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_lib.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_privkey.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_session.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_stat.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_transcript.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_versions.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_x509.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/t1_enc.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/tls_method.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/tls_record.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/tls13_both.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/tls13_client.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/tls13_enc.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/tls13_server.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/ssl/libssl.a"
+    },
+    "decrepit_test-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" decrepit_test",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "decrepit_test",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/blowfish/blowfish_test.cc",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/cast/cast_test.cc",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/cfb/cfb_test.cc",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/evp/evp_test.cc",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/ripemd/ripemd_test.cc",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/xts/xts_test.cc",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/decrepit/decrepit_test",
+      "runtimeFiles": []
+    },
+    "aesgcm-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" aesgcm",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "aesgcm",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/AesGcmCipher.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/build/intermediates/cmake/release/obj/x86_64/libaesgcm.so",
+      "runtimeFiles": []
+    },
+    "ssl_test-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64\" ssl_test",
+      "buildType": "release",
+      "toolchain": "2894067744",
+      "abi": "x86_64",
+      "artifactName": "ssl_test",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_c_test.c",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/span_test.cc",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_test.cc",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86_64/third_party/boringssl/src/ssl/ssl_test",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "2894067744": {
+      "cCompilerExecutable": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cc"
+  ]
+}

@@ -1,0 +1,14 @@
+# ninja log v5
+0	101	1673936748	CMakeFiles/OpenSSLApi.dir/src/main/c/OpenSSLApi.c.o	b79a7fc7878eff70
+1	102	1673936748	CMakeFiles/keys.dir/src/main/c/keys.c.o	912f9f48549c12fe
+1	126	1673936748	CMakeFiles/native-lib.dir/src/main/c/native-lib.c.o	e2234afaa56dbaa7
+101	161	1673936748	../../../../build/intermediates/cmake/networkDebug/obj/arm64-v8a/libOpenSSLApi.so	e459c3bbb749f82f
+102	161	1673936748	../../../../build/intermediates/cmake/networkDebug/obj/arm64-v8a/libkeys.so	c4c9ce437ab44bd0
+126	185	1673936748	../../../../build/intermediates/cmake/networkDebug/obj/arm64-v8a/libnative-lib.so	3852897b8f4c7f26
+0	17	0	clean	452fc6a661cbc723
+1	110	1673937094	CMakeFiles/keys.dir/src/main/c/keys.c.o	912f9f48549c12fe
+1	113	1673937094	CMakeFiles/OpenSSLApi.dir/src/main/c/OpenSSLApi.c.o	b79a7fc7878eff70
+3	140	1673937094	CMakeFiles/native-lib.dir/src/main/c/native-lib.c.o	e2234afaa56dbaa7
+113	182	1673937094	../../../../build/intermediates/cmake/networkDebug/obj/arm64-v8a/libOpenSSLApi.so	e459c3bbb749f82f
+110	182	1673937094	../../../../build/intermediates/cmake/networkDebug/obj/arm64-v8a/libkeys.so	c4c9ce437ab44bd0
+140	207	1673937094	../../../../build/intermediates/cmake/networkDebug/obj/arm64-v8a/libnative-lib.so	3852897b8f4c7f26

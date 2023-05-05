@@ -1,0 +1,79 @@
+{
+  "stringTable": {
+    "0": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/prodRelease/x86_64",
+    "1": "--target=x86_64-none-linux-android26 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DOpenSSLApi_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC",
+    "2": "--target=x86_64-none-linux-android26 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dkeys_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC",
+    "3": "--target=x86_64-none-linux-android26 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
+    "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/prodRelease/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/prodRelease/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "OpenSSLApi-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/prodRelease/x86_64\" OpenSSLApi",
+      "buildType": "release",
+      "toolchain": "3148099289",
+      "abi": "x86_64",
+      "artifactName": "OpenSSLApi",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/c/OpenSSLApi.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build/intermediates/cmake/prodRelease/obj/x86_64/libOpenSSLApi.so",
+      "runtimeFiles": []
+    },
+    "keys-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/prodRelease/x86_64\" keys",
+      "buildType": "release",
+      "toolchain": "3148099289",
+      "abi": "x86_64",
+      "artifactName": "keys",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/c/keys.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build/intermediates/cmake/prodRelease/obj/x86_64/libkeys.so",
+      "runtimeFiles": []
+    },
+    "native-lib-Release-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/prodRelease/x86_64\" native-lib",
+      "buildType": "release",
+      "toolchain": "3148099289",
+      "abi": "x86_64",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/c/native-lib.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build/intermediates/cmake/prodRelease/obj/x86_64/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3148099289": {
+      "cCompilerExecutable": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

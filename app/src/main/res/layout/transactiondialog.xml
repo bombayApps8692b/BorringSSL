@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:background="@color/white"
+android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+        <LinearLayout
+            android:id="@+id/header"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:background="?attr/colorPrimaryTheme"
+            android:orientation="horizontal" >
+
+            <com.ui.MTextViewRegular
+                android:id="@+id/txt_alertTitle"
+                android:text=""
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textColor="?attr/dialogTextColor"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:id="@+id/linearHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#b9babe"
+            android:orientation="horizontal" />
+
+
+        <EditText
+            android:id="@+id/cashback_field"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/box"
+            android:ems="10"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:textCursorDrawable="@drawable/my_cursor"
+            android:hint="Cashback Amount"
+            android:inputType="text"
+            android:padding="10dp"
+            android:textColor="@color/textColor"
+            android:singleLine="true"
+            android:text="@string/amount"
+            android:textSize="24sp" />
+
+
+
+
+       <!-- <Spinner
+            android:id="@+id/spinnerTrans"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:layout_margin="10dp"
+
+            android:spinnerMode="dropdown" />-->
+
+
+        <com.ui.MNumberPad
+            android:id="@+id/number_pad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+
+            android:gravity="bottom" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_below="@+id/view1"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/button_ok"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:stateListAnimator="@null"
+                android:padding="20dp"
+                android:text="OK"
+                android:textStyle="bold"
+                android:textColor="?attr/dialogTextColor"
+                android:textSize="22sp" />
+
+            <View
+                android:layout_width="1dp"
+                android:background="@color/white"
+                android:layout_height="match_parent"/>
+
+            <Button
+                android:id="@+id/button_cancel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:stateListAnimator="@null"
+                android:layout_gravity="center"
+                android:padding="20dp"
+                android:layout_weight="1"
+                android:text="@string/cancel"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColor="?attr/dialogTextColor"
+                android:textSize="22sp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

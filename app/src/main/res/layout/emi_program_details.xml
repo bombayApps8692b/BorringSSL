@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="0.04"
+
+    android:orientation="vertical">
+
+
+    <TableLayout
+        android:id="@+id/root"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:stretchColumns="*">
+
+        <TableRow
+            android:id="@+id/first_row"
+            android:layout_margin="0dip">
+
+            <TextView
+                android:id="@+id/tv_emi_program_Code"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="10dip"
+                android:text="EMI Program Code"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#808080"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/tv_emi_program_short_name"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="10dip"
+                android:text="EMI Program Short Name"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#808080"
+                android:textSize="13sp" />
+
+
+        </TableRow>
+    </TableLayout>
+
+
+</LinearLayout>

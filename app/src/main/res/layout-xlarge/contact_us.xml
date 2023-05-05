@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:clickable="true"
+        android:padding="20dp"
+        android:gravity="center"
+        android:background="@color/white"
+        android:orientation="vertical" >
+
+       <!-- <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/about_logo" />-->
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="500dp"
+            android:layout_height="120dp"
+            android:layout_below="@+id/imageView1"
+            android:layout_marginBottom="20dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/mosambee_logo" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ivCall"
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:layout_height="wrap_content"
+            android:background="@drawable/call_us"
+          />
+
+        <Button
+            android:id="@+id/btn_supportMobileNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:text="@string/supportMobileNo1"
+            android:padding="5sp"
+            android:stateListAnimator="@null"
+            android:textColorLink="#0000EE"
+            android:textColor="#0000EE"
+            android:textSize="42sp"
+            android:layout_margin="20dp"
+            android:background="@color/transparent"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ivEmail"
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:background="@drawable/email_us"
+            />
+        <Button
+            android:id="@+id/btn_supportEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:stateListAnimator="@null"
+            android:gravity="center"
+            android:textColorLink="#0000EE"
+
+            android:textStyle="bold"
+            android:background="@color/transparent"
+            android:padding="5sp"
+            android:layout_below="@+id/btn_supportMobileNo"
+            android:text="@string/supportEmailId"
+            android:layout_margin="20dp"
+            android:textColor="#0000EE"
+            android:textSize="42sp" />
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/ivWebsite"
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:visibility="gone"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:background="@drawable/website"
+            />
+        <com.ui.MTextViewRegular
+            android:id="@+id/btn_supportWebsite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:padding="5sp"
+            android:textColorLink="#0000EE"
+            android:layout_below="@+id/btn_supportEmail"
+            android:textStyle="bold"
+            android:layout_margin="20dp"
+            android:textColor="#0000EE"
+            android:textSize="42sp" />
+    </LinearLayout>
+</LinearLayout>

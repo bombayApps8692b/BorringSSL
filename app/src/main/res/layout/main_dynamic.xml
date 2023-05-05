@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+
+    >
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:paddingTop="10dp"
+       android:paddingBottom="10dp"
+       android:scrollbars="vertical">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:id="@+id/contentLinearLayout"
+       android:orientation="vertical"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       >
+
+      <ImageView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:id="@+id/imgLogo"/>
+
+   </LinearLayout>
+</ScrollView>
+   <!--<com.ui.MTextViewRegular
+       android:id="@+id/button_charge"
+       android:layout_width="150dp"
+       android:layout_marginTop="5dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center_horizontal"
+       android:background="@drawable/button_dialog"
+       android:gravity="center"
+       android:fontFamily="Arial"
+       android:text="@string/charge1"
+       android:textColor="#7f7677"
+       android:textSize="20sp"
+       android:layout_centerHorizontal="true"
+       android:layout_alignParentBottom="true"
+       android:textStyle="bold" />-->
+
+</LinearLayout>

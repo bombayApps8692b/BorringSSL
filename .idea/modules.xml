@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MosambeeModularThemeV2_CPOC_UL_BOringssl.iml" filepath="$PROJECT_DIR$/.idea/modules/MosambeeModularThemeV2_CPOC_UL_BOringssl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MosambeeModularThemeV2_CPOC_UL_BOringssl.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MosambeeModularThemeV2_CPOC_UL_BOringssl.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MosambeeModularThemeV2_CPOC_UL_BOringssl.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MosambeeModularThemeV2_CPOC_UL_BOringssl.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MosambeeModularThemeV2_CPOC_UL_BOringssl.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MosambeeModularThemeV2_CPOC_UL_BOringssl.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MosambeeModularThemeV2_CPOC_UL_BOringssl.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MosambeeModularThemeV2_CPOC_UL_BOringssl.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/MosambeeModularThemeV2_CPOC_UL_BOringssl.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/MosambeeModularThemeV2_CPOC_UL_BOringssl.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/MosambeeModularThemeV2_CPOC_UL_BOringssl.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/MosambeeModularThemeV2_CPOC_UL_BOringssl.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/MosambeeModularThemeV2_CPOC_UL_BOringssl.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/MosambeeModularThemeV2_CPOC_UL_BOringssl.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/MosambeeModularThemeV2_CPOC_UL_BOringssl.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/MosambeeModularThemeV2_CPOC_UL_BOringssl.library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

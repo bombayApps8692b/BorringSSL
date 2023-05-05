@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+
+    <Spinner
+        android:textAlignment="center"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinCardType"
+        android:entries="@array/cardType"
+        android:prompt="@string/choose_cardType"
+        />
+
+    <com.ui.MEditText
+        android:focusable="false"
+        android:clickable="true"
+        android:editable="false"
+        android:id="@+id/ettxn_date"
+        android:layout_width="450dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/box"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/txn_date"
+        android:inputType="number"
+        android:padding="10dp"
+        android:textCursorDrawable="@drawable/my_cursor"
+        android:textSize="20sp" />
+
+    <com.ui.MEditText
+        android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890"
+        android:maxLength="6"
+        android:id="@+id/etapproval_code"
+        android:layout_width="450dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/box"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/appr_code"
+        android:inputType="textCapWords"
+        android:padding="10dp"
+        android:textCursorDrawable="@drawable/my_cursor"
+        android:textSize="20sp" />
+
+    <com.ui.MEditText
+        android:id="@+id/ettxn_amount"
+        android:layout_width="450dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/box"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/txn_amount"
+        android:inputType="numberDecimal"
+        android:padding="10dp"
+        android:textCursorDrawable="@drawable/my_cursor"
+        android:textSize="20sp" />
+
+    <com.ui.MEditText
+        android:maxLength="16"
+        android:id="@+id/ettran_id"
+        android:layout_width="450dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/box"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/hint_TxnId"
+        android:inputType="number"
+        android:padding="10dp"
+        android:textCursorDrawable="@drawable/my_cursor"
+        android:textSize="20sp" />
+
+    <com.ui.MEditText
+        android:maxLength="12"
+        android:id="@+id/etsequence_number"
+        android:layout_width="450dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/box"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/sequence_number"
+        android:inputType="number"
+        android:padding="10dp"
+        android:textCursorDrawable="@drawable/my_cursor"
+        android:textSize="20sp" />
+
+
+    <LinearLayout
+        android:weightSum="2"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.ui.MButton
+            android:background="@color/colorPrimary"
+            android:textColor="@color/button_text"
+            android:layout_margin="10dp"
+            android:id="@+id/buttonCancel"
+            android:text="Cancel"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+        <com.ui.MButton
+            android:background="@color/colorPrimary"
+            android:textColor="@color/button_text"
+            android:layout_margin="10dp"
+            android:id="@+id/buttonRefund"
+            android:text="Refund"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
