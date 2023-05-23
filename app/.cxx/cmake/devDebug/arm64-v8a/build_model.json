@@ -5,9 +5,9 @@
     "environmentVariables": []
   },
   "cmake": {
-    "cmakeArtifactsBaseFolder": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/arm64-v8a",
-    "cmakeServerLogFile": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/arm64-v8a/cmake_server_log.txt",
-    "cmakeWrappingBaseFolder": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cxx/devDebug/arm64-v8a",
+    "cmakeArtifactsBaseFolder": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/arm64-v8a",
+    "cmakeServerLogFile": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/arm64-v8a/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cxx/devDebug/arm64-v8a",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -15,13 +15,13 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/arm64-v8a",
-      "cmakeToolchain": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
-      "cmakeExecutable": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+      "buildRoot": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/arm64-v8a",
+      "cmakeToolchain": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+      "cmakeExecutable": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
       "variables": [
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/prefab/arm64-v8a/prefab"
+          "value": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/prefab/arm64-v8a/prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -29,7 +29,7 @@
         },
         {
           "name": "CMAKE_TOOLCHAIN_FILE",
-          "value": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake"
+          "value": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake"
         },
         {
           "name": "ANDROID_ABI",
@@ -37,7 +37,7 @@
         },
         {
           "name": "ANDROID_NDK",
-          "value": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669"
+          "value": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669"
         },
         {
           "name": "ANDROID_PLATFORM",
@@ -49,7 +49,7 @@
         },
         {
           "name": "CMAKE_ANDROID_NDK",
-          "value": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669"
+          "value": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669"
         },
         {
           "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
@@ -57,11 +57,11 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build/intermediates/cmake/devDebug/obj/arm64-v8a"
+          "value": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build/intermediates/cmake/devDebug/obj/arm64-v8a"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
-          "value": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
+          "value": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
         },
         {
           "name": "CMAKE_SYSTEM_NAME",
@@ -74,14 +74,14 @@
       ]
     }
   },
-  "cxxBuildFolder": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/arm64-v8a",
+  "cxxBuildFolder": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/arm64-v8a",
   "info": {
     "abi": "ARM64_V8A",
     "bitness": 64,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/arm64-v8a",
+  "originalCxxBuildFolder": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/arm64-v8a",
   "variant": {
     "buildSystemArgumentList": [],
     "buildTargetSet": [],
@@ -95,24 +95,24 @@
     "module": {
       "buildSystem": "CMAKE",
       "cmake": {
-        "cmakeExe": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
+        "cmakeExe": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
         "minimumCmakeVersion": "3.10.2",
-        "ninjaExe": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
+        "ninjaExe": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
       },
-      "cmakeToolchainFile": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
-      "cxxFolder": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx",
+      "cmakeToolchainFile": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+      "cxxFolder": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx",
       "gradleModulePathName": ":app",
-      "intermediatesFolder": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build/intermediates",
-      "makeFile": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
-      "moduleBuildFile": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build.gradle",
-      "moduleRootFolder": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app",
+      "intermediatesFolder": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build/intermediates",
+      "makeFile": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
+      "moduleBuildFile": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build.gradle",
+      "moduleRootFolder": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
         "X86",
         "X86_64"
       ],
-      "ndkFolder": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669",
+      "ndkFolder": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669",
       "ndkMetaAbiList": [
         {
           "abi": "ARMEABI_V7A",
@@ -169,38 +169,36 @@
       "ndkDefaultStl": "LIBCXX_STATIC",
       "ndkVersion": "21.0.6113669",
       "project": {
-        "compilerSettingsCacheFolder": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/.cxx",
-        "cxxFolder": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/.cxx",
+        "compilerSettingsCacheFolder": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/.cxx",
+        "cxxFolder": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/.cxx",
+        "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl",
-        "sdkFolder": "/Users/SFN/Library/Android/sdk",
+        "rootBuildGradleFolder": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl",
+        "sdkFolder": "/Users/narayan/Library/Android/sdk",
         "isPrefabEnabled": false
       },
       "splitsAbiFilterSet": [],
       "stlSharedObjectMap": {
         "LIBCXX_SHARED": {
-          "ARMEABI_V7A": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
-          "ARM64_V8A": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
-          "X86": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
-          "X86_64": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+          "ARMEABI_V7A": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
         },
         "LIBCXX_STATIC": {},
         "NONE": {},
         "SYSTEM": {}
       }
     },
-    "objFolder": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build/intermediates/cmake/devDebug/obj",
+    "objFolder": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build/intermediates/cmake/devDebug/obj",
     "variantName": "devDebug",
     "validAbiList": [
-      "ARMEABI_V7A",
-      "ARM64_V8A",
-      "X86",
-      "X86_64"
+      "ARM64_V8A"
     ],
-    "prefabDirectory": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/prefab",
+    "prefabDirectory": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/prefab",
     "prefabPackageDirectoryList": []
   },
-  "prefabFolder": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/prefab/arm64-v8a"
+  "prefabFolder": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/prefab/arm64-v8a"
 }

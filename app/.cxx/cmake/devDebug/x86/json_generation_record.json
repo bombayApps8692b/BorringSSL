@@ -2,43 +2,55 @@
   {
     "level": "INFO",
     "message": "Start JSON generation. Platform version: 26 min SDK version: x86",
-    "file": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
+    "file": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
     "tag": "devDebug|x86"
   },
   {
     "level": "INFO",
     "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
-    "file": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
+    "file": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
     "tag": "devDebug|x86"
   },
   {
     "level": "INFO",
     "message": "Trying to locate CMake in local SDK repository.",
-    "file": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
+    "file": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
     "tag": "devDebug|x86"
   },
   {
     "level": "INFO",
-    "message": "- CMake found in SDK at \u0027/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
-    "file": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
+    "message": "- CMake found in SDK at \u0027/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
+    "tag": "devDebug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.18.1\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
     "tag": "devDebug|x86"
   },
   {
     "level": "INFO",
     "message": "CMake \u00273.22.1\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
-    "file": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
+    "file": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
     "tag": "devDebug|x86"
   },
   {
     "level": "INFO",
-    "message": "JSON \u0027/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/x86/android_gradle_build.json\u0027 was up-to-date",
-    "file": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
+    "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
+    "tag": "devDebug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/x86/android_gradle_build.json\u0027 was up-to-date",
+    "file": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
     "tag": "devDebug|x86"
   },
   {
     "level": "INFO",
     "message": "JSON generation completed without problems",
-    "file": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
+    "file": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
     "tag": "devDebug|x86"
   }
 ]
