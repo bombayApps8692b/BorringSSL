@@ -1,0 +1,4 @@
+com/mosambee/MainActivity.java
+ com.mosambee.MainActivity
+com/mosambee/mpos/cpoc/BuildConfig.java
+ com.mosambee.mpos.cpoc.BuildConfig

@@ -1,0 +1,588 @@
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"supportedProtocolVersions":[{"isExperimental":true,"major":1,"minor":1}],"type":"hello"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "handshake",
+  "cookie": "gradle-cmake-cookie",
+  "protocolVersion": {
+    "isExperimental": true,
+    "major": 1,
+    "minor": 1
+  },
+  "sourceDirectory": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp",
+  "buildDirectory": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a",
+  "generator": "Ninja"
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"gradle-cmake-cookie","inReplyTo":"handshake","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {
+  "type": "configure",
+  "cacheArguments": [
+    "",
+    "-DCMAKE_C_FLAGS\u003d-ffunction-sections -fdata-sections",
+    "-DCMAKE_FIND_ROOT_PATH\u003d/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/prefab/arm64-v8a/prefab",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "-DANDROID_ABI\u003darm64-v8a",
+    "-DANDROID_NDK\u003d/Users/narayan/Library/Android/sdk/ndk/21.0.6113669",
+    "-DANDROID_PLATFORM\u003dandroid-19",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a",
+    "-DCMAKE_ANDROID_NDK\u003d/Users/narayan/Library/Android/sdk/ndk/21.0.6113669",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/build/intermediates/cmake/debug/obj/arm64-v8a",
+    "-DCMAKE_MAKE_PROGRAM\u003d/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_SYSTEM_VERSION\u003d19",
+    "-DANDROID_STL\u003dnone"
+  ]
+}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working C compiler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang
+CMAKE SERVER: Check for working C compiler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":33,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working C compiler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working C compiler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works
+CMAKE SERVER: Check for working C compiler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compiler ABI info","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compiler ABI info
+CMAKE SERVER: Detecting C compiler ABI info
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":65,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compiler ABI info - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compiler ABI info - done
+CMAKE SERVER: Detecting C compiler ABI info - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compile features","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compile features
+CMAKE SERVER: Detecting C compile features
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":96,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":126,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":155,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting C compile features - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting C compile features - done
+CMAKE SERVER: Detecting C compile features - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working CXX compiler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++
+CMAKE SERVER: Check for working CXX compiler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":184,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Check for working CXX compiler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Check for working CXX compiler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works
+CMAKE SERVER: Check for working CXX compiler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compiler ABI info","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compiler ABI info
+CMAKE SERVER: Detecting CXX compiler ABI info
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":211,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compiler ABI info - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compiler ABI info - done
+CMAKE SERVER: Detecting CXX compiler ABI info - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compile features","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compile features
+CMAKE SERVER: Detecting CXX compile features
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":237,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":262,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":287,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":311,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Detecting CXX compile features - done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Detecting CXX compile features - done
+CMAKE SERVER: Detecting CXX compile features - done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":334,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":356,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"The ASM compiler identification is Clang","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: The ASM compiler identification is Clang
+CMAKE SERVER: The ASM compiler identification is Clang
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Found assembler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Found assembler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang
+CMAKE SERVER: Found assembler: /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":377,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":398,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":418,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":438,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":456,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":474,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":492,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":909,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":919,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":929,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":940,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":950,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":960,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":969,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":979,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":990,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Configuring","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","message":"Configuring done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Configuring done
+CMAKE SERVER: Configuring done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"configure","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"compute"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":100,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":200,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":300,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":400,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":500,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":600,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":700,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":800,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":900,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","progressCurrent":1000,"progressMaximum":1000,"progressMessage":"Generating","progressMinimum":0,"type":"progress"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","message":"Generating done","type":"message"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: Generating done
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"cookie":"","inReplyTo":"compute","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"cmakeInputs"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"buildFiles":[{"isCMake":true,"isTemporary":false,"sources":["/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineASMCompiler.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeASMCompiler.cmake.in","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeASMInformation.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-ASM.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-ASM.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake","/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestASMCompiler.cmake"]},{"isCMake":false,"isTemporary":false,"sources":["CMakeLists.txt","/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake","/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake","/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake","third_party/boringssl/src/CMakeLists.txt","third_party/boringssl/src/sources.cmake","third_party/boringssl/src/crypto/CMakeLists.txt","third_party/boringssl/src/crypto/fipsmodule/CMakeLists.txt","third_party/boringssl/src/crypto/test/CMakeLists.txt","third_party/boringssl/src/ssl/CMakeLists.txt","third_party/boringssl/src/ssl/test/CMakeLists.txt","third_party/boringssl/src/fipstools/CMakeLists.txt","third_party/boringssl/src/tool/CMakeLists.txt","third_party/boringssl/src/decrepit/CMakeLists.txt"]},{"isCMake":false,"isTemporary":true,"sources":["../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake","../../../.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeASMCompiler.cmake"]}],"cmakeRootDirectory":"/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/share/cmake-3.10","cookie":"","inReplyTo":"cmakeInputs","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"type":"codemodel"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+
+CMAKE SERVER: 
+
+CMAKE SERVER: [== "CMake Server" ==[
+
+CMAKE SERVER: {"configurations":[{"name":"Debug","projects":[{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src","name":"BoringSSL","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src","targets":[{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src","fileGroups":[{"isGenerated":true,"sources":["../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/CMakeFiles/run_tests","../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/CMakeFiles/run_tests.rule"]}],"fullName":"run_tests","name":"run_tests","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src","type":"UTILITY"},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src","fullName":"global_target","name":"global_target","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src","type":"UTILITY"},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src","fileGroups":[{"isGenerated":true,"sources":["../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto_test_data.cc.rule"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"}],"isGenerated":true,"language":"CXX","sources":["../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto_test_data.cc"]}],"fullName":"crypto_test_data","name":"crypto_test_data","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src","type":"OBJECT_LIBRARY"},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src","fullName":"all_tests","name":"all_tests","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src","type":"UTILITY"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/libboringssl_gtest.a"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"}],"isGenerated":false,"language":"CXX","sources":["third_party/googletest/src/gtest-all.cc"]}],"fullName":"libboringssl_gtest.a","linkerLanguage":"CXX","name":"boringssl_gtest","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/crypto_test"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto","fileGroups":[{"isGenerated":true,"sources":["../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/CMakeFiles/crypto_test_data.dir/crypto_test_data.cc.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test/CMakeFiles/boringssl_gtest_main.dir/gtest_main.cc.o"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIE  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"}],"isGenerated":false,"language":"CXX","sources":["abi_self_test.cc","asn1/asn1_test.cc","base64/base64_test.cc","buf/buf_test.cc","bio/bio_test.cc","bytestring/bytestring_test.cc","chacha/chacha_test.cc","cipher_extra/aead_test.cc","cipher_extra/cipher_test.cc","cmac/cmac_test.cc","compiler_test.cc","constant_time_test.cc","cpu-arm-linux_test.cc","curve25519/ed25519_test.cc","curve25519/spake25519_test.cc","curve25519/x25519_test.cc","ecdh_extra/ecdh_test.cc","dh/dh_test.cc","digest_extra/digest_test.cc","dsa/dsa_test.cc","err/err_test.cc","evp/evp_extra_test.cc","evp/evp_test.cc","evp/pbkdf_test.cc","evp/scrypt_test.cc","fipsmodule/aes/aes_test.cc","fipsmodule/bn/bn_test.cc","fipsmodule/ec/ec_test.cc","fipsmodule/ec/p256-x86_64_test.cc","fipsmodule/ecdsa/ecdsa_test.cc","fipsmodule/md5/md5_test.cc","fipsmodule/modes/gcm_test.cc","fipsmodule/rand/ctrdrbg_test.cc","fipsmodule/sha/sha_test.cc","hkdf/hkdf_test.cc","hmac_extra/hmac_test.cc","hrss/hrss_test.cc","impl_dispatch_test.cc","lhash/lhash_test.cc","obj/obj_test.cc","pem/pem_test.cc","pkcs7/pkcs7_test.cc","pkcs8/pkcs8_test.cc","pkcs8/pkcs12_test.cc","poly1305/poly1305_test.cc","pool/pool_test.cc","rand_extra/rand_test.cc","refcount_test.cc","rsa_extra/rsa_test.cc","self_test.cc","stack/stack_test.cc","test/file_test_gtest.cc","thread_test.cc","x509/x509_test.cc","x509/x509_time_test.cc","x509v3/tab_test.cc","x509v3/v3name_test.cc"]}],"fullName":"crypto_test","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -nostdlib++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections","linkLanguageFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info","linkLibraries":"test/libtest_support_lib.a ../libboringssl_gtest.a libcrypto.a -latomic -lm","linkerLanguage":"CXX","name":"crypto_test","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"EXECUTABLE"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/libcrypto.a"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wa,--noexecstack -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"}],"isGenerated":true,"language":"ASM","sources":["../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/chacha/chacha-armv8.S","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test/trampoline-armv8.S"]},{"isGenerated":true,"sources":["../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/bcm.c.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/is_fips.c.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/aesv8-armx.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/armv8-mont.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/ghash-neon-armv8.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/ghashv8-armx.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/sha1-armv8.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/sha256-armv8.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/sha512-armv8.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/vpaes-armv8.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/err_data.c.rule","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/chacha/chacha-armv8.S.rule","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test/trampoline-armv8.S.rule"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -Wshadow -D_XOPEN_SOURCE=700 -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"}],"isGenerated":true,"language":"C","sources":["../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/err_data.c"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -Wshadow -D_XOPEN_SOURCE=700 -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"}],"isGenerated":false,"language":"C","sources":["asn1/a_bitstr.c","asn1/a_bool.c","asn1/a_d2i_fp.c","asn1/a_dup.c","asn1/a_enum.c","asn1/a_gentm.c","asn1/a_i2d_fp.c","asn1/a_int.c","asn1/a_mbstr.c","asn1/a_object.c","asn1/a_octet.c","asn1/a_print.c","asn1/a_strnid.c","asn1/a_time.c","asn1/a_type.c","asn1/a_utctm.c","asn1/a_utf8.c","asn1/asn1_lib.c","asn1/asn1_par.c","asn1/asn_pack.c","asn1/f_enum.c","asn1/f_int.c","asn1/f_string.c","asn1/tasn_dec.c","asn1/tasn_enc.c","asn1/tasn_fre.c","asn1/tasn_new.c","asn1/tasn_typ.c","asn1/tasn_utl.c","asn1/time_support.c","base64/base64.c","bio/bio.c","bio/bio_mem.c","bio/connect.c","bio/fd.c","bio/file.c","bio/hexdump.c","bio/pair.c","bio/printf.c","bio/socket.c","bio/socket_helper.c","bn_extra/bn_asn1.c","bn_extra/convert.c","buf/buf.c","bytestring/asn1_compat.c","bytestring/ber.c","bytestring/cbb.c","bytestring/cbs.c","bytestring/unicode.c","chacha/chacha.c","cipher_extra/cipher_extra.c","cipher_extra/derive_key.c","cipher_extra/e_aesccm.c","cipher_extra/e_aesctrhmac.c","cipher_extra/e_aesgcmsiv.c","cipher_extra/e_chacha20poly1305.c","cipher_extra/e_null.c","cipher_extra/e_rc2.c","cipher_extra/e_rc4.c","cipher_extra/e_tls.c","cipher_extra/tls_cbc.c","cmac/cmac.c","conf/conf.c","cpu-aarch64-fuchsia.c","cpu-aarch64-linux.c","cpu-arm-linux.c","cpu-arm.c","cpu-intel.c","cpu-ppc64le.c","crypto.c","curve25519/spake25519.c","dh/dh.c","dh/params.c","dh/check.c","dh/dh_asn1.c","digest_extra/digest_extra.c","dsa/dsa.c","dsa/dsa_asn1.c","ecdh_extra/ecdh_extra.c","ecdsa_extra/ecdsa_asn1.c","ec_extra/ec_asn1.c","err/err.c","engine/engine.c","evp/digestsign.c","evp/evp.c","evp/evp_asn1.c","evp/evp_ctx.c","evp/p_dsa_asn1.c","evp/p_ec.c","evp/p_ec_asn1.c","evp/p_ed25519.c","evp/p_ed25519_asn1.c","evp/p_rsa.c","evp/p_rsa_asn1.c","evp/pbkdf.c","evp/print.c","evp/scrypt.c","evp/sign.c","ex_data.c","hkdf/hkdf.c","hrss/hrss.c","lhash/lhash.c","mem.c","obj/obj.c","obj/obj_xref.c","pem/pem_all.c","pem/pem_info.c","pem/pem_lib.c","pem/pem_oth.c","pem/pem_pk8.c","pem/pem_pkey.c","pem/pem_x509.c","pem/pem_xaux.c","pkcs7/pkcs7.c","pkcs7/pkcs7_x509.c","pkcs8/pkcs8.c","pkcs8/pkcs8_x509.c","pkcs8/p5_pbev2.c","poly1305/poly1305.c","poly1305/poly1305_arm.c","poly1305/poly1305_vec.c","pool/pool.c","rand_extra/deterministic.c","rand_extra/forkunsafe.c","rand_extra/fuchsia.c","rand_extra/rand_extra.c","rand_extra/windows.c","rc4/rc4.c","refcount_c11.c","refcount_lock.c","rsa_extra/rsa_asn1.c","rsa_extra/rsa_print.c","stack/stack.c","thread.c","thread_none.c","thread_pthread.c","thread_win.c","x509/a_digest.c","x509/a_sign.c","x509/a_strex.c","x509/a_verify.c","x509/algorithm.c","x509/asn1_gen.c","x509/by_dir.c","x509/by_file.c","x509/i2d_pr.c","x509/rsa_pss.c","x509/t_crl.c","x509/t_req.c","x509/t_x509.c","x509/t_x509a.c","x509/x509.c","x509/x509_att.c","x509/x509_cmp.c","x509/x509_d2.c","x509/x509_def.c","x509/x509_ext.c","x509/x509_lu.c","x509/x509_obj.c","x509/x509_r2x.c","x509/x509_req.c","x509/x509_set.c","x509/x509_trs.c","x509/x509_txt.c","x509/x509_v3.c","x509/x509_vfy.c","x509/x509_vpm.c","x509/x509cset.c","x509/x509name.c","x509/x509rset.c","x509/x509spki.c","x509/x_algor.c","x509/x_all.c","x509/x_attrib.c","x509/x_crl.c","x509/x_exten.c","x509/x_info.c","x509/x_name.c","x509/x_pkey.c","x509/x_pubkey.c","x509/x_req.c","x509/x_sig.c","x509/x_spki.c","x509/x_val.c","x509/x_x509.c","x509/x_x509a.c","x509v3/pcy_cache.c","x509v3/pcy_data.c","x509v3/pcy_lib.c","x509v3/pcy_map.c","x509v3/pcy_node.c","x509v3/pcy_tree.c","x509v3/v3_akey.c","x509v3/v3_akeya.c","x509v3/v3_alt.c","x509v3/v3_bcons.c","x509v3/v3_bitst.c","x509v3/v3_conf.c","x509v3/v3_cpols.c","x509v3/v3_crld.c","x509v3/v3_enum.c","x509v3/v3_extku.c","x509v3/v3_genn.c","x509v3/v3_ia5.c","x509v3/v3_info.c","x509v3/v3_int.c","x509v3/v3_lib.c","x509v3/v3_ncons.c","x509v3/v3_ocsp.c","x509v3/v3_pci.c","x509v3/v3_pcia.c","x509v3/v3_pcons.c","x509v3/v3_pku.c","x509v3/v3_pmaps.c","x509v3/v3_prn.c","x509v3/v3_purp.c","x509v3/v3_skey.c","x509v3/v3_sxnet.c","x509v3/v3_utl.c","../third_party/fiat/curve25519.c"]}],"fullName":"libcrypto.a","linkerLanguage":"C","name":"crypto","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule","fileGroups":[{"isGenerated":true,"sources":["../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/aesv8-armx.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/armv8-mont.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/ghash-neon-armv8.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armx.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/sha1-armv8.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/sha256-armv8.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/sha512-armv8.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv8.S.rule"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wa,--noexecstack -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/../../include"}],"isGenerated":true,"language":"ASM","sources":["../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/aesv8-armx.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/armv8-mont.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/ghash-neon-armv8.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armx.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/sha1-armv8.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/sha256-armv8.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/sha512-armv8.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv8.S"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -Wshadow -D_XOPEN_SOURCE=700 -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/../../include"}],"isGenerated":false,"language":"C","sources":["bcm.c","is_fips.c"]}],"fullName":"fipsmodule","name":"fipsmodule","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule","type":"OBJECT_LIBRARY"},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"}],"isGenerated":false,"language":"CXX","sources":["gtest_main.cc"]}],"fullName":"boringssl_gtest_main","name":"boringssl_gtest_main","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test","type":"OBJECT_LIBRARY"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test/libtest_support_lib.a"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"}],"isGenerated":false,"language":"CXX","sources":["abi_test.cc","file_test.cc","malloc.cc","test_util.cc","wycheproof_util.cc"]}],"fullName":"libtest_support_lib.a","linkerLanguage":"CXX","name":"test_support_lib","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl/ssl_test"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl","fileGroups":[{"isGenerated":true,"sources":["../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test/CMakeFiles/boringssl_gtest_main.dir/gtest_main.cc.o"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIE  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/../include"}],"isGenerated":false,"language":"CXX","sources":["span_test.cc","ssl_test.cc"]}],"fullName":"ssl_test","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -nostdlib++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections","linkLanguageFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info","linkLibraries":"../crypto/test/libtest_support_lib.a ../libboringssl_gtest.a libssl.a ../crypto/libcrypto.a -latomic -lm","linkerLanguage":"CXX","name":"ssl_test","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"EXECUTABLE"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl/libssl.a"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/../include"}],"isGenerated":false,"language":"CXX","sources":["bio_ssl.cc","d1_both.cc","d1_lib.cc","d1_pkt.cc","d1_srtp.cc","dtls_method.cc","dtls_record.cc","handoff.cc","handshake.cc","handshake_client.cc","handshake_server.cc","s3_both.cc","s3_lib.cc","s3_pkt.cc","ssl_aead_ctx.cc","ssl_asn1.cc","ssl_buffer.cc","ssl_cert.cc","ssl_cipher.cc","ssl_file.cc","ssl_key_share.cc","ssl_lib.cc","ssl_privkey.cc","ssl_session.cc","ssl_stat.cc","ssl_transcript.cc","ssl_versions.cc","ssl_x509.cc","t1_enc.cc","t1_lib.cc","tls_method.cc","tls_record.cc","tls13_both.cc","tls13_client.cc","tls13_enc.cc","tls13_server.cc"]}],"fullName":"libssl.a","linkerLanguage":"CXX","name":"ssl","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl/test","fullName":"handshaker","name":"handshaker","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test","type":"UTILITY"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl/test/bssl_shim"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl/test","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIE  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/../../include"}],"isGenerated":false,"language":"CXX","sources":["async_bio.cc","bssl_shim.cc","handshake_util.cc","packeted_bio.cc","settings_writer.cc","test_config.cc","test_state.cc"]}],"fullName":"bssl_shim","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -nostdlib++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections","linkLanguageFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info","linkLibraries":"../../crypto/test/libtest_support_lib.a ../libssl.a ../../crypto/libcrypto.a -latomic -lm","linkerLanguage":"CXX","name":"bssl_shim","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"EXECUTABLE"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/tool/bssl"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/tool","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIE  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/../include"}],"isGenerated":false,"language":"CXX","sources":["args.cc","ciphers.cc","client.cc","const.cc","digest.cc","file.cc","generate_ed25519.cc","genrsa.cc","pkcs12.cc","rand.cc","server.cc","sign.cc","speed.cc","tool.cc","transport_common.cc"]}],"fullName":"bssl","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -nostdlib++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections","linkLanguageFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info","linkLibraries":"../ssl/libssl.a ../crypto/libcrypto.a -latomic -lm","linkerLanguage":"CXX","name":"bssl","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"EXECUTABLE"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/decrepit/decrepit_test"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/decrepit","fileGroups":[{"isGenerated":true,"sources":["../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test/CMakeFiles/boringssl_gtest_main.dir/gtest_main.cc.o"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIE  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/../include"}],"isGenerated":false,"language":"CXX","sources":["blowfish/blowfish_test.cc","cast/cast_test.cc","cfb/cfb_test.cc","ripemd/ripemd_test.cc"]}],"fullName":"decrepit_test","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -nostdlib++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections","linkLanguageFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info","linkLibraries":"../crypto/test/libtest_support_lib.a ../libboringssl_gtest.a libdecrepit.a ../crypto/libcrypto.a ../ssl/libssl.a ../crypto/libcrypto.a -latomic -lm","linkerLanguage":"CXX","name":"decrepit_test","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"EXECUTABLE"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/decrepit/libdecrepit.a"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/decrepit","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -Wshadow -D_XOPEN_SOURCE=700 -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/../include"}],"isGenerated":false,"language":"C","sources":["bio/base64_bio.c","blowfish/blowfish.c","cast/cast.c","cast/cast_tables.c","cfb/cfb.c","des/cfb64ede.c","dh/dh_decrepit.c","dsa/dsa_decrepit.c","evp/dss1.c","evp/evp_do_all.c","obj/obj_decrepit.c","rc4/rc4_decrepit.c","ripemd/ripemd.c","rsa/rsa_decrepit.c","ssl/ssl_decrepit.c","x509/x509_decrepit.c","xts/xts.c"]}],"fullName":"libdecrepit.a","linkerLanguage":"CXX","name":"decrepit","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"}]},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a","name":"Project","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp","targets":[{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/build/intermediates/cmake/debug/obj/arm64-v8a/libaesgcm.so"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info  -fPIC  ","defines":["aesgcm_EXPORTS"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/include"}],"isGenerated":false,"language":"C","sources":["AesGcmCipher.c"]}],"fullName":"libaesgcm.so","linkFlags":"-Wl,-gc-sections","linkLibraries":"third_party/boringssl/src/crypto/libcrypto.a -latomic -lm","linkerLanguage":"C","name":"aesgcm","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"SHARED_LIBRARY"},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src","fileGroups":[{"isGenerated":true,"sources":["../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/CMakeFiles/run_tests","../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/CMakeFiles/run_tests.rule"]}],"fullName":"run_tests","name":"run_tests","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src","type":"UTILITY"},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src","fullName":"global_target","name":"global_target","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src","type":"UTILITY"},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src","fileGroups":[{"isGenerated":true,"sources":["../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto_test_data.cc.rule"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"}],"isGenerated":true,"language":"CXX","sources":["../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto_test_data.cc"]}],"fullName":"crypto_test_data","name":"crypto_test_data","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src","type":"OBJECT_LIBRARY"},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src","fullName":"all_tests","name":"all_tests","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src","type":"UTILITY"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/libboringssl_gtest.a"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"}],"isGenerated":false,"language":"CXX","sources":["third_party/googletest/src/gtest-all.cc"]}],"fullName":"libboringssl_gtest.a","linkerLanguage":"CXX","name":"boringssl_gtest","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/crypto_test"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto","fileGroups":[{"isGenerated":true,"sources":["../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/CMakeFiles/crypto_test_data.dir/crypto_test_data.cc.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test/CMakeFiles/boringssl_gtest_main.dir/gtest_main.cc.o"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIE  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"}],"isGenerated":false,"language":"CXX","sources":["abi_self_test.cc","asn1/asn1_test.cc","base64/base64_test.cc","buf/buf_test.cc","bio/bio_test.cc","bytestring/bytestring_test.cc","chacha/chacha_test.cc","cipher_extra/aead_test.cc","cipher_extra/cipher_test.cc","cmac/cmac_test.cc","compiler_test.cc","constant_time_test.cc","cpu-arm-linux_test.cc","curve25519/ed25519_test.cc","curve25519/spake25519_test.cc","curve25519/x25519_test.cc","ecdh_extra/ecdh_test.cc","dh/dh_test.cc","digest_extra/digest_test.cc","dsa/dsa_test.cc","err/err_test.cc","evp/evp_extra_test.cc","evp/evp_test.cc","evp/pbkdf_test.cc","evp/scrypt_test.cc","fipsmodule/aes/aes_test.cc","fipsmodule/bn/bn_test.cc","fipsmodule/ec/ec_test.cc","fipsmodule/ec/p256-x86_64_test.cc","fipsmodule/ecdsa/ecdsa_test.cc","fipsmodule/md5/md5_test.cc","fipsmodule/modes/gcm_test.cc","fipsmodule/rand/ctrdrbg_test.cc","fipsmodule/sha/sha_test.cc","hkdf/hkdf_test.cc","hmac_extra/hmac_test.cc","hrss/hrss_test.cc","impl_dispatch_test.cc","lhash/lhash_test.cc","obj/obj_test.cc","pem/pem_test.cc","pkcs7/pkcs7_test.cc","pkcs8/pkcs8_test.cc","pkcs8/pkcs12_test.cc","poly1305/poly1305_test.cc","pool/pool_test.cc","rand_extra/rand_test.cc","refcount_test.cc","rsa_extra/rsa_test.cc","self_test.cc","stack/stack_test.cc","test/file_test_gtest.cc","thread_test.cc","x509/x509_test.cc","x509/x509_time_test.cc","x509v3/tab_test.cc","x509v3/v3name_test.cc"]}],"fullName":"crypto_test","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -nostdlib++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections","linkLanguageFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info","linkLibraries":"test/libtest_support_lib.a ../libboringssl_gtest.a libcrypto.a -latomic -lm","linkerLanguage":"CXX","name":"crypto_test","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"EXECUTABLE"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/libcrypto.a"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wa,--noexecstack -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"}],"isGenerated":true,"language":"ASM","sources":["../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/chacha/chacha-armv8.S","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test/trampoline-armv8.S"]},{"isGenerated":true,"sources":["../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/bcm.c.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/is_fips.c.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/aesv8-armx.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/armv8-mont.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/ghash-neon-armv8.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/ghashv8-armx.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/sha1-armv8.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/sha256-armv8.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/sha512-armv8.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/CMakeFiles/fipsmodule.dir/vpaes-armv8.S.o","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/err_data.c.rule","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/chacha/chacha-armv8.S.rule","../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test/trampoline-armv8.S.rule"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -Wshadow -D_XOPEN_SOURCE=700 -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"}],"isGenerated":true,"language":"C","sources":["../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/err_data.c"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -Wshadow -D_XOPEN_SOURCE=700 -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"}],"isGenerated":false,"language":"C","sources":["asn1/a_bitstr.c","asn1/a_bool.c","asn1/a_d2i_fp.c","asn1/a_dup.c","asn1/a_enum.c","asn1/a_gentm.c","asn1/a_i2d_fp.c","asn1/a_int.c","asn1/a_mbstr.c","asn1/a_object.c","asn1/a_octet.c","asn1/a_print.c","asn1/a_strnid.c","asn1/a_time.c","asn1/a_type.c","asn1/a_utctm.c","asn1/a_utf8.c","asn1/asn1_lib.c","asn1/asn1_par.c","asn1/asn_pack.c","asn1/f_enum.c","asn1/f_int.c","asn1/f_string.c","asn1/tasn_dec.c","asn1/tasn_enc.c","asn1/tasn_fre.c","asn1/tasn_new.c","asn1/tasn_typ.c","asn1/tasn_utl.c","asn1/time_support.c","base64/base64.c","bio/bio.c","bio/bio_mem.c","bio/connect.c","bio/fd.c","bio/file.c","bio/hexdump.c","bio/pair.c","bio/printf.c","bio/socket.c","bio/socket_helper.c","bn_extra/bn_asn1.c","bn_extra/convert.c","buf/buf.c","bytestring/asn1_compat.c","bytestring/ber.c","bytestring/cbb.c","bytestring/cbs.c","bytestring/unicode.c","chacha/chacha.c","cipher_extra/cipher_extra.c","cipher_extra/derive_key.c","cipher_extra/e_aesccm.c","cipher_extra/e_aesctrhmac.c","cipher_extra/e_aesgcmsiv.c","cipher_extra/e_chacha20poly1305.c","cipher_extra/e_null.c","cipher_extra/e_rc2.c","cipher_extra/e_rc4.c","cipher_extra/e_tls.c","cipher_extra/tls_cbc.c","cmac/cmac.c","conf/conf.c","cpu-aarch64-fuchsia.c","cpu-aarch64-linux.c","cpu-arm-linux.c","cpu-arm.c","cpu-intel.c","cpu-ppc64le.c","crypto.c","curve25519/spake25519.c","dh/dh.c","dh/params.c","dh/check.c","dh/dh_asn1.c","digest_extra/digest_extra.c","dsa/dsa.c","dsa/dsa_asn1.c","ecdh_extra/ecdh_extra.c","ecdsa_extra/ecdsa_asn1.c","ec_extra/ec_asn1.c","err/err.c","engine/engine.c","evp/digestsign.c","evp/evp.c","evp/evp_asn1.c","evp/evp_ctx.c","evp/p_dsa_asn1.c","evp/p_ec.c","evp/p_ec_asn1.c","evp/p_ed25519.c","evp/p_ed25519_asn1.c","evp/p_rsa.c","evp/p_rsa_asn1.c","evp/pbkdf.c","evp/print.c","evp/scrypt.c","evp/sign.c","ex_data.c","hkdf/hkdf.c","hrss/hrss.c","lhash/lhash.c","mem.c","obj/obj.c","obj/obj_xref.c","pem/pem_all.c","pem/pem_info.c","pem/pem_lib.c","pem/pem_oth.c","pem/pem_pk8.c","pem/pem_pkey.c","pem/pem_x509.c","pem/pem_xaux.c","pkcs7/pkcs7.c","pkcs7/pkcs7_x509.c","pkcs8/pkcs8.c","pkcs8/pkcs8_x509.c","pkcs8/p5_pbev2.c","poly1305/poly1305.c","poly1305/poly1305_arm.c","poly1305/poly1305_vec.c","pool/pool.c","rand_extra/deterministic.c","rand_extra/forkunsafe.c","rand_extra/fuchsia.c","rand_extra/rand_extra.c","rand_extra/windows.c","rc4/rc4.c","refcount_c11.c","refcount_lock.c","rsa_extra/rsa_asn1.c","rsa_extra/rsa_print.c","stack/stack.c","thread.c","thread_none.c","thread_pthread.c","thread_win.c","x509/a_digest.c","x509/a_sign.c","x509/a_strex.c","x509/a_verify.c","x509/algorithm.c","x509/asn1_gen.c","x509/by_dir.c","x509/by_file.c","x509/i2d_pr.c","x509/rsa_pss.c","x509/t_crl.c","x509/t_req.c","x509/t_x509.c","x509/t_x509a.c","x509/x509.c","x509/x509_att.c","x509/x509_cmp.c","x509/x509_d2.c","x509/x509_def.c","x509/x509_ext.c","x509/x509_lu.c","x509/x509_obj.c","x509/x509_r2x.c","x509/x509_req.c","x509/x509_set.c","x509/x509_trs.c","x509/x509_txt.c","x509/x509_v3.c","x509/x509_vfy.c","x509/x509_vpm.c","x509/x509cset.c","x509/x509name.c","x509/x509rset.c","x509/x509spki.c","x509/x_algor.c","x509/x_all.c","x509/x_attrib.c","x509/x_crl.c","x509/x_exten.c","x509/x_info.c","x509/x_name.c","x509/x_pkey.c","x509/x_pubkey.c","x509/x_req.c","x509/x_sig.c","x509/x_spki.c","x509/x_val.c","x509/x_x509.c","x509/x_x509a.c","x509v3/pcy_cache.c","x509v3/pcy_data.c","x509v3/pcy_lib.c","x509v3/pcy_map.c","x509v3/pcy_node.c","x509v3/pcy_tree.c","x509v3/v3_akey.c","x509v3/v3_akeya.c","x509v3/v3_alt.c","x509v3/v3_bcons.c","x509v3/v3_bitst.c","x509v3/v3_conf.c","x509v3/v3_cpols.c","x509v3/v3_crld.c","x509v3/v3_enum.c","x509v3/v3_extku.c","x509v3/v3_genn.c","x509v3/v3_ia5.c","x509v3/v3_info.c","x509v3/v3_int.c","x509v3/v3_lib.c","x509v3/v3_ncons.c","x509v3/v3_ocsp.c","x509v3/v3_pci.c","x509v3/v3_pcia.c","x509v3/v3_pcons.c","x509v3/v3_pku.c","x509v3/v3_pmaps.c","x509v3/v3_prn.c","x509v3/v3_purp.c","x509v3/v3_skey.c","x509v3/v3_sxnet.c","x509v3/v3_utl.c","../third_party/fiat/curve25519.c"]}],"fullName":"libcrypto.a","linkerLanguage":"C","name":"crypto","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule","fileGroups":[{"isGenerated":true,"sources":["../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/aesv8-armx.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/armv8-mont.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/ghash-neon-armv8.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armx.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/sha1-armv8.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/sha256-armv8.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/sha512-armv8.S.rule","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv8.S.rule"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wa,--noexecstack -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/../../include"}],"isGenerated":true,"language":"ASM","sources":["../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/aesv8-armx.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/armv8-mont.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/ghash-neon-armv8.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armx.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/sha1-armv8.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/sha256-armv8.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/sha512-armv8.S","../../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/fipsmodule/vpaes-armv8.S"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -Wshadow -D_XOPEN_SOURCE=700 -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/../../include"}],"isGenerated":false,"language":"C","sources":["bcm.c","is_fips.c"]}],"fullName":"fipsmodule","name":"fipsmodule","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule","type":"OBJECT_LIBRARY"},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"}],"isGenerated":false,"language":"CXX","sources":["gtest_main.cc"]}],"fullName":"boringssl_gtest_main","name":"boringssl_gtest_main","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test","type":"OBJECT_LIBRARY"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test/libtest_support_lib.a"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include"}],"isGenerated":false,"language":"CXX","sources":["abi_test.cc","file_test.cc","malloc.cc","test_util.cc","wycheproof_util.cc"]}],"fullName":"libtest_support_lib.a","linkerLanguage":"CXX","name":"test_support_lib","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl/ssl_test"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl","fileGroups":[{"isGenerated":true,"sources":["../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test/CMakeFiles/boringssl_gtest_main.dir/gtest_main.cc.o"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIE  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/../include"}],"isGenerated":false,"language":"CXX","sources":["span_test.cc","ssl_test.cc"]}],"fullName":"ssl_test","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -nostdlib++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections","linkLanguageFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info","linkLibraries":"../crypto/test/libtest_support_lib.a ../libboringssl_gtest.a libssl.a ../crypto/libcrypto.a -latomic -lm","linkerLanguage":"CXX","name":"ssl_test","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"EXECUTABLE"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl/libssl.a"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/../include"}],"isGenerated":false,"language":"CXX","sources":["bio_ssl.cc","d1_both.cc","d1_lib.cc","d1_pkt.cc","d1_srtp.cc","dtls_method.cc","dtls_record.cc","handoff.cc","handshake.cc","handshake_client.cc","handshake_server.cc","s3_both.cc","s3_lib.cc","s3_pkt.cc","ssl_aead_ctx.cc","ssl_asn1.cc","ssl_buffer.cc","ssl_cert.cc","ssl_cipher.cc","ssl_file.cc","ssl_key_share.cc","ssl_lib.cc","ssl_privkey.cc","ssl_session.cc","ssl_stat.cc","ssl_transcript.cc","ssl_versions.cc","ssl_x509.cc","t1_enc.cc","t1_lib.cc","tls_method.cc","tls_record.cc","tls13_both.cc","tls13_client.cc","tls13_enc.cc","tls13_server.cc"]}],"fullName":"libssl.a","linkerLanguage":"CXX","name":"ssl","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"},{"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl/test","fullName":"handshaker","name":"handshaker","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test","type":"UTILITY"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl/test/bssl_shim"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/ssl/test","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIE  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/../../include"}],"isGenerated":false,"language":"CXX","sources":["async_bio.cc","bssl_shim.cc","handshake_util.cc","packeted_bio.cc","settings_writer.cc","test_config.cc","test_state.cc"]}],"fullName":"bssl_shim","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -nostdlib++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections","linkLanguageFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info","linkLibraries":"../../crypto/test/libtest_support_lib.a ../libssl.a ../../crypto/libcrypto.a -latomic -lm","linkerLanguage":"CXX","name":"bssl_shim","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"EXECUTABLE"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/tool/bssl"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/tool","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIE  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/../include"}],"isGenerated":false,"language":"CXX","sources":["args.cc","ciphers.cc","client.cc","const.cc","digest.cc","file.cc","generate_ed25519.cc","genrsa.cc","pkcs12.cc","rand.cc","server.cc","sign.cc","speed.cc","tool.cc","transport_common.cc"]}],"fullName":"bssl","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -nostdlib++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections","linkLanguageFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info","linkLibraries":"../ssl/libssl.a ../crypto/libcrypto.a -latomic -lm","linkerLanguage":"CXX","name":"bssl","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"EXECUTABLE"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/decrepit/decrepit_test"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/decrepit","fileGroups":[{"isGenerated":true,"sources":["../../../../../../../.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/crypto/test/CMakeFiles/boringssl_gtest_main.dir/gtest_main.cc.o"]},{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info  -fPIE  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/../include"}],"isGenerated":false,"language":"CXX","sources":["blowfish/blowfish_test.cc","cast/cast_test.cc","cfb/cfb_test.cc","ripemd/ripemd_test.cc"]}],"fullName":"decrepit_test","linkFlags":"-Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -nostdlib++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,--gc-sections","linkLanguageFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -nostdinc++  -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info","linkLibraries":"../crypto/test/libtest_support_lib.a ../libboringssl_gtest.a libdecrepit.a ../crypto/libcrypto.a ../ssl/libssl.a ../crypto/libcrypto.a -latomic -lm","linkerLanguage":"CXX","name":"decrepit_test","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"EXECUTABLE"},{"artifacts":["/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/decrepit/libdecrepit.a"],"buildDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a/third_party/boringssl/src/decrepit","fileGroups":[{"compileFlags":"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -Wshadow -D_XOPEN_SOURCE=700 -O0 -fno-limit-debug-info  -fPIC  ","defines":["BORINGSSL_IMPLEMENTATION"],"includePath":[{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include"},{"path":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/../include"}],"isGenerated":false,"language":"C","sources":["bio/base64_bio.c","blowfish/blowfish.c","cast/cast.c","cast/cast_tables.c","cfb/cfb.c","des/cfb64ede.c","dh/dh_decrepit.c","dsa/dsa_decrepit.c","evp/dss1.c","evp/evp_do_all.c","obj/obj_decrepit.c","rc4/rc4_decrepit.c","ripemd/ripemd.c","rsa/rsa_decrepit.c","ssl/ssl_decrepit.c","x509/x509_decrepit.c","xts/xts.c"]}],"fullName":"libdecrepit.a","linkerLanguage":"CXX","name":"decrepit","sourceDirectory":"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit","sysroot":"/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot","type":"STATIC_LIBRARY"}]}]}],"cookie":"","inReplyTo":"codemodel","type":"reply"}
+
+CMAKE SERVER: ]== "CMake Server" ==]
+

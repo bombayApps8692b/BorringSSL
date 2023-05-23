@@ -1,0 +1,416 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/customdialog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <!-- <ImageView
+                android:id="@+id/header"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/mosambee_logo" /> -->
+
+            <TextView
+                android:id="@+id/tv_header_product_details"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="4dp"
+                android:gravity="center"
+                android:text="PRODUCT DETAILS"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/device_status"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <View
+                android:id="@+id/textView1"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/black"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="20dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1.5"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:text="Program Code"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_programCode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="20dp"
+                android:visibility="gone"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_weight="1.5"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:text="Product Desc. "
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_pDesc"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="20dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1.5"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:text="Processing Fee"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_processingfee"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            
+            
+
+           <!--  <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="20dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1.5"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:text="Program Code"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_programCode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+            </LinearLayout> -->
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="20dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1.5"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:text="CashBack Amount"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_cashBackAmount"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="20dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1.5"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:text="CashBack Percentage"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_cashbackPercentage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            
+            
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="20dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_weight="1.5"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:text="Amount "
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_amount"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:singleLine="true"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="20dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_weight="1.5"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:text="ProductCode "
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/et_productCode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:singleLine="true"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:maxLength="15"
+                     android:inputType="textPersonName"
+                  android:hint="Product Code"
+                    android:textStyle="bold" />
+            </LinearLayout>
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="20dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_weight="1.5"
+                    android:gravity="center_vertical"
+                    android:padding="3dp"
+                    android:text="Product IMEI "
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_productImei"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|center_vertical"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:singleLine="true"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/device_status"
+                    android:textSize="14sp"
+                   
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+             <Button
+                            android:id="@+id/button_continue"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                              android:layout_marginTop="8dp"
+                          
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_gravity="center"
+                            android:textStyle="bold"
+                            android:background="@drawable/button_dialog"
+                            android:gravity="center"
+                            android:text="Continue"
+                            android:textColor="?attr/dialogTextColor"
+                            android:textSize="15sp" />
+
+           
+           <Button
+                            android:id="@+id/button_cancel"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                             android:layout_marginTop="8dp"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_gravity="center"
+                            android:textStyle="bold"
+                            android:background="@drawable/button_dialog"
+                            android:gravity="center"
+                            android:text="@string/cancel"
+                            android:textColor="?attr/dialogTextColor"
+                            android:textSize="15sp" />
+           
+           <Button
+                            android:id="@+id/button_directSaleWithourEmi"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                           android:layout_marginTop="8dp"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="15dp"
+                            android:layout_gravity="center"
+                            android:textStyle="bold"
+                            android:background="@drawable/button_dialog"
+                            android:gravity="center"
+                            android:text="@string/standardSale"
+                            android:textColor="?attr/dialogTextColor"
+                            android:textSize="15sp" />
+           
+        </LinearLayout>
+    </ScrollView>
+
+   
+
+</RelativeLayout>

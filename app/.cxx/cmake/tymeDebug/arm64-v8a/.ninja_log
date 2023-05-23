@@ -1,0 +1,14 @@
+# ninja log v5
+0	76	1673936804	CMakeFiles/OpenSSLApi.dir/src/main/c/OpenSSLApi.c.o	b79a7fc7878eff70
+0	77	1673936804	CMakeFiles/keys.dir/src/main/c/keys.c.o	912f9f48549c12fe
+0	98	1673936804	CMakeFiles/native-lib.dir/src/main/c/native-lib.c.o	e2234afaa56dbaa7
+76	122	1673936804	../../../../build/intermediates/cmake/tymeDebug/obj/arm64-v8a/libOpenSSLApi.so	9013c9c15e88e896
+77	122	1673936804	../../../../build/intermediates/cmake/tymeDebug/obj/arm64-v8a/libkeys.so	b8bef96d82b3cf6c
+98	141	1673936804	../../../../build/intermediates/cmake/tymeDebug/obj/arm64-v8a/libnative-lib.so	2213b6b3cb19fec1
+0	14	0	clean	452fc6a661cbc723
+0	102	1673937107	CMakeFiles/OpenSSLApi.dir/src/main/c/OpenSSLApi.c.o	b79a7fc7878eff70
+1	104	1673937107	CMakeFiles/keys.dir/src/main/c/keys.c.o	912f9f48549c12fe
+1	129	1673937107	CMakeFiles/native-lib.dir/src/main/c/native-lib.c.o	e2234afaa56dbaa7
+102	188	1673937107	../../../../build/intermediates/cmake/tymeDebug/obj/arm64-v8a/libOpenSSLApi.so	9013c9c15e88e896
+104	188	1673937107	../../../../build/intermediates/cmake/tymeDebug/obj/arm64-v8a/libkeys.so	b8bef96d82b3cf6c
+129	223	1673937107	../../../../build/intermediates/cmake/tymeDebug/obj/arm64-v8a/libnative-lib.so	2213b6b3cb19fec1

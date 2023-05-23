@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+    <RelativeLayout
+        android:background="@color/white"
+        android:id="@+id/ivSliderHeading"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:paddingLeft="10dp"
+        android:paddingBottom="5dp"
+        >
+        <TextView
+            android:id="@+id/tvMerchantNameSlider"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="?attr/dialogTextColor"
+            android:text="Merchant Name"
+            android:visibility="gone"
+            android:layout_above="@+id/tvMIDSlider"
+            android:textSize="20sp"
+            />
+        <TextView
+            android:id="@+id/tvMIDSlider"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="?attr/dialogTextColor"
+            android:text="TID"
+            android:visibility="gone"
+            android:layout_alignParentBottom="true"
+            android:textSize="20sp"/>
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:background="?attr/colorPrimaryTheme"
+        android:paddingTop="5dp">
+    <ImageView
+        android:id="@+id/imgTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/clock"
+        />
+
+    <com.ui.MTextViewRegular
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/txtTitle1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:textSize="30sp"
+        android:textColor="?attr/dialogTextColor"/>
+    </LinearLayout>
+
+</LinearLayout>

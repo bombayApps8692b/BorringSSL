@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/etPayerName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/box"
+                android:padding="10dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="10dp"
+                android:hint="Payer Name"
+                android:singleLine="true"
+                android:textCursorDrawable="@drawable/my_cursor"
+                android:ems="10" >
+                <requestFocus />
+            </EditText>
+            <EditText
+                android:id="@+id/etchequeNo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/box"
+                android:padding="10dp"
+                android:paddingRight="15dp"
+                android:layout_below="@+id/etPayerName"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="10dp"
+                android:ems="10"
+                android:textCursorDrawable="@drawable/my_cursor"
+                android:singleLine="true"
+                android:hint="Cheque/Coupon No" >
+            </EditText>
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/etchequeNo"
+                android:layout_centerVertical="true"
+                android:textStyle="bold"
+                android:padding="12dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp"
+                android:textColor="?attr/dialogTextColor"
+                android:textSize="20sp"
+                android:text="SUBMIT" />
+    </RelativeLayout>
+</LinearLayout>

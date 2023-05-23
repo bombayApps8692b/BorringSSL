@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Check the "res/values/attrs.xml" file for where these style names are first defined.  -->
+    <!--  ======  Default Mosambee Theme   =======   -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:textAllCaps">false</item>
+        <item name="colorPrimary">@color/colorPrimaryDefault</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="dialogTextColor">@color/dialogTextColorDefault</item>
+        <item name="menuIcon">@style/menuIconDefault</item>
+        <item name="colorPrimaryTheme">@color/colorPrimaryThemeDefault</item>
+        <item name="sliderImage">@style/sliderImageDefault</item>
+        <item name="themeLogo">@style/themeLogoDefault</item>
+        <item name="aboutLogo">@style/aboutLogoDefault</item>
+    </style>
+
+
+    <!--  ========   Tyme Theme   ===============   -->
+    <style name="AppThemeTyme" parent="Theme.AppCompat.Light">
+        <item name="android:textAllCaps">false</item>
+        <item name="colorPrimary">@color/colorPrimaryTyme</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkTyme</item>sliderImage
+        <item name="colorAccent">@color/colorAccentTyme</item>
+        <item name="dialogTextColor">@color/dialogTextColorTyme</item>
+        <item name="menuIcon">@style/menuIconTyme</item>
+        <item name="colorPrimaryTheme">@color/colorPrimaryThemeTyme</item>
+        <item name="sliderImage">@style/sliderImageTyme</item>
+        <item name="themeLogo">@style/themeLogoTyme</item>
+        <item name="aboutLogo">@style/aboutLogoTyme</item>
+    </style>
+
+
+
+    <!--  ========   Network Theme   ===============   -->
+    <style name="AppThemeNetwork" parent="Theme.AppCompat.Light">
+        <item name="android:textAllCaps">false</item>
+        <item name="colorPrimary">@color/colorPrimaryNetwork</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkNetwork</item>
+        <item name="colorAccent">@color/colorAccentNetwork</item>
+        <item name="dialogTextColor">@color/dialogTextColorNetwork</item>
+        <item name="menuIcon">@style/menuIconNetwork</item>
+        <item name="colorPrimaryTheme">@color/colorPrimaryThemeNetwork</item>
+        <item name="sliderImage">@style/sliderImageNetwork</item>
+        <item name="themeLogo">@style/themeLogoNetwork</item>
+        <item name="aboutLogo">@style/aboutLogoNetwork</item>
+    </style>
+
+
+    <!--  ========   HDFC Theme   ===============   -->
+    <style name="AppThemeHDFC" parent="Theme.AppCompat.Light">
+        <item name="android:textAllCaps">false</item>
+        <item name="colorPrimary">@color/colorPrimaryHDFC</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkHDFC</item>
+        <item name="colorAccent">@color/colorAccentHDFC</item>
+        <item name="dialogTextColor">@color/dialogTextColorHDFC</item>
+        <item name="menuIcon">@style/menuIconHDFC</item>
+        <item name="colorPrimaryTheme">@color/colorPrimaryThemeHDFC</item>
+        <item name="sliderImage">@style/sliderImageHDFC</item>
+        <item name="themeLogo">@style/themeLogoHDFC</item>
+        <item name="aboutLogo">@style/aboutLogoHDFC</item>
+    </style>
+
+    <!--  ========   YES BANK Theme   ===============   -->
+    <style name="AppThemeYESBank" parent="Theme.AppCompat.Light">
+        <item name="android:textAllCaps">false</item>
+        <item name="colorPrimary">@color/colorPrimaryYES</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkYES</item>
+        <item name="colorAccent">@color/colorAccentYES</item>
+        <item name="dialogTextColor">@color/dialogTextColorYES</item>
+        <item name="menuIcon">@style/menuIconYESBank</item>
+        <item name="colorPrimaryTheme">@color/colorPrimaryThemeYES</item>
+        <item name="sliderImage">@style/sliderImageYESBank</item>
+        <item name="themeLogo">@style/themeLogoYESBank</item>
+        <item name="aboutLogo">@style/aboutLogoYESBank</item>
+    </style>
+
+    <!--  ========   YES KOTAK Theme   ===============   -->
+    <style name="AppThemeKOTAK" parent="Theme.AppCompat.Light">
+        <item name="android:textAllCaps">false</item>
+        <item name="colorPrimary">@color/colorPrimaryKOTAK</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkKOTAK</item>
+        <item name="colorAccent">@color/colorAccentKOTAK</item>
+        <item name="dialogTextColor">@color/dialogTextColorKOTAK</item>
+        <item name="menuIcon">@style/menuIconKOTAK</item>
+        <item name="colorPrimaryTheme">@color/colorPrimaryThemeKOTAK</item>
+        <item name="sliderImage">@style/sliderImageKOTAK</item>
+        <item name="themeLogo">@style/themeLogoKOTAK</item>
+        <item name="aboutLogo">@style/aboutLogoKOTAK</item>
+    </style>
+
+
+
+</resources>

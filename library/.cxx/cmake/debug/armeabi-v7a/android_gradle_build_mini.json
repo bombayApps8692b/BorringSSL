@@ -1,0 +1,124 @@
+{
+  "buildFiles": [
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/CMakeLists.txt",
+    "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/sources.cmake",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/fipstools/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "crypto_test-Debug-armeabi-v7a": {
+      "artifactName": "crypto_test",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" crypto_test",
+      "abi": "armeabi-v7a",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/crypto_test",
+      "runtimeFiles": []
+    },
+    "crypto-Debug-armeabi-v7a": {
+      "artifactName": "crypto",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" crypto",
+      "abi": "armeabi-v7a",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/libcrypto.a",
+      "runtimeFiles": []
+    },
+    "run_tests-Debug-armeabi-v7a": {
+      "artifactName": "run_tests",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" run_tests",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "ssl-Debug-armeabi-v7a": {
+      "artifactName": "ssl",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" ssl",
+      "abi": "armeabi-v7a",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/ssl/libssl.a",
+      "runtimeFiles": []
+    },
+    "bssl_shim-Debug-armeabi-v7a": {
+      "artifactName": "bssl_shim",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" bssl_shim",
+      "abi": "armeabi-v7a",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/ssl/test/bssl_shim",
+      "runtimeFiles": []
+    },
+    "test_support_lib-Debug-armeabi-v7a": {
+      "artifactName": "test_support_lib",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" test_support_lib",
+      "abi": "armeabi-v7a",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/test/libtest_support_lib.a",
+      "runtimeFiles": []
+    },
+    "boringssl_gtest_main-Debug-armeabi-v7a": {
+      "artifactName": "boringssl_gtest_main",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" boringssl_gtest_main",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "bssl-Debug-armeabi-v7a": {
+      "artifactName": "bssl",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" bssl",
+      "abi": "armeabi-v7a",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/tool/bssl",
+      "runtimeFiles": []
+    },
+    "decrepit_test-Debug-armeabi-v7a": {
+      "artifactName": "decrepit_test",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" decrepit_test",
+      "abi": "armeabi-v7a",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/decrepit/decrepit_test",
+      "runtimeFiles": []
+    },
+    "boringssl_gtest-Debug-armeabi-v7a": {
+      "artifactName": "boringssl_gtest",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" boringssl_gtest",
+      "abi": "armeabi-v7a",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/libboringssl_gtest.a",
+      "runtimeFiles": []
+    },
+    "fipsmodule-Debug-armeabi-v7a": {
+      "artifactName": "fipsmodule",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" fipsmodule",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "ssl_test-Debug-armeabi-v7a": {
+      "artifactName": "ssl_test",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" ssl_test",
+      "abi": "armeabi-v7a",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/ssl/ssl_test",
+      "runtimeFiles": []
+    },
+    "aesgcm-Debug-armeabi-v7a": {
+      "artifactName": "aesgcm",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" aesgcm",
+      "abi": "armeabi-v7a",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/build/intermediates/cmake/debug/obj/armeabi-v7a/libaesgcm.so",
+      "runtimeFiles": []
+    },
+    "decrepit-Debug-armeabi-v7a": {
+      "artifactName": "decrepit",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" decrepit",
+      "abi": "armeabi-v7a",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/decrepit/libdecrepit.a",
+      "runtimeFiles": []
+    },
+    "crypto_test_data-Debug-armeabi-v7a": {
+      "artifactName": "crypto_test_data",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" crypto_test_data",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    }
+  }
+}

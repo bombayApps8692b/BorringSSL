@@ -1,0 +1,124 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <!-- Application theme. -->
+
+    <!--  ========STYLE for DEFAULT=======   -->
+    <style name="menuIconDefault">
+        <item name="android:background">@drawable/ic_menu</item>
+    </style>
+    <style name="sliderImageDefault">
+        <item name="android:background">@drawable/ic_slider_default</item>
+    </style>
+    <style name="themeLogoDefault">
+        <item name="android:background">@drawable/mosambee_logo</item>
+    </style>
+    <style name="aboutLogoDefault">
+        <item name="android:background">@color/transparent</item>
+    </style>
+
+
+    <!--  ========STYLE for Network==========   -->
+    <style name="menuIconTyme">
+        <item name="android:background">@drawable/ic_tyme</item>
+    </style>
+    <style name="sliderImageTyme">
+        <item name="android:background">@drawable/ic_slider_tyme</item>
+    </style>
+    <style name="themeLogoTyme">
+    <item name="android:background">@drawable/theme_logo_tyme</item>
+</style>
+    <style name="aboutLogoTyme">
+        <item name="android:background">@drawable/theme_logo_tyme</item>
+    </style>
+
+    <!--  ========STYLE for Network==========   -->
+    <style name="menuIconNetwork">
+        <item name="android:background">@drawable/net_logo</item>
+    </style>
+    <style name="sliderImageNetwork">
+        <item name="android:background">@drawable/ic_slider_network</item>
+    </style>
+    <style name="themeLogoNetwork">
+        <item name="android:background">@drawable/theme_logo_network</item>
+    </style>
+    <style name="aboutLogoNetwork">
+        <item name="android:background">@drawable/theme_logo_network</item>
+    </style>
+
+    <!--  ========STYLE for HDFC==========   -->
+    <style name="menuIconHDFC">
+        <item name="android:background">@drawable/ic_menu_hdfc</item>
+    </style>
+    <style name="sliderImageHDFC">
+        <item name="android:background">@drawable/ic_slider_hdfc</item>
+    </style>
+    <style name="themeLogoHDFC">
+        <item name="android:background">@drawable/theme_logo_hdfc</item>
+    </style>
+    <style name="aboutLogoHDFC">
+        <item name="android:background">@drawable/theme_logo_hdfc</item>
+    </style>
+
+
+    <!--  ========STYLE for YES BANK==========   -->
+    <style name="menuIconYESBank">
+        <item name="android:background">@drawable/ic_menu_yesbank</item>
+    </style>
+    <style name="sliderImageYESBank">
+        <item name="android:background">@drawable/ic_slider_yesbank</item>
+    </style>
+    <style name="themeLogoYESBank">
+        <item name="android:background">@drawable/theme_logo_yesbank</item>
+    </style>
+    <style name="aboutLogoYESBank">
+        <item name="android:background">@drawable/theme_logo_yesbank</item>
+    </style>
+
+
+    <!--  ========STYLE for YES KOTAK==========   -->
+    <style name="menuIconKOTAK">
+        <item name="android:background">@drawable/ic_menu_kotak</item>
+    </style>
+    <style name="sliderImageKOTAK">
+        <item name="android:background">@drawable/ic_slider_kotak</item>
+    </style>
+    <style name="themeLogoKOTAK">
+        <item name="android:background">@drawable/theme_logo_kotak</item>
+    </style>
+    <style name="aboutLogoKOTAK">
+        <item name="android:background">@drawable/theme_logo_kotak</item>
+    </style>
+
+    <!--For Alert Dialog-->
+    <style name="MosambeeDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent_white</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+
+    <!--For Zing package-->
+    <style name="ResultButton" parent="@android:style/Widget.Holo.Button.Borderless.Small">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <!--For Zing package-->
+    <style name="ShareButton" parent="@android:style/Widget.Holo.Button.Borderless.Small">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+
+    <style name="RobotoFont">
+        <item name="android:tag">fonts/Roboto-Light.ttf</item>
+    </style>
+
+
+
+</resources>

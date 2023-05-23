@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/flip"
+    android:layout_width="300dp"
+    android:layout_height="300dp"
+    android:background="@color/white"
+    android:flipInterval="2000"
+    android:gravity="center">
+
+    <com.ui.MAnimatedGifView
+        android:id="@+id/connecting"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/connecting_static"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/processing_static"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/status_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.ui.MTextViewRegular
+            android:id="@+id/status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/flip_text"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/button_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center|fill"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:stateListAnimator="@null"
+            android:text="@string/ok"
+            android:textColor="?attr/dialogTextColor"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/static_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/static_image"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/power_on_reader" />
+
+        <com.ui.MTextViewRegular
+            android:id="@+id/static_layout_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/flip_text"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/static_layout_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:stateListAnimator="@null"
+            android:text="@string/ok"
+            android:textColor="?attr/dialogTextColor"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/animated_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.ui.MAnimatedGifView
+            android:id="@+id/animated_image"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:gravity="center" />
+
+        <com.ui.MTextViewRegular
+            android:id="@+id/animated_layout_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:textColor="@color/flip_text"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/animated_layout_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:stateListAnimator="@null"
+            android:text="Abort"
+            android:textColor="?attr/dialogTextColor"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <com.ui.MTextViewRegular
+        android:id="@+id/pin_entry"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textColor="@color/flip_text"
+        android:textSize="30sp" />
+
+    <com.ui.MTextViewRegular
+        android:id="@+id/approved"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textColor="@color/flip_text"
+        android:textSize="15sp" />
+
+    <com.ui.MTextViewRegular
+        android:id="@+id/declined"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textColor="@color/flip_text"
+        android:textSize="15sp" />
+
+    <RelativeLayout
+        android:id="@+id/pin_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/btn_no"
+            android:layout_width="100sp"
+            android:layout_height="40sp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:stateListAnimator="@null"
+            android:text="@string/no"
+            android:textColor="?attr/dialogTextColor"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btn_yes"
+            android:layout_width="100sp"
+            android:layout_height="40sp"
+            android:layout_alignBaseline="@+id/btn_no"
+            android:layout_alignBottom="@+id/btn_no"
+            android:layout_alignParentRight="true"
+            android:stateListAnimator="@null"
+            android:text="@string/yes"
+            android:textColor="?attr/dialogTextColor"
+            android:textSize="20sp" />
+
+        <com.ui.MTextViewRegular
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/btn_no"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="20dp"
+            android:text="Do you want to pin bypass"
+            android:textColor="#747177"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/account_selection"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10sp">
+
+        <com.ui.MTextViewRegular
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="Please select your account type"
+            android:textColor="#747177"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btn_saving"
+            android:layout_width="100sp"
+            android:layout_height="40sp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/textView1"
+            android:layout_marginTop="10sp"
+            android:stateListAnimator="@null"
+            android:text="@string/saving"
+            android:textColor="?attr/dialogTextColor"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btn_checking"
+            android:layout_width="100sp"
+            android:layout_height="40sp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/btn_saving"
+            android:layout_marginTop="5sp"
+            android:stateListAnimator="@null"
+            android:text="@string/checking"
+            android:textColor="?attr/dialogTextColor"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btn_current"
+            android:layout_width="100sp"
+            android:layout_height="40sp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/btn_checking"
+            android:layout_marginTop="5sp"
+            android:stateListAnimator="@null"
+            android:text="@string/current"
+            android:textColor="?attr/dialogTextColor"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+
+</ViewFlipper>

@@ -1,0 +1,7 @@
+ninja: Entering directory `/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/prodDebug/arm64-v8a'
+[1/6] Building C object CMakeFiles/OpenSSLApi.dir/src/main/c/OpenSSLApi.c.o
+[2/6] Building C object CMakeFiles/keys.dir/src/main/c/keys.c.o
+[3/6] Building C object CMakeFiles/native-lib.dir/src/main/c/native-lib.c.o
+[4/6] Linking C shared library ../../../../build/intermediates/cmake/prodDebug/obj/arm64-v8a/libOpenSSLApi.so
+[5/6] Linking C shared library ../../../../build/intermediates/cmake/prodDebug/obj/arm64-v8a/libkeys.so
+[6/6] Linking C shared library ../../../../build/intermediates/cmake/prodDebug/obj/arm64-v8a/libnative-lib.so

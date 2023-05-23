@@ -1,0 +1,144 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mosambee.mpos.softpos"
+4    android:versionCode="85"
+5    android:versionName="1.2.006" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+10
+11    <!-- adb shell "logcat com.mosambee.mpos.cpoc:W -v long | grep E/AndroidRuntime" > android.log -->
+12
+13    <uses-permission android:name="android.permission.NFC" />
+13-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:9:5-62
+13-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:9:22-59
+14
+15    <uses-feature
+15-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:10:5-81
+16        android:name="android.hardware.nfc"
+16-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:10:19-54
+17        android:required="true" />
+17-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:10:55-78
+18
+19    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+19-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:13:5-76
+19-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:13:22-73
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:14:5-81
+20-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:14:22-78
+21    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+21-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:15:5-71
+21-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:15:22-68
+22    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+22-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:16:5-80
+22-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:16:22-77
+23    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+23-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:17:5-75
+23-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:17:22-72
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:18:5-67
+24-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:18:22-64
+25    <uses-permission android:name="android.permission.ACCESS_GPS" />
+25-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:19:5-69
+25-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:19:22-66
+26    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+26-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:20:5-79
+26-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:20:22-76
+27    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+27-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:21:5-81
+27-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:21:22-78
+28    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+28-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:22:5-79
+28-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:22:22-76
+29    <uses-permission android:name="android.permission.BLUETOOTH" />
+29-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:23:5-68
+29-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:23:22-65
+30    <uses-permission android:name="android.permission.CAMERA" />
+30-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:24:5-65
+30-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:24:22-62
+31    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+31-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:25:5-74
+31-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:25:22-71
+32
+33    <uses-feature android:name="android.hardware.camera" />
+33-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:26:5-60
+33-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:26:19-57
+34    <uses-feature android:name="android.hardware.camera.autofocus" />
+34-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:27:5-70
+34-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:27:19-67
+35
+36    <uses-permission
+36-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:30:5-33:47
+37        android:name="android.permission.INTERACT_ACROSS_USERS_FULL"
+37-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:31:9-69
+38        android:protectionLevel="signature" />
+38-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:32:9-44
+39    <uses-permission
+39-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:34:5-37:47
+40        android:name="android.permission.INTERACT_ACROSS_USERS"
+40-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:35:9-64
+41        android:protectionLevel="signature" />
+41-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:36:9-44
+42    <uses-permission
+42-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:38:5-41:47
+43        android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"
+43-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:39:9-68
+44        android:protectionLevel="signature" />
+44-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:40:9-44
+45
+46    <uses-feature android:name="android.hardware.usb.host" />
+46-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:43:5-62
+46-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:43:19-59
+47    <!-- android:largeHeap="true" -->
+48    <application
+48-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:47:5-69:19
+49        android:allowBackup="false"
+49-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:48:9-36
+50        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+50-->[com.android.support:support-compat:28.0.0] /Users/narayan/.gradle/caches/transforms-3/2b00c63ee3d578a5063ef838674f63c5/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+51        android:debuggable="true"
+52        android:extractNativeLibs="false"
+53        android:hardwareAccelerated="true"
+53-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:50:9-43
+54        android:icon="@drawable/ic_icon"
+54-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:51:9-41
+55        android:label="@string/app_name"
+55-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:52:9-41
+56        android:resizeableActivity="false"
+56-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:49:9-43
+57        android:supportsRtl="true"
+57-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:53:9-35
+58        android:testOnly="true"
+59        android:theme="@style/AppTheme" >
+59-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:54:9-40
+60        <activity
+60-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:55:9-67:20
+61            android:name="com.mosambee.MainActivity"
+61-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:56:13-53
+62            android:label="@string/app_name"
+62-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:57:13-45
+63            android:screenOrientation="portrait" >
+63-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:58:13-49
+64            <intent-filter>
+64-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:59:13-62:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:60:17-69
+65-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:60:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:61:17-77
+67-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:61:27-74
+68            </intent-filter>
+69            <intent-filter>
+69-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:63:13-65:29
+70                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+70-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:64:17-90
+70-->/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:64:25-87
+71            </intent-filter>
+72        </activity>
+73    </application>
+74
+75</manifest>

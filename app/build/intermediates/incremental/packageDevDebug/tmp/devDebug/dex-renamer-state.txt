@@ -1,0 +1,4 @@
+#Tue May 23 17:07:36 IST 2023
+base.0=/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build/intermediates/dex/devDebug/mergeDexDevDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

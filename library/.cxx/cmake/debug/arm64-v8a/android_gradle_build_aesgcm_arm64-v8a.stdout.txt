@@ -1,0 +1,28 @@
+ninja: Entering directory `/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a'
+[1/2] Building C object CMakeFiles/aesgcm.dir/AesGcmCipher.c.o
+/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/AesGcmCipher.c:199:46: warning: incompatible integer to pointer conversion passing 'unsigned long' to parameter of type 'const uint8_t *' (aka 'const unsigned char *') [-Wint-conversion]
+    if (CTR_DRBG_init(&ctr_drbg_state, seed, sizeof(seed), NULL) != 1) {
+                                             ^~~~~~~~~~~~
+/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/rand/internal.h:65:49: note: passing argument to parameter 'personalization' here
+                                 const uint8_t *personalization,
+                                                ^
+/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/AesGcmCipher.c:199:60: warning: incompatible pointer to integer conversion passing 'void *' to parameter of type 'size_t' (aka 'unsigned long') [-Wint-conversion]
+    if (CTR_DRBG_init(&ctr_drbg_state, seed, sizeof(seed), NULL) != 1) {
+                                                           ^~~~
+/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/lib64/clang/9.0.8/include/stddef.h:89:16: note: expanded from macro 'NULL'
+#  define NULL ((void*)0)
+               ^~~~~~~~~~
+/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/rand/internal.h:66:41: note: passing argument to parameter 'personalization_len' here
+                                 size_t personalization_len);
+                                        ^
+/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/AesGcmCipher.c:204:44: warning: passing 'int8_t [16]' to parameter of type 'uint8_t *' (aka 'unsigned char *') converts between pointers to integer types with different sign [-Wpointer-sign]
+    if (CTR_DRBG_generate(&ctr_drbg_state, random_number, sizeof(random_number), NULL, 0) != 1) {
+                                           ^~~~~~~~~~~~~
+/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/rand/internal.h:80:69: note: passing argument to parameter 'out' here
+OPENSSL_EXPORT int CTR_DRBG_generate(CTR_DRBG_STATE *drbg, uint8_t *out,
+                                                                    ^
+/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/AesGcmCipher.c:211:35: warning: incompatible pointer types passing 'int8_t [16]' to parameter of type 'const jchar *' (aka 'const unsigned short *') [-Wincompatible-pointer-types]
+    return (*env)->NewString(env, random_number, sizeof(random_number));
+                                  ^~~~~~~~~~~~~
+4 warnings generated.
+[2/2] Linking C shared library /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/build/intermediates/cmake/debug/obj/arm64-v8a/libaesgcm.so

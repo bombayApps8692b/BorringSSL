@@ -1,0 +1,2211 @@
+{
+  "stringTable": {
+    "0": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Daesgcm_EXPORTS -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -ffunction-sections -fdata-sections -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info -fPIC",
+    "3": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info -fPIC",
+    "4": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info -fPIE",
+    "5": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -Wshadow -D_XOPEN_SOURCE=700 -O0 -fno-limit-debug-info -fPIC",
+    "6": "-target armv7-none-linux-androideabi19 -gcc-toolchain /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -Wa,--noexecstack -O0 -fno-limit-debug-info -fPIC",
+    "7": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/../../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -Wshadow -D_XOPEN_SOURCE=700 -O0 -fno-limit-debug-info -fPIC",
+    "8": "-target armv7-none-linux-androideabi19 -gcc-toolchain /Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/../../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -Wa,--noexecstack -O0 -fno-limit-debug-info -fPIC",
+    "9": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info -fPIC",
+    "10": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info -fPIE",
+    "11": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info -fPIC",
+    "12": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/../../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info -fPIE",
+    "13": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info -fPIE",
+    "14": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -nostdinc++ -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-declarations -std=c++11 -fno-exceptions -fno-rtti -Wmissing-prototypes -Wshadow -O0 -fno-limit-debug-info -fPIE",
+    "15": "--target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DBORINGSSL_IMPLEMENTATION -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/include -I/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -ffunction-sections -fdata-sections -Werror -Wformat=2 -Wsign-compare -Wmissing-field-initializers -Wwrite-strings -Wall -ggdb -fvisibility=hidden -fno-common -Wnewline-eof -fcolor-diagnostics -Wimplicit-fallthrough -Wmissing-prototypes -Wold-style-definition -Wstrict-prototypes -Wshadow -D_XOPEN_SOURCE=700 -O0 -fno-limit-debug-info -fPIC",
+    "16": "null"
+  },
+  "buildFiles": [
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/CMakeLists.txt",
+    "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/sources.cmake",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/fipstools/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "crypto_test-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" crypto_test",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "crypto_test",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/abi_self_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/asn1_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/base64/base64_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/buf/buf_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/bio_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bytestring/bytestring_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/chacha/chacha_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/aead_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/cipher_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cmac/cmac_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/compiler_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/constant_time_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu-arm-linux_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/curve25519/ed25519_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/curve25519/spake25519_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/curve25519/x25519_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/ecdh_extra/ecdh_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dh/dh_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/digest_extra/digest_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dsa/dsa_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/err/err_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/evp_extra_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/evp_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/pbkdf_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/scrypt_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/aes/aes_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/bn/bn_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/ec/ec_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/ec/p256-x86_64_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/ecdsa/ecdsa_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/md5/md5_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/modes/gcm_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/rand/ctrdrbg_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/sha/sha_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/hkdf/hkdf_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/hmac_extra/hmac_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/hrss/hrss_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/impl_dispatch_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/lhash/lhash_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/obj/obj_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs7/pkcs7_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs8/pkcs8_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs8/pkcs12_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/poly1305/poly1305_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pool/pool_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rand_extra/rand_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/refcount_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rsa_extra/rsa_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/self_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/stack/stack_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/file_test_gtest.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/thread_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_time_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/tab_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3name_test.cc",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/crypto_test",
+      "runtimeFiles": []
+    },
+    "crypto-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" crypto",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "crypto",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/err_data.c.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/chacha/chacha-armv4.S.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/test/trampoline-armv4.S.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/curve25519/asm/x25519-asm-arm.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/poly1305/poly1305_arm_asm.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/err_data.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/chacha/chacha-armv4.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/test/trampoline-armv4.S",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_bitstr.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_bool.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_d2i_fp.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_dup.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_enum.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_gentm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_i2d_fp.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_int.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_mbstr.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_object.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_octet.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_print.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_strnid.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_time.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_type.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_utctm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/a_utf8.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/asn1_lib.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/asn1_par.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/asn_pack.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/f_enum.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/f_int.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/f_string.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/tasn_dec.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/tasn_enc.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/tasn_fre.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/tasn_new.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/tasn_typ.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/tasn_utl.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/asn1/time_support.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/base64/base64.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/bio.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/bio_mem.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/connect.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/fd.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/file.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/hexdump.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/pair.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/printf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/socket.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bio/socket_helper.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bn_extra/bn_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bn_extra/convert.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/buf/buf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bytestring/asn1_compat.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bytestring/ber.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bytestring/cbb.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bytestring/cbs.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/bytestring/unicode.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/chacha/chacha.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/cipher_extra.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/derive_key.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_aesccm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_aesctrhmac.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_aesgcmsiv.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_chacha20poly1305.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_null.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_rc2.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_rc4.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/e_tls.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cipher_extra/tls_cbc.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cmac/cmac.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/conf/conf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu-aarch64-fuchsia.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu-aarch64-linux.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu-arm-linux.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu-arm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu-intel.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/cpu-ppc64le.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/crypto.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/curve25519/spake25519.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dh/dh.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dh/params.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dh/check.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dh/dh_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/digest_extra/digest_extra.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dsa/dsa.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/dsa/dsa_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/ecdh_extra/ecdh_extra.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/ecdsa_extra/ecdsa_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/ec_extra/ec_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/err/err.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/engine/engine.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/digestsign.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/evp.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/evp_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/evp_ctx.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_dsa_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_ec.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_ec_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_ed25519.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_ed25519_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_rsa.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/p_rsa_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/pbkdf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/print.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/scrypt.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/evp/sign.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/ex_data.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/hkdf/hkdf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/hrss/hrss.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/lhash/lhash.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/mem.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/obj/obj.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/obj/obj_xref.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_all.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_info.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_lib.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_oth.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_pk8.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_pkey.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_x509.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pem/pem_xaux.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs7/pkcs7.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs7/pkcs7_x509.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs8/pkcs8.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs8/pkcs8_x509.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pkcs8/p5_pbev2.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/poly1305/poly1305.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/poly1305/poly1305_arm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/poly1305/poly1305_vec.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/pool/pool.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rand_extra/deterministic.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rand_extra/forkunsafe.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rand_extra/fuchsia.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rand_extra/rand_extra.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rand_extra/windows.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rc4/rc4.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/refcount_c11.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/refcount_lock.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rsa_extra/rsa_asn1.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/rsa_extra/rsa_print.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/stack/stack.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/thread.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/thread_none.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/thread_pthread.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/thread_win.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/a_digest.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/a_sign.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/a_strex.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/a_verify.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/algorithm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/asn1_gen.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/by_dir.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/by_file.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/i2d_pr.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/rsa_pss.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/t_crl.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/t_req.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/t_x509.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/t_x509a.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_att.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_cmp.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_d2.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_def.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_ext.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_lu.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_obj.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_r2x.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_req.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_set.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_trs.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_txt.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_v3.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_vfy.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509_vpm.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509cset.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509name.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509rset.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x509spki.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_algor.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_all.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_attrib.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_crl.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_exten.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_info.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_name.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_pkey.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_pubkey.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_req.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_sig.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_spki.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_val.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_x509.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509/x_x509a.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/pcy_cache.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/pcy_data.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/pcy_lib.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/pcy_map.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/pcy_node.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/pcy_tree.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_akey.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_akeya.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_alt.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_bcons.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_bitst.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_conf.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_cpols.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_crld.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_enum.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_extku.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_genn.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_ia5.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_info.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_int.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_lib.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_ncons.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_ocsp.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_pci.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_pcia.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_pcons.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_pku.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_pmaps.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_prn.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_purp.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_skey.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_sxnet.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/x509v3/v3_utl.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/fiat/curve25519.c",
+          "flagsOrdinal": 5,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/libcrypto.a"
+    },
+    "run_tests-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" run_tests",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "run_tests",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/CMakeFiles/run_tests",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/CMakeFiles/run_tests.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "ssl-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" ssl",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "ssl",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/bio_ssl.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/d1_both.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/d1_lib.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/d1_pkt.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/d1_srtp.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/dtls_method.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/dtls_record.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/handoff.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/handshake.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/handshake_client.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/handshake_server.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/s3_both.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/s3_lib.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/s3_pkt.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_aead_ctx.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_asn1.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_buffer.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_cert.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_cipher.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_file.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_key_share.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_lib.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_privkey.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_session.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_stat.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_transcript.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_versions.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_x509.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/t1_enc.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/t1_lib.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/tls_method.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/tls_record.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/tls13_both.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/tls13_client.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/tls13_enc.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/tls13_server.cc",
+          "flagsOrdinal": 11,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/ssl/libssl.a"
+    },
+    "bssl_shim-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" bssl_shim",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "bssl_shim",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/async_bio.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/bssl_shim.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/handshake_util.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/packeted_bio.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/settings_writer.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/test_config.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/test_state.cc",
+          "flagsOrdinal": 12,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/ssl/test/bssl_shim",
+      "runtimeFiles": []
+    },
+    "test_support_lib-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" test_support_lib",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "test_support_lib",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/abi_test.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/file_test.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/malloc.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/test_util.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/wycheproof_util.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/test/libtest_support_lib.a"
+    },
+    "boringssl_gtest_main-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" boringssl_gtest_main",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "boringssl_gtest_main",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/gtest_main.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "bssl-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" bssl",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "bssl",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/args.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/ciphers.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/client.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/const.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/digest.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/file.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/generate_ed25519.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/genrsa.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/pkcs12.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/rand.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/server.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/sign.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/speed.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/tool.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/transport_common.cc",
+          "flagsOrdinal": 13,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/tool/bssl",
+      "runtimeFiles": []
+    },
+    "decrepit_test-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" decrepit_test",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "decrepit_test",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/blowfish/blowfish_test.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/cast/cast_test.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/cfb/cfb_test.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/ripemd/ripemd_test.cc",
+          "flagsOrdinal": 14,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/decrepit/decrepit_test",
+      "runtimeFiles": []
+    },
+    "boringssl_gtest-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" boringssl_gtest",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "boringssl_gtest",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/third_party/googletest/src/gtest-all.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/libboringssl_gtest.a"
+    },
+    "fipsmodule-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" fipsmodule",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "fipsmodule",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/aes-armv4.S.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/aesv8-armx.S.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/armv4-mont.S.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/bsaes-armv7.S.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/ghash-armv4.S.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armx.S.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/sha1-armv4-large.S.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/sha256-armv4.S.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/sha512-armv4.S.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/aes-armv4.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/aesv8-armx.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/armv4-mont.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/bsaes-armv7.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/ghash-armv4.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/ghashv8-armx.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/sha1-armv4-large.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/sha256-armv4.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto/fipsmodule/sha512-armv4.S",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/bcm.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/is_fips.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    },
+    "ssl_test-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" ssl_test",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "ssl_test",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/span_test.cc",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/ssl_test.cc",
+          "flagsOrdinal": 10,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/ssl/ssl_test",
+      "runtimeFiles": []
+    },
+    "aesgcm-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" aesgcm",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "aesgcm",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/AesGcmCipher.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/build/intermediates/cmake/debug/obj/armeabi-v7a/libaesgcm.so",
+      "runtimeFiles": []
+    },
+    "decrepit-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" decrepit",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "decrepit",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/bio/base64_bio.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/blowfish/blowfish.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/cast/cast.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/cast/cast_tables.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/cfb/cfb.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/des/cfb64ede.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/dh/dh_decrepit.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/dsa/dsa_decrepit.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/evp/dss1.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/evp/evp_do_all.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/obj/obj_decrepit.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/rc4/rc4_decrepit.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/ripemd/ripemd.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/rsa/rsa_decrepit.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/ssl/ssl_decrepit.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/x509/x509_decrepit.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/xts/xts.c",
+          "flagsOrdinal": 15,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/decrepit/libdecrepit.a"
+    },
+    "crypto_test_data-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a\" crypto_test_data",
+      "buildType": "debug",
+      "toolchain": "3813335168",
+      "abi": "armeabi-v7a",
+      "artifactName": "crypto_test_data",
+      "files": [
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto_test_data.cc.rule",
+          "flagsOrdinal": 16,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/armeabi-v7a/third_party/boringssl/src/crypto_test_data.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": []
+    }
+  },
+  "toolchains": {
+    "3813335168": {
+      "cCompilerExecutable": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cc"
+  ]
+}

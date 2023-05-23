@@ -1,0 +1,246 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+    flavorDimensions "default"
+
+    productFlavors {
+        prod {
+            applicationId "com.mosambee.mpos.softpos"
+            minSdkVersion 26
+            targetSdkVersion 28
+            testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+            versionCode 86
+            ndk.abiFilters 'armeabi-v7a','arm64-v8a','x86','x86_64'
+            versionName "1.2.006"
+//            versionName "1.1.1"
+            multiDexEnabled false
+            ndk {
+                moduleName "serial_port"
+            }
+
+            packagingOptions {
+                exclude 'META-INF/DEPENDENCIES'
+                exclude 'META-INF/INDEX.LIST'
+            }
+            compileOptions {
+                sourceCompatibility JavaVersion.VERSION_1_8
+                targetCompatibility JavaVersion.VERSION_1_8
+            }
+
+            externalNativeBuild {
+                cmake {
+                    cppFlags ""
+                }
+            }
+
+
+        }
+        dev {
+            applicationId "com.mosambee.mpos.softpos"
+            minSdkVersion 26
+            targetSdkVersion 28
+            testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+            versionCode 85
+//            ndk.abiFilters 'armeabi-v7a','arm64-v8a','x86','x86_64'
+            versionName "1.2.006"
+//            versionName "1.1.1"
+
+            multiDexEnabled false
+            ndk {
+                moduleName "serial_port"
+            }
+            packagingOptions {
+                exclude 'META-INF/DEPENDENCIES'
+                exclude 'META-INF/INDEX.LIST'
+            }
+            compileOptions {
+                sourceCompatibility JavaVersion.VERSION_1_8
+                targetCompatibility JavaVersion.VERSION_1_8
+            }
+
+            externalNativeBuild {
+                cmake {
+                    cppFlags ""
+                }
+            }
+
+         }
+    }
+
+
+
+
+    aaptOptions {
+        cruncherEnabled = false
+    }
+
+    externalNativeBuild {
+//        ndkBuild {
+//            path 'src/main/jni/Android.mk'
+//        }
+        cmake {
+            path "CMakeLists.txt"
+        }
+    }
+    android {
+        lintOptions {
+            checkReleaseBuilds false
+            // Or, if you prefer, you can continue to check for errors in release builds,
+            // but continue the build even when errors are found:
+            abortOnError false
+            checkAllWarnings false
+            ignoreWarnings true       // false by default
+            quiet true
+        }
+    }
+
+//    productFlavors{
+//
+//        network{
+//
+//            resValue "string", "app_name", "@string/app_name_ni"
+//
+//            applicationId "com.mosambee.mpos.network"
+//
+//        }
+//
+//        tyme{
+//            resValue "string", "app_name", "@string/app_name_tyme"
+//
+//            applicationId "com.mosambee.mpos.tyme"
+//
+//        }
+//
+//
+//        mosambee{
+//            resValue "string", "app_name", "@string/app_name_mosambee"
+//
+//
+//            applicationId "com.mosambee.mpos"
+//
+//        }
+//
+//    }
+
+
+    buildTypes {
+        debug {
+
+//            minifyEnabled true
+//
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'),
+//                    'proguard-rules.pro'
+
+        }
+        release {
+
+//            minifyEnabled true
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'),
+//                    'proguard-rules.pro'
+        }
+    }
+
+    sourceSets.main {
+        jniLibs.srcDir 'libs'
+        jni.srcDirs = []
+//        aidl.srcDirs = ['src/main/java']
+    }
+    ndkVersion '21.0.6113669'
+
+
+    applicationVariants.all { variant ->
+        variant.outputs.all { output ->
+            def project = "Mosambee"
+            def SEP = "_"
+            def flavor = variant.productFlavors[0].name
+            def buildType = variant.buildType.name
+            def version = variant.versionName
+            def date = new Date();
+            def formattedDate = date.format('ddMMyy_HHmm')
+
+            def newApkName = project + SEP + flavor + SEP + buildType + SEP + version + SEP + formattedDate + ".apk"
+
+            outputFileName = new File(newApkName)
+        }
+    }
+
+
+//    packagingOptions {
+//        pickFirst 'PackageManager'
+//    }
+
+}
+
+/*preBuild {
+    doLast {
+        def imlFile = file(project.name + ".iml")
+        println 'Change ' + project.name + '.iml order'
+        try {
+            def parsedXml = (new XmlParser()).parse(imlFile)
+            def jdkNode = parsedXml.component[1].orderEntry.find { it.'@type' == 'jdk' }
+            parsedXml.component[1].remove(jdkNode)
+            def sdkString = "Android API " + android.compileSdkVersion.substring("android-".length()) + " Platform"
+            new Node(parsedXml.component[1], 'orderEntry', ['type': 'jdk', 'jdkName': sdkString, 'jdkType': 'Android SDK'])
+            groovy.xml.XmlUtil.serialize(parsedXml, new FileOutputStream(imlFile))
+        } catch (FileNotFoundException e) {
+            // nop, iml not found
+        }
+    }
+}*/
+
+
+
+allprojects {
+    repositories {
+        jcenter()
+        google()
+        maven {
+            url 'https://maven.google.com/'
+            name 'Google'
+        }
+    }
+    gradle.projectsEvaluated {
+        tasks.withType(JavaCompile) {
+            options.compilerArgs.add( '-Xbootclasspath/p:app/libs/classes.jar')
+        }
+    }
+}
+dependencies {
+    implementation project(path: ':library')
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    testImplementation 'junit:junit:4.12'
+    compileOnly files('libs/classes.jar')
+    implementation files('libs/mosambee-miura.jar')
+    implementation files('libs/MposApiLib_Android_V1.00.01_20141210T.jar')
+    implementation files('libs/org.apache.http.legacy.jar')
+    implementation files('libs/printersdk.jar')
+    implementation files('libs/dspread_android_pos_sdk_2.9.9_202004271245.jar')
+//    implementation files('libs/dspread_android_pos_sdk_2.9.9.jar')
+    implementation 'com.squareup.okhttp3:okhttp:3.14.7'
+    implementation 'com.google.zxing:core:3.2.1'
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support:support-v4:28.0.0'
+    implementation 'com.android.support:design:28.0.0'
+
+    implementation 'com.scottyab:rootbeer-lib:0.0.8'
+
+    implementation "com.squareup.moshi:moshi:1.8.0"
+
+    implementation files('libs/L2Kernel-v1.0.9-Debug.aar')
+
+//    implementation files('libs/L2Kernel-v1.0.aar')
+
+
+//    implementation(name: 'L2Kernel-v1.0-Debug', ext: 'aar')
+
+
+//    implementation 'org.bouncycastle:bcpkix-jdk15on:1.56'
+
+
+//    implementation project(path: ':library')
+
+}

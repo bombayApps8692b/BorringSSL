@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="4"
+    android:background="@color/white"
+    >
+
+    <!--    <Button android:layout_width="wrap_content" -->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:onClick="onBharatList"-->
+    <!--        ></Button>-->
+
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1.5" />
+
+    <ImageButton
+        android:id="@+id/mainImage"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:layout_width="333dp"
+        android:layout_height="113dp"
+        android:layout_gravity="center"
+        android:layout_margin="0dp"/>
+    <TextView
+        android:textSize="50dp"
+        style="@android:style/ThemeOverlay.Material.Dark"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/black"
+        android:text="SoftPOS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:textSize="15dp"
+        style="@android:style/ThemeOverlay.Material.Dark"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/black"
+        android:text="(Allowed upto 5,000 INR)"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:textSize="15dp"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/agreement_text"
+        android:text="Powered by Mosambee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+
+</LinearLayout>

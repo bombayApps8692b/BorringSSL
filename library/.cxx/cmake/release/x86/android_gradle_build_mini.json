@@ -1,0 +1,124 @@
+{
+  "buildFiles": [
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/CMakeLists.txt",
+    "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/sources.cmake",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/fipsmodule/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/crypto/test/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/ssl/test/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/fipstools/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/tool/CMakeLists.txt",
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/src/main/cpp/third_party/boringssl/src/decrepit/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "decrepit-Release-x86": {
+      "artifactName": "decrepit",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" decrepit",
+      "abi": "x86",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86/third_party/boringssl/src/decrepit/libdecrepit.a",
+      "runtimeFiles": []
+    },
+    "bssl_shim-Release-x86": {
+      "artifactName": "bssl_shim",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" bssl_shim",
+      "abi": "x86",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86/third_party/boringssl/src/ssl/test/bssl_shim",
+      "runtimeFiles": []
+    },
+    "boringssl_gtest_main-Release-x86": {
+      "artifactName": "boringssl_gtest_main",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" boringssl_gtest_main",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "ssl_test-Release-x86": {
+      "artifactName": "ssl_test",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" ssl_test",
+      "abi": "x86",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86/third_party/boringssl/src/ssl/ssl_test",
+      "runtimeFiles": []
+    },
+    "boringssl_gtest-Release-x86": {
+      "artifactName": "boringssl_gtest",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" boringssl_gtest",
+      "abi": "x86",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86/third_party/boringssl/src/libboringssl_gtest.a",
+      "runtimeFiles": []
+    },
+    "ssl-Release-x86": {
+      "artifactName": "ssl",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" ssl",
+      "abi": "x86",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86/third_party/boringssl/src/ssl/libssl.a",
+      "runtimeFiles": []
+    },
+    "crypto_test-Release-x86": {
+      "artifactName": "crypto_test",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" crypto_test",
+      "abi": "x86",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86/third_party/boringssl/src/crypto/crypto_test",
+      "runtimeFiles": []
+    },
+    "bssl-Release-x86": {
+      "artifactName": "bssl",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" bssl",
+      "abi": "x86",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86/third_party/boringssl/src/tool/bssl",
+      "runtimeFiles": []
+    },
+    "aesgcm-Release-x86": {
+      "artifactName": "aesgcm",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" aesgcm",
+      "abi": "x86",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/build/intermediates/cmake/release/obj/x86/libaesgcm.so",
+      "runtimeFiles": []
+    },
+    "run_tests-Release-x86": {
+      "artifactName": "run_tests",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" run_tests",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "decrepit_test-Release-x86": {
+      "artifactName": "decrepit_test",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" decrepit_test",
+      "abi": "x86",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86/third_party/boringssl/src/decrepit/decrepit_test",
+      "runtimeFiles": []
+    },
+    "fipsmodule-Release-x86": {
+      "artifactName": "fipsmodule",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" fipsmodule",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "crypto-Release-x86": {
+      "artifactName": "crypto",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" crypto",
+      "abi": "x86",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86/third_party/boringssl/src/crypto/libcrypto.a",
+      "runtimeFiles": []
+    },
+    "test_support_lib-Release-x86": {
+      "artifactName": "test_support_lib",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" test_support_lib",
+      "abi": "x86",
+      "output": "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86/third_party/boringssl/src/crypto/test/libtest_support_lib.a",
+      "runtimeFiles": []
+    },
+    "crypto_test_data-Release-x86": {
+      "artifactName": "crypto_test_data",
+      "buildCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/release/x86\" crypto_test_data",
+      "abi": "x86",
+      "runtimeFiles": []
+    }
+  }
+}

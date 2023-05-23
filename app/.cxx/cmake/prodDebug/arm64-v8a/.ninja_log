@@ -1,0 +1,7 @@
+# ninja log v5
+1	82	1676899307	CMakeFiles/OpenSSLApi.dir/src/main/c/OpenSSLApi.c.o	47655db7ab51f325
+1	85	1676899307	CMakeFiles/keys.dir/src/main/c/keys.c.o	539bae5f4f4e6c7e
+1	110	1676899307	CMakeFiles/native-lib.dir/src/main/c/native-lib.c.o	42445ba95f4eae05
+82	137	1676899307	../../../../build/intermediates/cmake/prodDebug/obj/arm64-v8a/libOpenSSLApi.so	997dc005f0a11c0e
+85	138	1676899307	../../../../build/intermediates/cmake/prodDebug/obj/arm64-v8a/libkeys.so	b45cce45c8849e5b
+110	158	1676899307	../../../../build/intermediates/cmake/prodDebug/obj/arm64-v8a/libnative-lib.so	361dd5746bb551e6

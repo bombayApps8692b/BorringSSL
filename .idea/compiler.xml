@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="MosambeeModularThemeV2_CPOC.app" target="1.8" />
+      <module name="MosambeeModularThemeV2_CPOC.library" target="1.8" />
+      <module name="MosambeeModularThemeV2_CPOC_UL_BOringssl.app" target="1.8" />
+      <module name="MosambeeModularThemeV2_CPOC_UL_BOringssl.library" target="1.8" />
+      <module name="MosambeeModularThemeV2_CPOC_ULNITIME.app" target="1.8" />
+      <module name="MosambeeModularThemeV2_CPOC_ULNITIME.library" target="1.8" />
+      <module name="MosambeeModularThemeV2_CPOC_ULPAYTM.app" target="1.8" />
+      <module name="MosambeeModularThemeV2_CPOC_ULPAYTM.library" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

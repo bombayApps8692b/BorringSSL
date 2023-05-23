@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:orientation="vertical" >
+
+
+    <WebView
+        android:id="@+id/wbDiagnosis"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:layout_marginBottom="10dp" />
+
+    <com.ui.MTextViewRegular
+        android:id="@+id/button_support"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/button_dialog"
+        android:fontFamily="Arial"
+        android:gravity="center"
+        android:text="Mail Support"
+        android:textColor="?attr/dialogTextColor"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_gravity="center_horizontal"
+        android:text="Note: Please go through the FAQ to understand/resolve the issue(highlighted)"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

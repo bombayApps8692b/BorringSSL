@@ -1,0 +1,5 @@
+/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/prodDebug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/prodDebug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/prodDebug/armeabi-v7a/CMakeFiles/OpenSSLApi.dir
+/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/prodDebug/armeabi-v7a/CMakeFiles/keys.dir
+/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/prodDebug/armeabi-v7a/CMakeFiles/native-lib.dir

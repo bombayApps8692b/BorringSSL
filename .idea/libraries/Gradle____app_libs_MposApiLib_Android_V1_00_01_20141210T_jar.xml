@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/MposApiLib_Android_V1.00.01_20141210T.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/MposApiLib_Android_V1.00.01_20141210T.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

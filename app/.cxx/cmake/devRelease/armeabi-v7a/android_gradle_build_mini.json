@@ -1,0 +1,34 @@
+{
+  "buildFiles": [
+    "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
+    "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devRelease/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devRelease/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-armeabi-v7a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devRelease/armeabi-v7a\" native-lib",
+      "abi": "armeabi-v7a",
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build/intermediates/cmake/devRelease/obj/armeabi-v7a/libnative-lib.so",
+      "runtimeFiles": []
+    },
+    "keys-Release-armeabi-v7a": {
+      "artifactName": "keys",
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devRelease/armeabi-v7a\" keys",
+      "abi": "armeabi-v7a",
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build/intermediates/cmake/devRelease/obj/armeabi-v7a/libkeys.so",
+      "runtimeFiles": []
+    },
+    "OpenSSLApi-Release-armeabi-v7a": {
+      "artifactName": "OpenSSLApi",
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devRelease/armeabi-v7a\" OpenSSLApi",
+      "abi": "armeabi-v7a",
+      "output": "/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/build/intermediates/cmake/devRelease/obj/armeabi-v7a/libOpenSSLApi.so",
+      "runtimeFiles": []
+    }
+  }
+}

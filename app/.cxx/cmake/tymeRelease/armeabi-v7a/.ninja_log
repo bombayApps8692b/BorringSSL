@@ -1,0 +1,8 @@
+# ninja log v5
+0	14	0	clean	452fc6a661cbc723
+1	142	1673937244	CMakeFiles/keys.dir/src/main/c/keys.c.o	baf76cf8483df497
+1	144	1673937244	CMakeFiles/OpenSSLApi.dir/src/main/c/OpenSSLApi.c.o	5b16f4d21f9a8215
+2	166	1673937244	CMakeFiles/native-lib.dir/src/main/c/native-lib.c.o	b1c1b6d56256fb9b
+142	224	1673937245	../../../../build/intermediates/cmake/tymeRelease/obj/armeabi-v7a/libkeys.so	a45b6bec8623e9cc
+144	232	1673937245	../../../../build/intermediates/cmake/tymeRelease/obj/armeabi-v7a/libOpenSSLApi.so	55af1b9b3cfcd3ed
+167	250	1673937245	../../../../build/intermediates/cmake/tymeRelease/obj/armeabi-v7a/libnative-lib.so	4c95ffc3b7553869

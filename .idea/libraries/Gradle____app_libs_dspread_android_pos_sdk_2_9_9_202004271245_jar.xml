@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/dspread_android_pos_sdk_2.9.9_202004271245.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/dspread_android_pos_sdk_2.9.9_202004271245.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

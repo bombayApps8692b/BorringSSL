@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/contentLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:orientation="vertical">
+
+    <!-- You can change this ActionBar -->
+
+
+    <RelativeLayout
+        android:id="@+id/parent"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="bottom"
+        android:paddingTop="20dp">
+
+        <!--<LinearLayout
+            android:id="@+id/amount_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="15dp"
+            android:gravity="top"
+            android:orientation="horizontal" >-->
+        <TableRow
+            android:id="@+id/amount_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="20dp"
+
+            android:padding="3dp">
+
+            <com.ui.MTextView
+                android:id="@+id/label_amount"
+                android:layout_gravity="center"
+                android:layout_weight="1.5"
+                android:text="@string/amount_label"
+
+                android:textColor="@color/textViewColor"
+                android:textSize="15sp" />
+
+
+            <!--    <com.ui.MTextView
+                    android:id="@+id/text_amount"
+                    android:layout_weight="1"
+                    android:textColor="@color/textViewColor"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:gravity="left"
+                    />-->
+
+            <EditText
+                android:id="@+id/edit_amount"
+                android:layout_gravity="center"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:background="@drawable/pin_border"
+                android:gravity="left|center_vertical"
+                android:inputType="none"
+
+                android:padding="5dp"
+                android:singleLine="true"
+                android:text="@string/amount"
+                android:textColor="@color/textViewColor"
+                android:textCursorDrawable="@null"
+
+                android:textSize="16sp" />
+
+        </TableRow>
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/bottomcontrolbar"
+            android:layout_below="@+id/amount_layout">
+
+            <TableLayout
+                android:id="@+id/table"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp">
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:padding="3dp">
+
+                    <com.ui.MTextView
+                        android:layout_weight="1"
+                        android:text="@string/card_holder_name"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+
+                    <com.ui.MTextView
+                        android:id="@+id/card_holder_name"
+                        android:layout_weight="1"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20sp"
+                    android:padding="3dp">
+
+                    <com.ui.MTextView
+                        android:layout_weight="1"
+                        android:text="@string/time"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+
+                    <com.ui.MTextView
+                        android:id="@+id/time"
+                        android:layout_weight="1"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:padding="3dp">
+
+                    <com.ui.MTextView
+                        android:layout_weight="1"
+                        android:text="@string/reference_no"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+
+                    <com.ui.MTextView
+                        android:id="@+id/reference_no"
+                        android:layout_weight="1"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:padding="3dp">
+
+                    <com.ui.MTextView
+                        android:layout_weight="1"
+                        android:text="@string/card_no"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+
+                    <com.ui.MTextView
+                        android:id="@+id/card_number"
+                        android:layout_weight="1"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:padding="3dp">
+
+                    <com.ui.MTextView
+                        android:layout_weight="1"
+                        android:text="@string/card_type"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+
+                    <com.ui.MTextView
+                        android:id="@+id/card_type"
+                        android:layout_weight="1"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:padding="3dp">
+
+                    <com.ui.MTextView
+                        android:layout_weight="1"
+                        android:text="@string/transaction_id"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+
+                    <com.ui.MTextView
+                        android:id="@+id/transaction_id"
+                        android:layout_weight="1"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:padding="3dp">
+
+                    <com.ui.MTextView
+                        android:layout_weight="1"
+                        android:text="@string/invoice_no"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+
+                    <com.ui.MTextView
+                        android:id="@+id/invoice_no"
+                        android:layout_weight="1"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:padding="3dp">
+
+                    <com.ui.MTextView
+                        android:layout_weight="1"
+                        android:text="@string/transaction_status"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+
+                    <com.ui.MTextView
+                        android:id="@+id/transaction_status"
+                        android:layout_weight="1"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:padding="3dp">
+
+                    <com.ui.MTextView
+                        android:layout_weight="1"
+                        android:text="@string/transaction_type"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+
+                    <com.ui.MTextView
+                        android:id="@+id/transaction_type"
+                        android:layout_weight="1"
+                        android:textColor="@color/textViewColor"
+                        android:textSize="15sp" />
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:gravity="center"
+                    android:padding="3dp"
+                    android:paddingTop="7dp">
+
+                    <Button
+                        android:id="@+id/button_continue"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:stateListAnimator="@null"
+                        android:text="@string/continue_button"
+                        android:textColor="?attr/dialogTextColor"
+                        android:textSize="20sp"
+                        android:textStyle="bold" />
+                </TableRow>
+            </TableLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/bottomcontrolbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="2dp"
+            android:background="@drawable/lower_bar"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:visibility="gone"></LinearLayout>
+
+        <com.ui.MNumberPad
+            android:id="@+id/number_pad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:gravity="bottom"
+            android:visibility="gone" />
+    </RelativeLayout>
+</LinearLayout>

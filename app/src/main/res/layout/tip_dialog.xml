@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center" >
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="?attr/colorPrimaryTheme"
+        android:orientation="horizontal" >
+
+        <com.ui.MTextViewRegular
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/SALE_TIP"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="8dip"
+            android:singleLine="true"
+            android:textColor="?attr/dialogTextColor"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+    <EditText
+        android:id="@+id/et_add_tip"
+        android:layout_width="match_parent"
+        android:layout_height="45sp"
+        android:layout_marginBottom="2sp"
+        android:layout_marginLeft="5sp"
+        android:layout_marginRight="5sp"
+        android:background="@drawable/box"
+        android:drawableRight="@drawable/rupee_sign"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:ems="10"
+        android:gravity="right|center_vertical"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="10sp"
+        android:textColor="@color/black">
+
+        <requestFocus />
+    </EditText>
+
+     <com.ui.MNumberPad
+         android:id="@+id/number_pad"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:gravity="bottom" />
+
+</LinearLayout>

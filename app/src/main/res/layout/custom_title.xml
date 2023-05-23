@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingLeft="20dp"
+        android:id="@+id/llsubhead"
+        android:background="?attr/colorPrimaryTheme">
+
+        <com.ui.MTextViewRegular
+            android:id="@+id/exemptionSubHeading4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+
+            android:text="Alert!"
+            android:textStyle="bold"
+            android:textSize="22sp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textColor="?attr/dialogTextColor" />
+    </LinearLayout>
+</LinearLayout>

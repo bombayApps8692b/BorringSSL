@@ -1,0 +1,1059 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="customfont">
+        <attr name="android:fontFamily" />
+        <attr name="android:textStyle" />
+    </declare-styleable>
+
+
+    <dimen name="count">10dp</dimen>
+
+    <!--<string name="url">W3HR1dLBPCxPPg4j12gM8unFg6HSRVMuQmBaz5AOVaw=</string>--> <!--prod-->
+    <!--<string name="url">W3HR1dLBPCyYkhRyErQ6c8RstS1wXHKrQD1bYe3N5Fc=</string>--> <!--STAGE--> <!--https://stage.mosambee.in/mpos-->
+    <!--<string name="url">W3HR1dLBPCw6qOb9pcc4ws7E3mPiZhQQnyVs6MLsEDd0hfECqSDCQA==</string>  &lt;!&ndash; https://test.mosambee.in/settlement &ndash;&gt;-->
+
+    <string name="app_name">Mosambee</string>
+<!--        <string name="app_name">Paytm App POS</string>-->
+
+<!--    <string name="url">W3HR1dLBPCwY3kUUGzRz2M7E3mPiZhQQEKTDp9wckTgxD8Po9C7cEA==</string>-->
+
+    <!--    <string name="url">W3HR1dLBPCw6qOb9pcc4ws7E3mPiZhQQnyVs6MLsEDd0hfECqSDCQA==</string>-->
+
+    <!--    <string name="url">59kAzGgO1YT0Bnv9Ib7enb5RrdXiVrGR7RHxLKuDPO46pWSIqEhAl27Uz6oWLkzUxHmrtgwUFjM=</string>-->
+
+    <!--    <string name="url">W3HR1dLBPCwY3kUUGzRz2M7E3mPiZhQQEKTDp9wckTgxD8Po9C7cEA==</string>        &lt;!&ndash; Demo Url &ndash;&gt;-->
+<!--    <string name="url">W3HR1dLBPCw6qOb9pcc4ws7E3mPiZhQQnyVs6MLsEDd0hfECqSDCQA==</string>-->
+<!--    <string name="url">W3HR1dLBPCw6qOb9pcc4ws7E3mPiZhQQRkNY2mUShP/S5oLBEm7erW7Uz6oWLkzUxHmrtgwUFjM=</string>-->
+
+    <!--    <string name="url">59kAzGgO1YSi7Vig4WRBau847oVBwloRC3cyl/GrbXmwOj3F96n7WOdxHgeAqKeiT6jfdt5OxHwIdo1YfUXpTh7tdQufRxIw</string>-->
+<!--    <string name="url">59kAzGgO1YT0Bnv9Ib7enb5RrdXiVrGR7RHxLKuDPO46pWSIqEhAl27Uz6oWLkzUxHmrtgwUFjM=</string>-->
+
+<!--    <string name="url">W3HR1dLBPCyYkhRyErQ6c8RstS1wXHKrQD1bYe3N5Fc=</string>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--    <string name="url">W3HR1dLBPCwY3kUUGzRz2M7E3mPiZhQQEKTDp9wckTgxD8Po9C7cEA==</string>&lt;!&ndash; Demo Url &ndash;&gt;-->
+
+<!--    netra-->
+<!--    <string name="url">59kAzGgO1YT0Bnv9Ib7enaI64HmK0FFsIj7/XjePxY79roY7/K4KfjqlZIioSECXbtTPqhYuTNTEeau2DBQWMw==</string>-->
+
+<!--    <string name="url">59kAzGgO1YT0Bnv9Ib7enaI64HmK0FFsIj7/XjePxY79roY7/K4KfjqlZIioSECXbtTPqhYuTNTEeau2DBQWMw==</string>-->
+
+
+    <!--    http://192.168.1.57:8084/LatestBranchBypassed/webservice/live-->
+<!--    <string name="url">59kAzGgO1YT0Bnv9Ib7enaI64HmK0FFsIj7/XjePxY79roY7/K4KfjqlZIioSECXbtTPqhYuTNTEeau2DBQWMw==</string>-->
+
+
+
+    <!--    <string name="url">W3HR1dLBPCw6qOb9pcc4ws7E3mPiZhQQnyVs6MLsEDd0hfECqSDCQA==</string>-->
+
+    <!--<string name="url">59kAzGgO1YT0Bnv9Ib7enaI64HmK0FFs7Jk7hIkz/Sv425xV3iYrztq12FkRA78A2yfGyG8h3YU=</string>--> <!--http://192.168.1.57:8084/LatestProdWar/webservice/live--> <!--Certification local netra-->
+    <!--<string name="url">59kAzGgO1YT0Bnv9Ib7enYfgGf8Y4Y6cDqVFRevzPrOxPxUZkBQK82NrRlEwjss/</string>-->  <!--http://192.168.1.42:8082/hitMan/webservice/live-->
+    <!--<string name="url">59kAzGgO1YT0Bnv9Ib7enT/G+ZcK2M9a44k0kNgGM+a5oveqOD6puv1QeIdf1TM72rXYWREDvwDbJ8bIbyHdhQ==</string>--><!--http://192.168.1.153:8080/LatestBranchBypassed/webservice/live-->
+    <!--<string name="url">59kAzGgO1YT0Bnv9Ib7enaI64HmK0FFsIj7/XjePxY79roY7/K4KfmeMKR3Denwev3mK4CYozoJX8zLF0VSwwAmS5l1XvhwU</string>-->  <!--http://192.168.1.57:8084/LatestBranchBypassedHDFC/webservice/live--> <!--SALE+TIP-->
+    <!--<string name="url">59kAzGgO1YSi7Vig4WRBau847oVBwloRJ1755C38ppt8FpnCbJjaeUL06N9mR3zeu06fXOJ8UxwlotxoRN3IRw==</string>--> <!--http://114.143.22.139/mosambeeRohan/AMEXAGG/webservice/live--><!--ROHAN AMEX-->
+    <!--<string name="url">59kAzGgO1YSi7Vig4WRBau847oVBwloRC3cyl/GrbXmH3/OPYokcsoq0McTMSDXp9B7bYBUgIkBPqN923k7EfAh2jVh9RelOHu11C59HEjA=</string>--> <!--http://114.143.22.139/mosambeeprahlad/LatestBranchBypassed/webservice/live-->
+    <!--<string name="url">W3HR1dLBPCw6qOb9pcc4ws7E3mPiZhQQ8V3HMrSmEdLo7IjDrFNHCh7x2CsOeVsxifhoPFVQViE78omX+q+uPQ==</string>--> <!--https://test.mosambee.in/TrunkKOTAKCertification/webservice/live--> <!-- Certification -->
+    <!--<string name="url">59kAzGgO1YSi7Vig4WRBau847oVBwloRT46kRj8ueaXA1dbmNNKdVGe7JzqqDHB3ifhoPFVQViE78omX+q+uPQ==</string>--> <!-- http://114.143.22.139/mohit/LatestBranchBypassed/webservice/live-->
+
+
+    <string name="term_condition_url">W3HR1dLBPCxPPg4j12gM8ofQMDSVvOiv0gu31VgngSJAXbuHwSQf8RNq8uH4rnI/</string>
+
+
+    <string name="apiPassword">HrtllW5+/EqrqrO9+06gZ7eCyd0eTtVmlxuW78SZ7d0=</string>
+    <string name="fetchwalletURL">W3HR1dLBPCxPPg4j12gM8iJdcRosXR1FpLzE8sijIrC7Tp9c4nxTHLSEjmAeJ5nRNCJzs5m1y103op4ED3ksow==</string>
+    <string name="partnerId">P126195</string>
+    <string name="customer_mob_no1">Enter Mobile Number</string>
+    <string name="password">Password</string>
+
+    <string name="touch_to_pay">Touch-to-Pay</string>
+
+    <string name="enter_pswd">Enter your Password</string>
+    <string name="signin">Sign In</string>
+    <string name="my_profile">My Profile</string>
+    <string name="user">User number</string>
+    <string name="pswd">Password</string>
+    <string name="tc">Terms and Conditions</string>
+    <string name="rememberme">Remember Me.</string>
+    <string name="ref_no">Transaction ID</string>
+    <string name="payment_amt">Payment Amount</string>
+    <string name="paid_to">Paid To</string>
+    <string name="paid_by">Paid By</string>
+    <string name="new_payment">New Transaction</string>
+    <string name="trans_hist">Transaction History</string>
+    <string name="change_password">Change Password</string>
+
+
+    <!-- Number Pad -->
+    <string name="customer_otp_password">Enter the Otp</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="double_zero">00</string>
+    <string name="delete">X</string>
+    <string name="reset_pin">RESET PIN</string>
+    <string name="logout">LOGOUT</string>
+
+    <string name="done">Done</string>
+    <string name="charge1">CHARGE</string>
+    <string name="getOTP">GET OTP</string>
+    <string name="sendLink">SEND LINK</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="hint_upiId">VPA</string>
+
+
+    <!--////////// Navigation Drawer ////////////-->
+
+    <string name="hint_TxnId">Transaction ID</string>
+
+
+    <!-- Activity type -->
+    <string name="activity_sale">SALE</string>
+    <string name="activity_preAuth">PREAUTH</string>
+    <string name="activity_sale_complete">SALE COMPLETE</string>
+    <string name="activity_void">VOID</string>
+    <string name="activity_cbwp">CBWP</string>
+    <string name="activity_pwcb">PWCB</string>
+    <string name="activity_wallet">WALLET</string>
+    <string name="activity_getotp">GET OTP</string>
+    <string name="activity_sale_tip">SALE + TIP</string>
+    <string name="activity_debitwallet">DEBIT WALLET</string>
+    <string name="upi">UPI</string>
+    <string name="activity_refund">REFUND</string>
+    <string name="activity_pay_by_link">Pay By Link</string>
+    <string name="activity_wallet_history">WALLET HISTORY</string>
+    <string name="activity_settlement">SETTLEMENT</string>
+    <string name="activity_tip">TIP</string>
+    <string name="activity_history">HISTORY</string>
+    <string name="activity_bharat_QR">BHARAT QR</string>
+    <string name="activity_bharat_QR_REVERSE">BHARAT QR REVERSE</string>
+    <string name="activity_non_card_txn">NON CARD TRANSACTION</string>
+    <string name="activity_pay_by_link_history">PAY BY LINK HISTORY</string>
+    <string name="activity_cash">CASH</string>
+    <string name="activity_cheque">CHEQUE/COUPON</string>
+    <string name="activity_void_list">VOID_LIST</string>
+    <string name="activity_receipt">RECEIPT</string>
+    <string name="activity_capature_signature">CAPTURE_SIGNATURE</string>
+    <string name="activity_lead_capture">LEAD_CAPTURE</string>
+    <string name="activity_about">ABOUT</string>
+    <string name="activity_EMI">EMI</string>
+    <string name="activity_BHARAT_QR">Bharat QR</string>
+    <string name="activity_ADHAR">ADHAR</string>
+    <string name="activity_SPOC">SPOC/CPOC Diagnosis</string>
+
+    <string name="activity_UPI_COLLECT">UPI Collect</string>
+    <string name="activity_UPI_CHECK">UPI Check</string>
+    <string name="activity_UPI_TXN_STATUS">UPI Transaction Status</string>
+    <string name="activity_UPI_TXN_HISTORY">UPI Transactions</string>
+    <string name="activity_UPI_TXN_REFUND">UPI Refund</string>
+    <string name="activity_UPI_PAY_BY_LINK">UPI PayByLink</string>
+    <string name="activity_contact_us">CONTACT US</string>
+    <string name="activity_fetch_tpsa_list">TPSA_LIST</string>
+    <string name="cash_cheque">CASH_CHEQUE</string>
+    <string name="show">SHOW DETAILS</string>
+    <string name="cbwp">Cash@Pos</string>
+    <string name="smspay">SMS Pay</string>
+
+    <string name="re_rnter_new_pswd">Re-enter New password</string>
+    <string name="fnm">First Name</string>
+    <string name="lnm">Last Name</string>
+    <string name="new_pswd">Enter Password</string>
+    <string name="customer_email_id">Customer EmailId</string>
+    <string name="current_pswd">Please enter your Current Password</string>
+    <string name="supportMobileNo">022 62280555</string>
+    <string name="supportMobileNo1">Call us : 022 62280555</string>
+    <string name="supportMobileNo2">Help Desk : 022 62280555</string>
+    <string name="supportEmailId">support@mosambee.in</string>
+
+
+    <string name="txt">Dear customer, you have elected to make the following payment.</string>
+    <string name="auto_lock_time">180</string>
+    <!-- Auto screen lock time in seconds -->
+    <string name="session_time_out">3600</string>
+    <!-- Session time out in seconds -->
+    <string name="Rs">\u20B9</string>
+    <string name="Doller">\u0024</string>
+
+    <!-- login -->
+    <string name="otp">Please enter your PIN secretly</string>.
+    <string name="verifying">Verifying</string>
+    <string name="user_pin">Choose your four digit PIN</string>
+    <string name="confirm_pin">Confirm your four digit PIN</string>
+    <string name="login_pin">Please login with your new PIN</string>
+    <!-- Slide Menu -->
+    <string name="slide_menu_sale">Sale</string>
+    <string name="slide_menu_debit_sale">Debit Sale</string>
+    <string name="slide_menu_preauth">Pre-Auth</string>
+    <string name="slide_menu_sale_complete">Sale Complete</string>
+    <string name="slide_menu_void">Void</string>
+    <string name="slide_menu_refund">Refund</string>
+    <string name="slide_menu_pay_by_link">Pay By Link</string>
+    <string name="slide_menu_settlement">Settlement</string>
+    <string name="slide_menu_footer">Menu</string>
+    <string name="slide_menu_history">Transaction History</string>
+    <string name="slide_menu_wallet_history">Wallet History</string>
+    <string name="slide_menu_non_card_history">Non card Transaction</string>
+    <string name="slide_menu_pay_by_link_history">Pay By Link History</string>
+    <string name="slide_menu_logout">Logout</string>
+    <string name="slide_menu_cash">Cash Collection</string>
+    <string name="slide_menu_cheque">Cheque/Coupon Collection</string>
+    <string name="slide_menu_cash_cashback">Cash at POS(CBWP)</string>
+    <string name="slide_menu_sale_cashback">Sale + Cashback(PWCB)</string>
+    <string name="slide_menu_about">About</string>
+    <string name="slide_menu_language">Language</string>
+    <string name="English">English</string>
+    <string name="Arabic">العربية</string>
+    <string name="select_language">Select Language</string>
+    <string name="key_injection">Key Injection</string>
+    <string name="tmk_download">TMK Download</string>
+    <string name="logon">Terminal Logon</string>
+    <string name="initialization">Initialization </string>
+    <string name="slide_menu_transcation_type">Transaction Type</string>
+    <string name="slide_menu_recent_activity">Recent Activity</string>
+    <string name="menu">Menu</string>
+
+    <string name="activity_GET_QR_CODE">Get QR Code</string>
+
+    <string name="slide_menu_upi_menu">UPI TRANSACTION</string>
+
+    <string name="slide_menu_upi_check">Check VPA</string>
+
+    <string name="slide_menu_upi_pay">UPI Pay</string>
+    <string name="slide_menu_upi_history">UPI History</string>
+    <string name="slide_menu_upi_refund">UPI Refund</string>
+    <string name="title_gps_settings">GPS Settings</string>
+    <string name="title_mosambee">Mosambee</string>
+    <string name="settings">Settings</string>
+
+
+    <!-- Action Dialog -->
+    <string name="btn_accept">Accept</string>
+    <string name="btn_decline">Decline</string>
+    <string name="closed">Close</string>
+    <string name="enable_gps">Please enable GPS to proceed. Do you wish to go to Settings menu?</string>
+    <string name="title_network_settings">Network Settings</string>
+    <string name="title_alert">ALERT !</string>
+    <string name="enable_network">Please enable internet to proceed. Do you wish to go to Settings menu?</string>
+    <string name="device_not_registered">Device is not registered with us please contact Mosambee.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <!-- Dialog -->
+    <string name="saving">Saving</string>
+    <string name="checking">Checking</string>
+    <string name="current">Current</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="send_email">Send Email</string>
+    <string name="submit">Submit</string>
+    <string name="login">Login</string>
+    <string name="title_reset_pin">Reset PIN</string>
+    <string name="title_email">Email</string>
+    <string name="title_sms">SMS</string>
+    <string name="title_void">Void</string>
+    <string name="hint_email">Email address</string>
+    <string name="hint_mobile_no">Customer Mobile Number</string>
+    <string name="hint_reset_pin">Registered mobile no.</string>
+    <string name="hint_void">Approval code</string>
+    <string name="wait">Please wait&#8230;</string>
+    <string name="initializing">Initialization may take few minutes. Please be patient&#8230;</string>
+    <string name="processing">Processing&#8230;</string>
+    <string name="settling">Settling&#8230;</string>
+    <string name="generating_receipt">Generating receipt&#8230;</string>
+    <string name="transaction_progress">Transaction in progress&#8230;</string>
+    <string name="request_pin">Requesting pin&#8230;</string>
+    <string name="sending_email">Sending Email&#8230;</string>
+    <string name="sending_sms">Sending SMS&#8230;</string>
+    <string name="fetching_void_list">Fetching void list&#8230;</string>
+    <string name="fetching_sale_complete_list">Fetching sale complete list&#8230;</string>
+    <string name="fetching_history_list">Fetching history&#8230;</string>
+    <string name="password_sent">Your password has been sent.</string>
+    <string name="please_sign">Please sign to continue.</string>
+    <string name="check_connection">Please check your internet connection.</string>
+    <string name="please_sign_again">Please sign again. We apologize for your inconvenience.</string>
+    <string name="mosambee_device">Please plug-in a mosambee device.</string>
+    <string name="phone_no_invalid">Please enter valid mobile number.</string>
+    <string name="email_invalid">Please enter valid Email address.</string>
+    <string name="invalid_pin_format">"PIN is too easy.\nSame PIN,\nSequence PIN,\n Same pair of PIN are not allowed!"</string>
+    <string name="email_not_delivered">Sorry&#44;Email not delivered.</string>
+    <string name="sms_not_delivered">Sorry&#44;SMS&#47;Email not delivered.</string>
+    <string name="sms_email_id_not_delivered">Sorry&#44;SMS&#47;Email not delivered.</string>
+    <string name="max_limit">You have reached to max limit.</string>
+    <string name="invalid_amount">Please enter valid amount.</string>
+    <string name="zero_amount">Amount should be greater than 0.</string>
+    <string name="invalid_TIPamount">Please enter valid TIP amount.\nTIP amount should not be greater than 20% of actual amount.</string>
+    <string name="invalid_pin">Please enter correct pin.</string>
+    <string name="bill_no_long">Description is too long.</string>
+    <string name="data_long">Entered data is too long.</string>
+    <string name="session_expired">Your session has expired. Please login again.</string>
+    <string name="void_not_allowed">Sale Complete transaction can not voided.For any query please contact MOSAMBEE (022 285 231 51)</string>
+    <string name="email_sent">Email has been sent.</string>
+    <string name="sms_sent">SMS has been sent.</string>
+    <string name="no_email_not_valid">Enter valid Mobile&#47;Email.</string>
+
+    <!-- Toast -->
+    <string name="mobileno_not_valid">Enter valid Mobile number.</string>
+    <string name="enter_mobileno">Enter Mobile number.</string>
+    <string name="enter_mobileno_email">Enter Mobile&#47;Email.</string>
+    <string name="tap_card">Tap Card: </string>
+    <string name="printer_conformation">Do you want to Print data?</string>
+    <string name="printer_button">Print</string>
+    <string name="scanner_button">Barcode Scanner</string>
+
+    <!-- Printer -->
+    <string name="hint_invoice">Description</string>
+    <string name="hint_mobileno">Customer Mobile&#47;Email</string>
+    <string name="amount">0.00</string>
+
+    <!-- Main activity -->
+    <string name="enter_valid_mob_n_email">Please enter valid Mobile&#47;Email.</string>
+    <string name="hint_cashback">Cashback Amount</string>
+    <string name="pre_void_message">Your Approval Code has been verified.</string>
+    <string name="amount_void_message">Void amount is %1$s.</string>
+    <string name="post_void_message">Please swipe card to confirm.</string>
+    <string name="device_status_unpaired">Tap to pair device</string>
+    <string name="device_status_amount">Please enter amount above \u20B9 0.00</string>
+    <string name="device_status_mobileno_emailid">Please enter valid Mobile&#47;Email</string>
+    <string name="device_status_insert_card">Ready for transaction</string>
+    <string name="down_arrow">Scroll down for CHARGE button</string>
+    <string name="side_scroll">Scroll to get more options >></string>
+    <string name="no_transaction">There is no transaction.</string>
+    <string name="payment_failed">Sorry, Payment failed.</string>
+    <string name="Hint_Mo">Enter Mobile Number</string>
+
+    <!-- Main list (, Sale Complete and Void) -->
+    <string name="multiple_device_found">Transaction Declined\nMultiple USB connected devices found. Connect single device via USB then try.</string>
+    <string name="no_device_found">Transaction Declined\nNo USB connected device found. Connect device via USB then try.</string>
+    <string name="no_com_mode_found">Transaction Declined\nCommunication Mode Unknown.</string>
+    <string name="admin">Admin</string>
+    <string name="sms">SMS</string>
+    <string name="email">Email</string>
+    <string name="processed_by">Processed By</string>
+
+    <!-- Receipt -->
+    <string name="type_of_transaction">Type of Transaction:</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="mid">MID:</string>
+    <string name="tid">TID:</string>
+    <string name="batch_no">Batch Num:</string>
+    <string name="invoice_no">Invoice Num:</string>
+    <string name="card_no">Card Number:</string>
+    <string name="expiry_date">Expiry Date:</string>
+    <string name="bill_no">Description:</string>
+    <string name="txn_ref_id">Txn Id:</string>
+    <string name="card_type">Card Type:</string>
+    <string name="approval_code">Appr Code</string>
+    <string name="retrival_reference_no">RRN</string>
+    <string name="aid">AID </string>
+    <string name="tvr">TVR </string>
+    <string name="tsi">TSI </string>
+    <string name="cid">CID </string>
+    <string name="ac">AC </string>
+    <string name="app_label">App Label</string>
+    <string name="app_preferred_name">App Pref</string>
+    <string name="base_amount">Base Amount:</string>
+    <string name="tip_amount">Tip Amount:</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="cashback_amount">Cashback Amount:</string>
+    <string name="signature">Customer Signature:</string>
+    <string name="settlement_conformation">Do you want to settle the batch?</string>
+    <string name="settlement_button">Settle</string>
+    <string name="sign_again">Sign Again</string>
+
+
+    <!-- Settlement -->
+    <string name="add_tip">Add Tip</string>
+    <string name="continue_button">Continue</string>
+
+    <!-- Signature -->
+    <string name="amount_label">Amount:</string>
+    <string name="card_holder_name">Card Holder Name:</string>
+    <string name="reference_no">Reference No:</string>
+
+    <!-- Void/Sale Complete -->
+    <string name="transaction_id">Transaction ID:</string>
+    <string name="transaction_status">Transaction Status:</string>
+    <string name="transaction_type">Transaction Type:</string>
+    <string name="sale">Sale</string>
+    <string name="type_void">Void</string>
+    <string name="settlement">Settle</string>
+    <!-- Transaction Types -->
+    <string name="refund">Refund</string>
+    <string name="reverse">Reverse</string>
+    <string name="pay_by_link">SMS Pay</string>
+    <string name="batch">Batch</string>
+    <string name="type_tip">Tip</string>
+    <string name="SALE_TIP">Sale + Tip</string>
+    <string name="type_tip_adjust">Sale + Tip</string>
+    <string name="preauth">PreAuth</string>
+    <string name="sale_complete">Sale Complete</string>
+    <string name="cash">Cash</string>
+    <string name="refund_approved">Refund</string>
+    <string name="refund_declined">Refund Declined</string>
+    <string name="chequE">Cheque</string>
+    <string name="cheque">Cheque/Coupon</string>
+    <string name="PWCB">PWCB</string>
+
+
+    <string name="CBWP">CBWP</string>
+    <string name="wallet">Wallet</string>
+    <string name="EMI_SALE">EMI SALE</string>
+    <string name="EMI">EMI</string>
+    <string name="all">All transactions</string>
+    <string name="in_process">In process</string>
+    <string name="under_settlement">Under settlement</string>
+
+    <!-- Transaction Status -->
+    <string name="approved">Approved</string>
+    <string name="declined">Declined</string>
+    <string name="settled">Settled</string>
+    <string name="settlement_failed">Settlement Failed</string>
+    <string name="signature_pending">Signature Pending</string>
+    <string name="failed">Failed</string>
+    <string name="unsettled">Unsettled</string>
+    <string name="na">NA</string>
+    <string name="app_ver">1.1.1_20140511(t)</string>
+    <string name="vendor">www.pax.com.cn</string>
+    <string name="merchant">Kids\' Store</string>
+
+
+    <!-- FONT FAIIMLY FOR Project -->
+    <string name="welcome">Welcome</string>
+
+    <string name="thanks">Thanks for your shopping</string>
+    <!-- PAX -->
+
+    <string name="exit_program">Exit</string>
+    <string name="prompt">Prompt</string>
+    <string name="clear">Clear</string>
+    <string name="confirm">Confirm</string>
+    <string name="retry">Retry</string>
+    <string name="report">REPORT</string>
+    <string name="config">SETUP</string>
+    <string name="help">Tips</string>
+    <string name="help1">*single-click an item to add one</string>
+    <string name="help2">*long-click an item to remove all of it</string>
+    <string name="help3">*single-click cart icon to empty cart</string>
+    <string name="term_info">Terminal Information</string>
+    <string name="demo_mode">Stand-alone Mode</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="bankCard">Card</string>
+    <string name="emptyCart">Empty Cart</string>
+    <string name="trans">Transaction</string>
+    <string name="transProcessing">Processing&#8230;</string>
+    <string name="transOk">Succeeded</string>
+    <string name="sign">Sign</string>
+    <string name="title_paired_devices">Paired devices</string>
+    <string name="title_other_devices">Other devices</string>
+    <string name="commConfig">Communication</string>
+    <string name="commType">Comm Type</string>
+    <string name="serverAddr">IP(host)</string>
+
+    <string name="serverPort">Port</string>
+    <string name="bluetoothMac">Bluetooth Device</string>
+
+    <string name="scan">Scan</string>
+    <string name="ip">IP</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="turnOnBT">Turn on Bluetooth then proceed.</string>
+    <string name="configSaved">Saved</string>
+    <string name="reload">Reload</string>
+    <string name="save">Save</string>
+    <string name="readingTermInfo">"Reading Terminal information&#8230;"</string>
+    <string name="failReadingTermInfo">"Failed"</string>
+    <string name="connectFailed">"Connect failed, check devices and/or configuration."</string>
+    <string name="waitingForCard">"Swipe/Insert/Tap card&#8230;"</string>
+    <string name="swipe">"Swipe Card"</string>
+    <string name="insert">"Insert Card"</string>
+    <string name="tap">"Tap card"</string>
+    <string name="cardSwiped">"card detected"</string>
+    <string name="waitingForInputPin">"Enter PIN"</string>
+    <string name="noTrackDataRead">"No track data read"</string>
+    <string name="panError">"Error PAN info"</string>
+    <string name="emvTransFailed">Emv Trans Failed</string>
+    <string name="clssTransFailed">Contactless Trans Failed</string>
+    <string name="printing">Printing&#8230;</string>
+    <string name="retrying">"Retrying&#8230;</string>
+    <string name="get_pin">get pin</string>
+    <string name="input_pin">Please input pin now.</string>
+    <string name="swipe_card">Please swipe card now.</string>
+    <string name="audio">Audio</string>
+    <string name="mac_error">MAC ERROR</string>
+
+    <!-- Q-pos -->
+    <string name="cmd_timeout">CMD TIMEOUT</string>
+    <string name="pinKsn">pinKsn:</string>
+    <string name="trackksn">trackksn:</string>
+    <string name="pinBlock">pinBlock:</string>
+    <string name="posId">posId:</string>
+    <string name="get_pos_id">Get PosID</string>
+    <string name="getting_pos_id">Getting POS ID&#8230;</string>
+    <string name="scan_bt_device">select BT device</string>
+    <string name="please_select_bt_name">select bluetooth</string>
+    <string name="scan_bt_pos_error">No paired bluetooth device.\nPlease pair bluetooth device first.</string>
+    <string name="connecting_bt_pos">connecting\nPlease wait&#8230;</string>
+    <string name="waiting_for_card">Please insert/swipe/tap card now.</string>
+    <string name="no_card_detected">No card detected. Please insert or swipe card again and press check card.</string>
+    <string name="icc_card_inserted">ICC Card Inserted</string>
+    <string name="card_inserted">Card Inserted (Not ICC)</string>
+    <string name="bad_swipe">Bad Swipe. Please swipe again and press check card.</string>
+    <string name="card_swiped">Card Swiped: </string>
+    <string name="mag_head_fail">Magnetic head fail</string>
+    <string name="card_no_response">Check card no response</string>
+    <string name="card_swiped_track2_only">Card Swiped (Track 2 only):\n</string>
+    <string name="nfc_track2">Card Tapped (Track 2 Emulation):\n</string>
+    <string name="format_id">Format ID: </string>
+    <string name="masked_pan">Masked PAN: </string>
+    <string name="cardholder_name">Cardholder Name: </string>
+    <string name="ksn">KSN: </string>
+    <string name="pin_ksn">PIN KSN:</string>
+    <string name="track_ksn">Track KSN:</string>
+    <string name="emv_ksn">EMV KSN:</string>
+    <string name="uid">UID:</string>
+    <string name="service_code">Service Code: </string>
+    <string name="track_1_length">Track 1 Length: </string>
+    <string name="track_2_length">Track 2 Length: </string>
+    <string name="track_3_length">Track 3 Length: </string>
+    <string name="encrypted_tracks">Encrypted Tracks: </string>
+    <string name="encrypted_track_1">Encrypted Track 1: </string>
+    <string name="encrypted_track_2">Encrypted Track 2: </string>
+    <string name="encrypted_track_3">Encrypted Track 3: </string>
+    <string name="partial_track">Partial Track: </string>
+    <string name="card_data">Card Data: </string>
+    <string name="do_emv_trade_fail">Start EMV failed</string>
+    <string name="do_emv_trade_success">Start EMV success</string>
+    <string name="app_version">App Version: </string>
+    <string name="bootloader_version">Bootloader Version: </string>
+    <string name="firmware_version">Firmware Version: </string>
+    <string name="usb">USB: </string>
+    <string name="charge">Charge: </string>
+    <string name="battery_level">Battery Level: </string>
+    <string name="hardware_version">Hardware Version: </string>
+    <string name="supported_track">Supported Track: </string>
+    <string name="track_1_supported">Track 1 Supported: </string>
+    <string name="track_2_supported">Track 2 Supported: </string>
+    <string name="track_3_supported">Track 3 Supported: </string>
+    <string name="unknown">Unknown</string>
+    <string name="set_amount">Set Amount</string>
+    <string name="enter_pin">Please enter PIN</string>
+    <string name="online_process_requested">Online process requested.</string>
+    <string name="request_data_to_server">Request data to server.</string>
+    <string name="replied_connected">Replied connected.</string>
+    <string name="replied_success">Replied success.</string>
+    <string name="replied_failed">Replied failed.</string>
+    <string name="batch_data">Batch Data:\n</string>
+    <string name="transaction_log">Transaction Log:\n</string>
+    <string name="reversal_data">Reversal Data:\n</string>
+    <string name="please_select_app">Please select app</string>
+    <string name="transaction_result">Transaction Result</string>
+    <string name="transaction_approved">Approved</string>
+    <string name="transaction_terminated">Transaction Terminated</string>
+    <string name="transaction_declined">Transaction Declined</string>
+    <string name="transaction_cancel">Transaction Cancelled By User</string>
+    <string name="transaction_capk_fail">Fail (CAPK fail)</string>
+    <string name="transaction_not_icc">Fail (Not ICC card)</string>
+    <string name="transaction_app_fail">Fail (App fail)</string>
+    <string name="transaction_device_error">Pos Error</string>
+    <string name="tlv_list">TLV List:\n</string>
+    <string name="advice_process">Advice Process.</string>
+    <string name="call_your_bank">Please call your bank</string>
+    <string name="request_terminal_time">Request Terminal Time. Replied </string>
+    <string name="confirm_amount">Confirm amount</string>
+    <string name="amount_ok">Amount OK?</string>
+    <string name="cancel_or_enter">Cancel or Enter</string>
+    <string name="card_error">Card error</string>
+    <string name="enter_amount">Please enter amount</string>
+    <string name="incorrect_pin">Incorrect PIN</string>
+    <string name="insert_card">Please insert card</string>
+    <string name="not_accepted">Not accepted</string>
+    <string name="pin_ok">PIN OK</string>
+    <string name="processing_error">Processing error</string>
+    <string name="remove_card">Please remove card</string>
+    <string name="use_chip_reader">Please use chip reader</string>
+    <string name="use_mag_stripe">Please use mag stripe</string>
+    <string name="try_again">Please try again</string>
+    <string name="refer_payment_device">Please refer to your payment pos</string>
+    <string name="try_another_interface">Please try another interface</string>
+    <string name="online_required">Online required</string>
+    <string name="present_one_card">Please present only one card</string>
+    <string name="capk_failed">CAPK loading failed</string>
+    <string name="last_pin_try">Last PIN try</string>
+    <string name="battery_low">Pos battery low, please charge</string>
+    <string name="battery_critically_low">pos battery critically low and powered off</string>
+    <string name="no_device_detected">No pos detected.</string>
+    <string name="device_plugged">Pos connected.</string>
+    <string name="device_unplugged">Pos disconnected.</string>
+    <string name="command_not_available">Command not available</string>
+    <string name="device_no_response">Pos no response</string>
+    <string name="device_reset">Pos reset</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="device_busy">Pos Busy</string>
+    <string name="out_of_range">Input out of range.</string>
+    <string name="invalid_format">Input invalid format.</string>
+    <string name="zero_values">Input are zero values.</string>
+    <string name="input_invalid">Input invalid.</string>
+    <string name="cashback_not_supported">Cashback not supported.</string>
+    <string name="crc_error">CRC Error.</string>
+    <string name="comm_error">Communication Error.</string>
+    <string name="device_off">Pos powered off.</string>
+    <string name="get_info">Get Pos Info</string>
+    <string name="clear_log">Clear Log</string>
+    <string name="check_card">Start</string>
+    <string name="start_emv">Start EMV</string>
+    <string name="pin">PIN</string>
+    <string name="bypass">Bypass</string>
+    <string name="decline">Decline</string>
+    <string name="getting_info">Getting Pos info&#8230;</string>
+    <string name="starting">Starting&#8230;</string>
+    <string name="power_on_icc">Power on ICC</string>
+    <string name="power_off_icc">Power off ICC</string>
+    <string name="send_apdu">Send APDU</string>
+    <string name="power_on_icc_success">Power on ICC Success</string>
+    <string name="power_on_icc_failed">Power on ICC Failed</string>
+    <string name="power_off_icc_success">Power off ICC Success</string>
+    <string name="power_off_icc_failed">Power off ICC Failed</string>
+    <string name="apdu_result">APDU Result:</string>
+    <string name="atr">ATR:</string>
+    <string name="apdu_failed">APDU Failed</string>
+    <string name="sending">Sending:</string>
+    <string name="atr_length">ATR Length:</string>
+    <string name="get_ksn">Get KSN</string>
+    <string name="getting_ksn">Getting KSN&#8230;</string>
+    <string name="powering_on_icc">Powering on ICC&#8230;</string>
+    <string name="powering_off_icc">Powering off ICC&#8230;</string>
+    <string name="card_not_supported">Card not support</string>
+    <string name="missing_mandatory_data">Missing mandatory data</string>
+    <string name="card_blocked_or_no_evm_apps">Card blocked or no EMV apps</string>
+    <string name="invalid_icc_data">Invalid ICC data</string>
+    <string name="power_on_nfc">Power on NFC</string>
+    <string name="power_off_nfc">Power off NFC</string>
+    <string name="data_exchange">Data exchange</string>
+    <string name="power_on_nfc_success">Power on NFC Success</string>
+    <string name="power_on_nfc_failed">Power on NFC Failed</string>
+    <string name="power_off_nfc_success">Power off NFC Success</string>
+    <string name="power_off_nfc_failed">Power off NFC Failed</string>
+    <string name="data_received">Data received:</string>
+    <string name="data_length">Data length:</string>
+    <string name="data_exchange_failed">Data exchange failed</string>
+    <string name="response">Response:</string>
+    <string name="used">used:</string>
+    <string name="hours">hours</string>
+    <string name="minute">minutes</string>
+    <string name="seconds">seconds</string>
+    <string name="disclaimer1">*** CUSTOMER COPY ***</string>
+    <string name="version_disclaimer">    Version V670528</string>
+    <string name="dcc_disclaimer1">*** CARDHOLDER COPY ***</string>
+    <string name="dcc_disclaimer_visa">I have been offered a choice of payment currencies including INR. This currency conversion service is provided by this merchant.</string>
+    <string name="dcc_disclaimer_mastercard">I have chosen not to use the MasterCard currency conversion process and agree that I will have no recourse against MasterCard concerning the currency conversion or its disclosure.</string>
+    <string name="disclaimer">I AGREE TO PAY AS PER THE CARD ISSUER AGREEMENT</string>
+    <string name="disclaimerWallet">I AGREE TO PAY AS PER THE WALLET PROVIDER AGREEMENT</string>
+    <string name="cheque_disclaimer">I AGREE TO PAY AS PER THE AGREEMENT</string>
+    <string name="cashback_disclaimer">I  AGREE TO PAY TOTAL AMOUNT ACCORDING TO THE CARD ISSUER AGREEMENT THE CASH TRANSACTION MAY CARRY A TRANSACTION FEE IF ANY AND WILL BE BILLED BY YOUR CARD ISSUING BANK</string>
+    <string name="emi_disclaimer">CARD HOLDER CONSENT FOR EMI: I HAVE BEEN OFFERED THE CHOICE OF NORMAL AS WELL AS EMI FOR THIS PURCHASE AND I HAVE CHOSEN EMI. I HAVE UNDERSTOOD AND ACCEPT THE TERMS AND CONDITIONS OF EMI AND THE APPLICABLE CHARGES AS MENTIONED IN THE CHARGESLIP. EMI CONVERSION IS SUBJECT TO THE DISCRETION OF THE CARD ISSUER AND WILL HAPPEN IN 5-7 WORKING DAYS.SERVICE TAX EXTRA ON THE INTEREST AMT.MERCHANT CASHBACK (IF ANY) IS BEING PROVIDED BY RESPECTIVE MERCHANT/MANUFACTURER AND NOT CARD ISSUER.IN CASE OF NON-CONVERSION PLS CONTACT CARD ISSUER</string>
+    <string name="slide_menu_wallet">Wallet</string>
+    <string name="slide_menu_emi">EMI</string>
+    <string name="dialog_title_cashback">Enter CASHBACK Amount</string>
+    <string name="dialog_title_sale_tip">Enter TIP Amount</string>
+    <string name="dialog_title_reverse_amount">Enter transaction Amount</string>
+    <string name="fetching_emi_list">Fetching Emi Program list&#8230;</string>
+    <string name="standardSale">Standard Sale</string>
+    <string name="activity_emi_enquiry">EMI</string>
+    <string name="activity_emi_sale">EMI</string>
+    <string name="activity_emi_program_enquiry">EMI</string>
+
+    <string name="fetching_emi_enquiry_list">Fetching Emi Enquiry list&#8230;</string>
+    <string name="print_receipt">PRINT RECEIPT</string>
+    <string name="start_scan">START SCAN</string>
+    <string name="stop_scan">STOP SCAN</string>
+    <string name="type_of_emi_details">Emi Details</string>
+    <string name="tenure">Tenure :</string>
+
+    <string name="bankInterestRate">ROI(%) :</string>
+    <string name="productCode">Product Code :</string>
+    <string name="mfgName">Mfg. Name :</string>
+    <string name="productDesc">Product Desc :</string>
+    <string name="productImei">Product Imei :</string>
+    <string name="monthlyInstallment">EMI Amt :</string>
+    <string name="total_emi_amount">TOT Amt with Interest :</string>
+    <string name="cashBackPercentage">Cashback(%) :</string>
+    <string name="cashBackAmountEmi">Cashback Amt :</string>
+    <string name="processingFee">Processing Fee :</string>
+    <string name="effecCostToCust">Effective Cost :</string>
+    <string name="type_of_product_information">Product Information</string>
+    <string name="switch_finger">Switch</string>
+    <string name="open_power_1">Turn on the power</string>
+    <string name="open_power_2">Turn on the power</string>
+    <string name="open_serial">Open the serial port</string>
+    <string name="send_hex">Send the command</string>
+
+
+    <string name="close_serial">Close the serial port</string>
+    <string name="close_power_1">Turn off the power</string>
+    <string name="close_power_2">Turn off the power</string>
+    <string name="switch_scaning">Switch</string>
+    <string name="open_scan_head">Open the scan head</string>
+    <string name="open_power_1_2">Turn on the power</string>
+    <string name="close_power_1_2">Turn off the power</string>
+    <string name="show_return_info">Display the return message</string>
+    <string name="switch_mpos">Switch</string>
+    <string name="switch_printer">Switch</string>
+    <string name="open_power_printer">Turn on the power</string>
+    <string name="printer_test">Print test</string>
+    <string name="setting">Setting</string>
+    <string name="lable_print">Print Lable</string>
+    <string name="text_print">print Text</string>
+    <string name="pdf_print">Print PDF</string>
+    <string name="picture_print">Print Picture</string>
+
+
+    <!-- com.mosambee.MainActivity -->
+    <string name="barcode_print">Print BarCode</string>
+    <string name="no_connected">Printer Not Connected</string>
+    <string name="about_us">About Us</string>
+    <string name="lable_of_library_58mm">Library Lable 58mm</string>
+    <string name="lable_of_physical_distribution_100mm">Physical Distribution 100mm</string>
+    <string name="lable_of_anneng_physical_distribution_80mm">Physical Distribution 80mm</string>
+    <string name="lable_of_material_transport_80mm">Material Transport 80mm</string>
+    <string name="lable_of_fruit">Label Of Fruit And Vegetables</string>
+    <!-- LablePrintActivity -->
+    <string name="lable_of_milky_tea">Label Of Milky Tea Room</string>
+    <string name="lable_of_material_transport_80mm2">Material Transport 80mm</string>
+    <string name="lable_of_tracking_number">Label Of Tracking Number</string>
+    <string name="lable_of_storage">Label Of Storage Sector</string>
+    <string name="settingactivity_orderset">orderset</string>
+    <string name="settingactivity_cpcl_orderset">CPCL</string>
+    <string name="settingactivity_tspl_orderset">TSPL</string>
+    <string name="settingactivity_gap">gap(mm):</string>
+    <string name="settingactivity_gap_offset">gap offset(mm):</string>
+
+
+    <string name="settingactivity_speed">speed(inch/seconds):</string>
+    <string name="settingactivity_concentration">concentration:</string>
+    <string name="settingactivity_label_offset">label offset(mm):</string>
+    <string name="settingactivity_print_numbers">print numbers:</string>
+    <string name="settingactivity_not_print_area">no print area</string>
+    <string name="settingactivity_margin_left">margin left(mm):</string>
+    <string name="settingactivity_margin_top">margin top(mm):</string>
+    <string name="settingactivity_other_settings">other settings</string>
+    <string name="settingactivity_tear_setting">tear setting:</string>
+    <string name="settingactivity_cash_box_setting">cash box setting:</string>
+    <string name="settingactivity_buzzer_setting">buzzer setting:</string>
+    <string name="settingactivity_print_test">print test</string>
+    <string name="settingactivitty_toast_bluetooth_set_tspl_successful">TSPL set successful with BT</string>
+    <string name="settingactivity_toast_usb_set_tspl_succefful">TSPL set successful with USB</string>
+    <string name="String_judge1">prohibit open the box</string>
+    <string name="String_judge2">open the box before print</string>
+    <string name="String_judge3">open the box after print</string>
+    <string name="String_judge4">ban buzzer</string>
+    <string name="String_judge5">buzzer rang before print</string>
+    <string name="String_judge6">buzzer rang after print</string>
+    <string name="bt_not_enabled">Bluetooth is not enabled</string>
+    <string name="printerName">device name:no connection</string>
+    <string name="printerAddress">deivice address:no connection</string>
+    <string name="printerType">Printer Model</string>
+    <string name="interface_type">Printer Interface Type</string>
+    <string name="openConnection">OPEN CONNECTION</string>
+    <string name="scan_connect">Scan And Connection</string>
+    <string name="paper_width">Paper Width</string>
+    <string name="copies_number">Number of Copies</string>
+    <string name="check_status">Check Status</string>
+    <string name="print_test">Print TestPage</string>
+    <string name="button_scan">Scan New Devices</string>
+    <string name="back">Back</string>
+    <string name="str_message">Tips：</string>
+    <string name="str_connlast">connected to the last device?</string>
+    <string name="yesconn">Connect to Last Time</string>
+    <string name="str_resel">New Search</string>
+    <string name="disconnect">Close Connection</string>
+    <string name="connect">Connect</string>
+    <string name="switch_wifi">Switch WiFi</string>
+    <string name="connecting">Connecting...</string>
+    <string name="please_wait">Please Wait...</string>
+    <string name="scanning">Scanning...</string>
+    <string name="select_device">Pleaase select the device to connect</string>
+    <string name="none_paired">No Paired Device</string>
+
+    <string name="has_paired">Already Paired</string>
+    <string name="not_paired">Have not Paired</string>
+    <!-- DeviceListActivity -->
+    <string name="none_found">No found</string>
+    <string name="scan_text">Put the qr code in the box and scan automatically</string>
+    <string name="conn_failed">No Printer available or Connection to printer Failed.</string>
+    <string name="conn_port_failed">Connection to printer Failed.</string>
+    <string name="scanner_conn_failed">No Scanner available or\nConnection to Scanner Failed.</string>
+    <string name="no_printer">No Printer available at this moment.</string>
+    <string name="conn_success">Printer Connected successfully.</string>
+    <string name="conn_closed">Connect Closed</string>
+    <string name="conn_no">No devices can connect</string>
+
+    <string name="monochrome_print">Print Monochrome</string>
+    <string name="take_phtoto_print">Take Pictures And Print</string>
+    <string name="select_photos">Gallery</string>
+    <string name="canvas_print">Canvas</string>
+    <string name="str_canvas">Show Canvas：</string>
+
+
+    <!-- PriturePrintActivity -->
+    <string name="print_codepage">Print CodePage</string>
+    <string name="print">Print</string>
+    <string name="not_support">This phone does not support this feature</string>
+    <string name="cancel">Cancel</string>
+    <string name="codepageTest">Select CodePage Models:</string>
+    <string name="tv_example">Show Example</string>
+    <string name="print_table">Show Example of Table</string>
+    <string name="qrcode_scann">Scan QrCode</string>
+    <string name="scann_new_devices">Scan for New Devices</string>
+    <string name="tv_current_wifi">Present Wifi:</string>
+    <string name="test">Test</string>
+    <string name="content_after_scann">Content after scanning</string>
+    <string name="unknown_device">unknown device</string>
+    <string name="headview_setting">Setting</string>
+    <string name="headview_LablePrint">Lable</string>
+    <string name="headview_TextPrint">Text</string>
+    <string name="headview_PdfPrint">PDF</string>
+    <string name="headview_BarcodePrint">Barcode</string>
+    <!-- BaseActivity -->
+    <string name="headview_PicturePrint">Picture</string>
+    <string name="on_line">device online</string>
+    <string name="off_line">device offline</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="version_update">Version Update</string>
+    <string name="user_guide">User Guide</string>
+    <!-- headView -->
+    <string name="website">Website</string>
+    <string name="call_us">Call Us</string>
+    <!-- AboutUsActivity -->
+    <string name="about">About</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_material_transport">MaterialTransportActivity</string>
+    <string name="title_activity_test_tcp">TestTCP</string>
+    <string name="title_activity_main_activitya">MainActivitya</string>
+    <string name="app_picker_name">Applications</string>
+    <string name="bookmark_picker_name">Bookmarks</string>
+    <string name="button_add_calendar">Add to calendar</string>
+    <string name="button_add_contact">Add contact</string>
+    <string name="button_book_search">Book Search</string>
+
+
+    <string name="device_admin">device_admin</string>
+
+    <string name="device_admin_description">device_admin_description</string>
+
+    <!--ZXING-->
+
+    <string name="button_cancel">Cancel</string>
+    <string name="button_custom_product_search">Custom search</string>
+    <string name="button_dial">Dial number</string>
+    <string name="button_email">Send email</string>
+    <string name="button_get_directions">Get directions</string>
+    <string name="button_mms">Send MMS</string>
+    <string name="button_ok">OK</string>
+    <string name="button_open_browser">Open browser</string>
+    <string name="button_product_search">Product search</string>
+    <string name="button_search_book_contents">Search contents</string>
+    <string name="button_share_app">Application</string>
+    <string name="button_share_bookmark">Bookmark</string>
+    <string name="button_share_by_email">Share via email</string>
+    <string name="button_share_by_sms">Share via SMS</string>
+    <string name="button_share_clipboard">Clipboard</string>
+    <string name="button_share_contact">Contact</string>
+    <string name="button_show_map">Show map</string>
+    <string name="button_sms">Send SMS</string>
+    <string name="button_web_search">Web search</string>
+    <string name="button_wifi">Connect to Network</string>
+    <string name="contents_contact">Contact info</string>
+    <string name="contents_email">Email address</string>
+    <string name="contents_location">Geographic coordinates</string>
+    <string name="contents_phone">Phone number</string>
+    <string name="contents_sms">SMS address</string>
+    <string name="contents_text">Plain text</string>
+    <string name="history_clear_text">Clear history</string>
+    <string name="history_clear_one_history_text">Clear</string>
+    <string name="history_email_title">Barcode Scanner history</string>
+    <string name="history_empty">Empty</string>
+    <string name="history_empty_detail">No barcode scans have been recorded</string>
+    <string name="history_send">Send history</string>
+    <string name="history_title">History</string>
+    <string name="menu_encode_mecard">Use MECARD</string>
+    <string name="menu_encode_vcard">Use vCard</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_history">History</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="msg_bulk_mode_scanned">Bulk mode: barcode scanned and saved</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hi</string>
+    <string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="msg_default_time">Time</string>
+    <string name="msg_default_type">Type</string>
+    <string name="msg_encode_contents_failed">Could not encode a barcode from the data provided.</string>
+    <string name="msg_error">Error</string>
+    <string name="msg_google_books">Google</string>
+    <string name="msg_google_product">Google</string>
+    <string name="msg_intent_failed">Sorry, the requested application could not be launched. The barcode contents may be invalid.</string>
+    <string name="msg_invalid_value">Invalid value</string>
+    <string name="msg_redirect">Redirect</string>
+    <string name="msg_sbc_book_not_searchable">Sorry, this book is not searchable.</string>
+    <string name="msg_sbc_failed">Sorry, the search encountered a problem.</string>
+    <string name="msg_sbc_no_page_returned">No page returned</string>
+    <string name="msg_sbc_page">Page</string>
+    <string name="msg_sbc_results">Results</string>
+    <string name="msg_sbc_searching_book">Searching book\u2026</string>
+    <string name="msg_sbc_snippet_unavailable">Snippet not available</string>
+    <string name="msg_share_explanation">You can share data by displaying a barcode on your screen and scanning it with another phone.</string>
+    <string name="msg_share_text">Or type some text and press Enter</string>
+    <string name="msg_sure">Are you sure?</string>
+    <string name="msg_unmount_usb">Sorry, the SD card is not accessible.</string>
+    <string name="preferences_actions_title">When a barcode is found\u2026</string>
+    <string name="preferences_auto_focus_title">Use auto focus</string>
+    <string name="preferences_auto_open_web_title">Open web pages automatically</string>
+    <string name="preferences_bulk_mode_summary">Scan and save many barcodes continuously</string>
+    <string name="preferences_bulk_mode_title">Bulk scan mode</string>
+    <string name="preferences_copy_to_clipboard_title">Copy to clipboard</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">Substitutions: %s = contents, %f = format, %t = type</string>
+    <string name="preferences_custom_product_search_title">Custom search URL</string>
+    <string name="preferences_decode_1D_industrial_title">1D Industrial</string>
+    <string name="preferences_decode_1D_product_title">1D Product</string>
+    <string name="preferences_decode_Aztec_title">Aztec</string>
+    <string name="preferences_decode_Data_Matrix_title">Data Matrix</string>
+    <string name="preferences_decode_PDF417_title">PDF417 (β)</string>
+    <string name="preferences_decode_QR_title">QR Codes</string>
+    <string name="preferences_device_bug_workarounds_title">Device Bug Workarounds</string>
+    <string name="preferences_disable_barcode_scene_mode_title">No barcode scene mode</string>
+    <string name="preferences_disable_continuous_focus_summary">Use only standard focus mode</string>
+    <string name="preferences_disable_continuous_focus_title">No continuous focus</string>
+    <string name="preferences_disable_exposure_title">No exposure</string>
+    <string name="preferences_disable_metering_title">No metering</string>
+    <string name="preferences_front_light_summary">Improves scanning in low light on some phones, but may cause glare. Does not work on all phones.</string>
+    <string name="preferences_front_light_title">Use front light</string>
+    <string name="preferences_front_light_auto">Automatic</string>
+    <string name="preferences_front_light_off">Off</string>
+    <string name="preferences_front_light_on">On</string>
+    <string name="preferences_general_title">General settings</string>
+    <string name="preferences_history_summary">Store your scans in History</string>
+    <string name="preferences_history_title">Add to History</string>
+    <string name="preferences_invert_scan_title">Invert scan</string>
+    <string name="preferences_invert_scan_summary">Scan for white barcodes on black background. Not available on some devices.</string>
+    <string name="preferences_name">Settings</string>
+    <string name="preferences_orientation_title">No automatic rotation</string>
+    <string name="preferences_play_beep_title">Beep</string>
+    <string name="preferences_remember_duplicates_summary">Store multiple scans of the same barcode in History</string>
+    <string name="preferences_remember_duplicates_title">Remember duplicates</string>
+    <string name="preferences_result_title">Result settings</string>
+    <string name="preferences_scanning_title">When scanning for barcodes, decode\u2026</string>
+    <string name="preferences_search_country">Search country</string>
+    <string name="preferences_supplemental_summary">Try to retrieve more information about the barcode contents</string>
+    <string name="preferences_supplemental_title">Retrieve more info</string>
+    <string name="preferences_vibrate_title">Vibrate</string>
+    <string name="result_address_book">Found contact info</string>
+    <string name="result_calendar">Found calendar event</string>
+    <string name="result_email_address">Found email address</string>
+    <string name="result_geo">Found geographic coordinates</string>
+    <string name="result_isbn">Found book</string>
+    <string name="result_product">Found product</string>
+    <string name="result_sms">Found SMS address</string>
+    <string name="result_tel">Found phone number</string>
+    <string name="result_text">Found plain text</string>
+    <string name="result_uri">Found URL</string>
+    <string name="result_wifi">Found WLAN Configuration</string>
+    <string name="sbc_name">Google Book Search</string>
+    <string name="wifi_changing_network">Requesting connection to network\u2026</string>
+    <string name="fetching_data">Fetching Data</string>
+    <string name="choose_cardType">choose_card_type</string>
+    <string name="txn_date">Transaction Date</string>
+    <string name="appr_code">Approval code</string>
+    <string name="txn_amount">Transaction Amount</string>
+    <string name="sequence_number">Sequence Number</string>
+    <string name="upi_merchant_id">UPI Merchant Id</string>
+    <string name="order_id">Order Id</string>
+    <string name="activity_UPI_OFFLINE_TXN_REFUND">UPI Offline Transaction Refund</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tap_prompt">Tap Prompt</string>
+    <string name="bt_prompt">BT Prompt</string>
+    <string-array name="transactionTypes">
+        <item>Transaction Type</item>
+        <item>Home</item>
+        <item>Void</item>
+        <item>Settlement</item>
+        <item>Settlement Summary</item>
+        <item>Recent Transactions</item>
+        <item>Card Transactions</item>
+        <item>SMS Pay Transactions</item>
+        <item>Non Card Transactions</item>
+        <item>Admin</item>
+        <item>Settings</item>
+        <item>Initialization</item>
+        <item>Terminal Logon</item>
+        <item>TMK Download</item>
+        <item>FAQs</item>
+        <item>My Profile</item>
+        <item>SPOC/CPOC Diagnosis</item>
+
+
+        <item>About</item>
+        <item>Contact Us</item>
+        <item>Logout</item>
+    </string-array>
+    <string-array name="UPI_List">
+        <item>UPI Collect</item>
+        <item>Generate QR Code</item>
+        <!--<item>Check VPA</item>
+        <item>Send Link</item>-->
+        <item>Scan QR Code</item>
+    </string-array>
+    <string-array name="UPI_LIST">
+        <item>UPI Collect</item>
+        <item>UPI OFFLINE REFUND</item>
+    </string-array>
+    <string-array name="TransactionType_List">
+        <item>PreAuth</item>
+        <item>Sale Complete</item>
+        <item>Void</item>
+        <item>CBWP</item>
+        <item>PWCB</item>
+    </string-array>
+
+    <string-array name="BHARAT_QR_List">
+        <item>BHARAT QR</item>
+        <item>CHECK STATUS</item>
+        <item>OFFLINE REFUND</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="cardType">
+        <item>VISA</item>
+        <item>MASTERCARD</item>
+        <item>RuPay</item>
+    </string-array>
+
+</resources>

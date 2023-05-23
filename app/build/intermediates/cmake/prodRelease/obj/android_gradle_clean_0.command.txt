@@ -1,0 +1,7 @@
+Executable : /Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/SFN/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/prodRelease/armeabi-v7a
+clean
+jvmArgs : 
+

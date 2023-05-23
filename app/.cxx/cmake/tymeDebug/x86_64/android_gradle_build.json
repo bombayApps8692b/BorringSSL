@@ -1,0 +1,79 @@
+{
+  "stringTable": {
+    "0": "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/tymeDebug/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DOpenSSLApi_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dkeys_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "3": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/CMakeLists.txt",
+    "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/tymeDebug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/tymeDebug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "OpenSSLApi-Debug-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/tymeDebug/x86_64\" OpenSSLApi",
+      "buildType": "debug",
+      "toolchain": "3148099289",
+      "abi": "x86_64",
+      "artifactName": "OpenSSLApi",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/src/main/c/OpenSSLApi.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/build/intermediates/cmake/tymeDebug/obj/x86_64/libOpenSSLApi.so",
+      "runtimeFiles": []
+    },
+    "native-lib-Debug-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/tymeDebug/x86_64\" native-lib",
+      "buildType": "debug",
+      "toolchain": "3148099289",
+      "abi": "x86_64",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/src/main/c/native-lib.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/build/intermediates/cmake/tymeDebug/obj/x86_64/libnative-lib.so",
+      "runtimeFiles": []
+    },
+    "keys-Debug-x86_64": {
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/tymeDebug/x86_64\" keys",
+      "buildType": "debug",
+      "toolchain": "3148099289",
+      "abi": "x86_64",
+      "artifactName": "keys",
+      "files": [
+        {
+          "src": "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/src/main/c/keys.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/build/intermediates/cmake/tymeDebug/obj/x86_64/libkeys.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3148099289": {
+      "cCompilerExecutable": "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/imgHost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:src="@drawable/hdfc_logo1" />
+
+        <TextView
+            android:id="@+id/txtSummary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:layout_margin="10dp"
+            android:gravity="center_vertical"
+            android:scrollbars="vertical"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TableRow
+            android:id="@+id/tableRowSummary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/summary"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="3dp"
+            android:paddingBottom="3dp" >
+
+            <TextView
+                android:id="@+id/textViewtype"
+                android:layout_width="70dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".40"
+                android:gravity="start"
+                android:text="vcsagvsa"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/textViewcount"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight=".20"
+                android:gravity="end"
+                android:text="vcsagvsa"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/textViewamount"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight=".20"
+                android:gravity="end"
+                android:text="vcsagvsa"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+        </TableRow>
+    </LinearLayout>
+
+</LinearLayout>

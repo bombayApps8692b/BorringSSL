@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "PACKAGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "com.mosambee.mpos.softpos",
+  "variantName": "devDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 85,
+      "versionName": "1.2.006",
+      "outputFile": "AndroidManifest.xml"
+    }
+  ]
+}

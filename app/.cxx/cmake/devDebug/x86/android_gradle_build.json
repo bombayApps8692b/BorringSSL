@@ -1,0 +1,21 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/CMakeLists.txt",
+    "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/.cxx/cmake/devDebug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {},
+  "toolchains": {
+    "3813335168": {
+      "cCompilerExecutable": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/narayan/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

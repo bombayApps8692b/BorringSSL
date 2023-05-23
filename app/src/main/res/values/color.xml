@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#6D6C68</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00ffffff</color>
+
+    <color name="black">#000000</color>
+    <color name="grey">#616161</color>
+    <color name="light_grey">#ededed</color>
+    <color name="colorPrimary">#ffd105</color>
+
+    <!--<color name="colorPrimary">#ffd105</color>-->
+
+    <!--  ========Color Scheme for Default==========   -->
+    <color name="colorPrimaryDefault">#ffd105</color>
+    <color name="colorPrimaryDark">#ffbc05</color>
+    <color name="colorToast">#fff2b8</color>
+    <color name="colorAccent">#99bbff</color>
+    <color name="dialogTextColorDefault">#000000</color>
+    <color name="colorPrimaryThemeDefault">#ffd105</color>
+
+
+    <!--  ========Color Scheme for Tyme==========   -->
+    <color name="colorPrimaryTyme">#ffc324</color>
+    <color name="colorPrimaryDarkTyme">#000000</color>
+    <color name="colorAccentTyme">#ffc324</color>
+    <color name="colorToastTyme">#ffc324</color>
+    <color name="dialogTextColorTyme">#000000</color>
+    <color name="colorPrimaryThemeTyme">#ffffff</color>
+
+    <!--  ========Color Scheme for Network==========   -->
+<!--    <color name="colorPrimaryNetwork">#f7f7f7</color>-->
+    <color name="colorPrimaryNetwork">#002266</color>
+    <color name="colorPrimaryDarkNetwork">#002266</color>
+    <color name="colorAccentNetwork">#99bbff</color>
+    <color name="colorToastNetwork">#99bbff</color>
+    <color name="dialogTextColorNetwork">#002266</color>
+    <color name="colorPrimaryThemeNetwork">#ffffff</color>
+<!--    <color name="colorPrimaryThemeNetwork">#003397</color>-->
+
+
+
+    <!--  ========Color Scheme for HDFC==========   -->
+    <color name="colorPrimaryHDFC">#003397</color>
+    <color name="colorPrimaryDarkHDFC">#002266</color>
+    <color name="colorAccentHDFC">#99bbff</color>
+    <color name="colorToastHDFC">#99bbff</color>
+    <color name="dialogTextColorHDFC">#FFFFFF</color>
+    <color name="colorPrimaryThemeHDFC">#003397</color>
+
+
+    <!--  ========Color Scheme for YES BANK ==========   -->
+    <color name="colorPrimaryYES">#0077cc</color>
+    <color name="colorPrimaryDarkYES">#004a80</color>
+    <color name="colorAccentYES">#80caff</color>
+    <color name="colorToastYES">#80caff</color>
+    <color name="dialogTextColorYES">#000000</color>
+    <color name="colorPrimaryThemeYES">#0077cc</color>
+
+
+    <!--  ========Color Scheme for KOTAK ==========   -->
+    <color name="colorPrimaryKOTAK">#ea1f27</color>
+    <color name="colorPrimaryDarkKOTAK">#bb1117</color>
+    <color name="colorAccentKOTAK">#f48a8e</color>
+    <color name="colorToastKOTAK">#f48a8e</color>
+    <color name="dialogTextColorKOTAK">#FFFFFF</color>
+    <color name="colorPrimaryThemeKOTAK">#ea1f27</color>
+
+
+    <!--  ========Color Scheme for WESTPAC ==========   -->
+    <color name="colorPrimaryWESTPAC">#ff0037</color>
+    <color name="colorPrimaryDarkWESTPAC">#b30027</color>
+    <color name="colorAccentWESTPAC">#ff6687</color>
+    <color name="colorToastWESTPAC">#ff809b</color>
+    <color name="dialogTextColorWESTPAC">#FFFFFF</color>
+    <color name="colorPrimaryThemeWESTPAC">#ff0037</color>
+
+
+
+
+    <color name="navigationBarColor">#000000</color>
+
+    <color name="dialogTextColor">#FFFFFF</color>
+    <color name="defaultDialogTextColor">#000000</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="status_text">#ffffffff</color>
+
+    <color name="listItemBackground">#ffffb3</color>
+
+
+    <color name="snow">#FFFAFA</color>
+    <color name="transparent_half">#50000000</color>
+    <color name="transparent_white">#DDFFFFFF</color>
+
+    <color name="background">#edf0f3</color>
+    <color name="green">#2A8108</color>
+    <color name="red">#FF0202</color>
+
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="encode_view">#ffffffff</color>
+    <color name="contents_text">#ff000000</color>
+
+     <!-- Device Status -->
+    <color name="device_status">#687382</color>
+
+    <!-- Button -->
+    <color name="button_text">#ffffff</color>
+    <color name="selected_button_text">#000000</color>
+    <color name="deselected_button_text">#7f7677</color>
+
+    <!-- Charge Button -->
+    <color name="charge_disabled">#dbdbd9</color>
+    <color name="charge_enabled">#f9db00</color>
+
+    <!-- Progress dialog -->
+    <color name="progress_dialog_background">#50000000</color>
+
+    <!-- Seperator -->
+    <color name="seperator">#747177</color>
+
+    <!-- Edit text box -->
+    <color name="flip_text">#595a5e</color>
+
+    <!-- Signature -->
+    <color name="card_number">#343434</color>
+    <color name="agreement_text">#FF404040</color>
+
+
+    <color name="sale">#1C6608</color>
+    <color name="t_void">#FF0202</color>
+    <color name="settlement">#FFFFFF</color>
+    <color name="refund">#FF0202</color>
+    <color name="reverse">#FFFFFF</color>
+    <color name="batch">#000000</color>
+    <color name="tip">#1C6608</color>
+    <color name="textViewColor">#333333</color>
+    <color name="preauth">#1C6608</color>
+    <color name="sale_complete">#02FF28</color>
+    <color name="pay_by_link">#FF0202</color>
+    <color name="text_view_background">#ABABAB</color>
+    <color name="upi">#3385ff</color>
+    <color name="leadCapture">#3385ff</color>
+    <color name="table_heading_background">#e6e6e6</color>
+    <color name="table_border_color">#e6e6e6</color>
+
+</resources>

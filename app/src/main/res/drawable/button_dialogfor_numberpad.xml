@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item android:state_pressed="true"-->
+<!--          android:drawable="@drawable/button_dialog_pressedfor_numberpad" /> &lt;!&ndash; pressed &ndash;&gt;-->
+<!--    <item android:state_focused="true"-->
+<!--          android:drawable="@drawable/button_dialog_pressedfor_numberpad" /> &lt;!&ndash; focused &ndash;&gt;-->
+    <item android:drawable="@drawable/button_dialog_unpressedfor_numberpad" /> <!-- default -->
+
+    <item android:state_pressed="true"
+           android:drawable="@drawable/button_dialog_unpressedfor_numberpad" />
+
+    <item android:state_focused="true"
+        android:drawable="@drawable/button_dialog_unpressedfor_numberpad" />
+    </selector>

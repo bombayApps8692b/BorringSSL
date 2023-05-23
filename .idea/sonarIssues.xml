@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/res/values/values.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/17102019/pos_android_studio_demo2/pos_android_studio_demo/pos_android_studio_app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/17102019/pos_android_studio_demo2/pos_android_studio_demo/pos_android_studio_app/src/main/java/com/dspread/demoui/BusinessCardActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/17102019/pos_android_studio_demo2/pos_android_studio_demo/pos_android_studio_app/src/main/java/com/dspread/demoui/IccActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/17102019/pos_android_studio_demo2/pos_android_studio_demo/pos_android_studio_app/src/main/java/com/dspread/demoui/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/28-11-2019/MosambeeApp/app/src/main/java/com/activity/Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/28-11-2019/MosambeeApp/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NetGuard-0.49/NetGuard-0.49/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NetGuard-0.49/NetGuard-0.49/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/BasicRxJavaSample/app/src/main/java/com/example/android/observability/persistence/LocalUserDataSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/fragments/Fragment1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/views/CheckBox.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/views/EditTextBold.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/views/EditTextLight.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/views/EditTextRegular.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/views/EditTextSemiBold.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/views/IconView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/views/IconView2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/views/RadioButton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/views/TextViewBold.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/views/TextViewLight.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/views/TextViewRegular.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/java/com/narayan/copy/views/TextViewSemiBold.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/copy2/LoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/copy2/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/copy2/MyDialogFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/copy2/StartActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/models/Category.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/models/Product.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/CheckBox.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/CustomRemarksView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/EditTextBold.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/EditTextLight.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/EditTextRegular.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/EditTextSemiBold.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/IconView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/IconView2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/MyRecyclerViewAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/PagerSlidingTabStrip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/RadioButton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/RoundRectCornerImageView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/TextViewBold.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/TextViewLight.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/TextViewRegular.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/TextViewSemiBold.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/k71.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/views/PagerSlidingTabStrip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/java/com/narayan/views/views/ZoomableImageView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/layout/activity_login.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/layout/activity_start.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/layout/activity_test.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/layout/app_button.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/layout/dialog_add_product.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/layout/empty_product_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/layout/fine_dine_product_details.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/layout/home_bottom_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/layout/layout_empty_message.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/layout/product_list_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/layout/product_list_item_grid.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/values/arrays.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/values/attrs.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/Copy2/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/JsonExample/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/JsonExample/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/LiveDataSample/app/src/main/res/layout/activity_livedata.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/LiveDataSample/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/WebviewClick/app/src/main/assets/page.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/WebviewClick/app/src/main/java/com/narayan/webviewclick/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/android-jetpack-master/app/src/main/java/com/androidstudy/androidjetpackdemo/data/Database.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/app/app.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/app/src/main/java/com/mosambee/keysprotect/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/app/src/main/java/com/narayan/workmanager/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/app/src/main/java/com/narayan/workmanager/MyWorker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/app/src/main/java/com/narayan/workmanager/NotificationWorker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/smartcard-reader-master/ShApp/app/src/main/java/com/narayan/shapp/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Android Jetpack Practice/smartcard-reader-master/smartcard-reader-master/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ApnaApp/Splitwise/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ApnaApp/Splitwise/app/src/main/java/com/narayan/splitwise/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ApnaApp/Splitwise/app/src/main/java/com/narayan/splitwise/SinkholeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ApnaApp/Splitwise/app/src/main/java/com/narayan/splitwise/Util.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ApnaApp/Splitwise/app/src/main/java/com/narayan/splitwise/ui/main/PlaceholderFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ApnaApp/Splitwise/app/src/main/java/com/narayan/splitwise/ui/main/SectionsPagerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ApnaApp/Splitwise/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/ApnaApp/Splitwise/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/BootReceiver.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/CustomAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/Dao/BlockingDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/Dao/PInfoDao.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/Database/BlockingRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/Model/Blocking.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/Model/PInfo.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/MyApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/PrivacyPolicy.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/Utility/ImageSaver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/Utility/ImageSaver.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/Utility/PInfo.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/Utility/Rule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/java/com/example/firewall/Utility/SinkholeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/res/layout/activity_privacy_policy.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/res/menu/menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Firewall/FireWall/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../IndianOil/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../IndianOil/app/src/main/java/com/mosambee/indianoil/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../IndianOil/app/src/main/res/xml/provider_paths.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../IndianOil/mosambeelib/src/main/java/com/mosambee/mosambeelib/DownloadUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../IndianOil/mosambeelib/src/main/java/com/mosambee/mosambeelib/MosambeeUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../IndianOil/mosambeelib/src/main/java/com/mosambee/mosambeelib/ServiceActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../MosambeeApi/MosambeeApi/app/src/main/java/com/mosambee/activity/Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../MosambeeApi/MosambeeApi/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../IndianOil/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../IndianOil/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../IndianOil/app/src/main/java/com/mosambee/indianoil/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../IndianOil/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../IndianOil/mosambeelib/src/main/java/com/mosambee/mosambeelib/ServiceActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../IndianOilTest/app/app.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../IndianOilTest/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../IndianOilTest/app/src/main/java/com/mosambee/indianoiltest/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../IndianOilTest/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../IndianOilTest/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MerchantTest/app/src/main/java/com/mosambee/merchanttest/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MerchantTest/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/build/generated/source/buildConfig/dev/debug/com/mosambee/activity/api/BuildConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/src/main/java/android_serialport_api/SerialPortDevice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/src/main/java/com/mosambee/activity/Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/src/main/java/com/mosambee/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/src/main/java/com/mosambee/connection/RequestHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/src/main/java/com/mosambee/connection/ResponseHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/src/main/java/com/mosambee/data/database/MDataBaseHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/src/main/java/com/mosambee/reader/QPOSListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/src/main/java/com/mosambee/ui/MAlertDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/src/main/java/com/mosambee/ui/MTransactionDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/src/main/res/drawable/button_dialog_pressed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/src/main/res/layout/transaction_dialog.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MosambeeApi/MosambeeApi/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/proguard-rules.pro">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/activity/About.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/activity/ActiveActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/activity/ActiveFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/activity/Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/activity/Login.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/activity/Mosambee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/activity/MyExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/activity/MyListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/activity/ScrpController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/connection/PostTask.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/connection/RequestHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/connection/ResponseHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/data/ReadString.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/data/database/MDataBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/encryption/DUKPK2009_CBC.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/encryption/Encryptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/encryption/dukptUtils/DUKPTUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/key/KeyManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/key/RSA.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/key/RSAKeyPairGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/reader/PaxEmvTxnMgr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/reader/QPOSListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/scrp/DeviceManagerMethod.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/scrp/DeviceManagerReceiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/scrp/MagiskUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/scrp/RootUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/ui/MyDialogFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/jni/Android.mk">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/jni/Application.mk">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/jni/Keys.c">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/jni/ReadString.cpp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/jni/SerialPort.c">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/jni/SerialPort.h">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/jni/aes.c">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/jni/aes.h">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/jni/keys.c">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/cotspin.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/mylist.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/xml/device_policies.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/KeysProtect/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/KeysProtect/app/src/main/java/com/mosambee/keysprotect/Application.mk">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/KeysProtect/app/src/main/java/com/mosambee/keysprotect/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/KeysProtect/app/src/main/jni/Android.mk">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/KeysProtect/app/src/main/jni/keys.c">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/KeysProtect/app/src/main/jni/keys.cpp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/KotlinProjects/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/KotlinProjects/app/src/main/java/com/mosambee/kotlintest/ForecastListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/KotlinProjects/app/src/main/java/com/mosambee/kotlintest/ForecastListAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/KotlinProjects/app/src/main/java/com/mosambee/kotlintest/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/KotlinProjects/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/KotlinProjects/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/activity/About.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/activity/ActiveActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/activity/ActiveFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/activity/BharatActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/activity/BharatQROfflineHistory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/activity/ConnectionManagerApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/activity/Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/activity/MAlertDialog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/activity/MainLauncherActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/activity/MainListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/activity/Mosambee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/connection/RequestHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/connection/ResponseHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/connection/ResponseType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/data/TRACE.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/data/database/MDataBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/key/KeyManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/reader/QPOSListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/ui/MContextMenu.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/java/com/mosambee/ui/MTextViewRegular.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/res/layout/activity_launcher_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/res/layout/activity_launcher_updated.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/res/layout/bharat_qr_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/res/layout/bharat_qr_offline_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/res/layout/bharat_qr_offline_row.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/res/layout/bharat_qr_row.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/res/layout/custom_toast.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Nashikwala/MosambeeApi/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/java/com/activity/Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/java/com/activity/IdeaCustDetailPrepaid.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/java/com/activity/IdeaCustNo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/java/com/activity/MainActivityDynamic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/java/com/activity/Receipt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/java/com/activity/VodafoneAdHocFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/java/com/activity/ideaPaymentActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/java/com/activity/paymentActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/java/com/connection/RequestHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/java/com/data/TRACE.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/res/layout/activity_idea_payment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/res/layout/activity_payment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/res/layout/vodafone_adhoc.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Release70/MosambeeLIVE/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

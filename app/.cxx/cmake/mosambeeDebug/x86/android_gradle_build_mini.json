@@ -1,0 +1,34 @@
+{
+  "buildFiles": [
+    "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/CMakeLists.txt",
+    "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/mosambeeDebug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/mosambeeDebug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "keys-Debug-x86": {
+      "artifactName": "keys",
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/mosambeeDebug/x86\" keys",
+      "abi": "x86",
+      "output": "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/build/intermediates/cmake/mosambeeDebug/obj/x86/libkeys.so",
+      "runtimeFiles": []
+    },
+    "OpenSSLApi-Debug-x86": {
+      "artifactName": "OpenSSLApi",
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/mosambeeDebug/x86\" OpenSSLApi",
+      "abi": "x86",
+      "output": "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/build/intermediates/cmake/mosambeeDebug/obj/x86/libOpenSSLApi.so",
+      "runtimeFiles": []
+    },
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/mosambeeDebug/x86\" native-lib",
+      "abi": "x86",
+      "output": "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/build/intermediates/cmake/mosambeeDebug/obj/x86/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

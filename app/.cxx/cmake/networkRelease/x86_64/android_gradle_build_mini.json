@@ -1,0 +1,34 @@
+{
+  "buildFiles": [
+    "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/CMakeLists.txt",
+    "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/SFN/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/networkRelease/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/networkRelease/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "OpenSSLApi-Release-x86_64": {
+      "artifactName": "OpenSSLApi",
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/networkRelease/x86_64\" OpenSSLApi",
+      "abi": "x86_64",
+      "output": "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/build/intermediates/cmake/networkRelease/obj/x86_64/libOpenSSLApi.so",
+      "runtimeFiles": []
+    },
+    "keys-Release-x86_64": {
+      "artifactName": "keys",
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/networkRelease/x86_64\" keys",
+      "abi": "x86_64",
+      "output": "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/build/intermediates/cmake/networkRelease/obj/x86_64/libkeys.so",
+      "runtimeFiles": []
+    },
+    "native-lib-Release-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/SFN/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/networkRelease/x86_64\" native-lib",
+      "abi": "x86_64",
+      "output": "/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/build/intermediates/cmake/networkRelease/obj/x86_64/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

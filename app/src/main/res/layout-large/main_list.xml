@@ -1,0 +1,24 @@
+     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <TextView  
+                android:id="@+id/no_history_message"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/no_transaction"
+                android:gravity="center"
+                android:visibility="gone"
+                android:textColor="@color/textColor"
+                android:textSize="40sp"
+                android:typeface="sans" />
+
+            <ListView
+                android:id="@+id/list"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:divider="@color/black"
+                android:dividerHeight="1dp"
+                android:listSelector="@drawable/list_selector" />
+        </LinearLayout>

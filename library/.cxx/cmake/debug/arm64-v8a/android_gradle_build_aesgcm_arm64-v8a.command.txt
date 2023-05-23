@@ -1,0 +1,7 @@
+Executable : /Users/narayan/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/.cxx/cmake/debug/arm64-v8a
+aesgcm
+jvmArgs : 
+

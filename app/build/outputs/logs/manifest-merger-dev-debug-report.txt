@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:2:1-70:12
+MERGED from [L2Kernel-v1.0.9-Debug.aar] /Users/narayan/.gradle/caches/transforms-3/99e4ed3fd50b1382212d08fba0a0553d/transformed/L2Kernel-v1.0.9-Debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:library] /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:28.0.0] /Users/narayan/.gradle/caches/transforms-3/1b7818b85902c1ea8ee7587c9f38b8b5/transformed/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/narayan/.gradle/caches/transforms-3/b62c9ca58a73001cd43f35c2a2388629/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/narayan/.gradle/caches/transforms-3/eeada865c631f771a56fcc2de6427ba0/transformed/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.scottyab:rootbeer-lib:0.0.8] /Users/narayan/.gradle/caches/transforms-3/25ecb7408fc4fd7f8331d47cac7c45bb/transformed/rootbeer-lib-0.0.8/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/narayan/.gradle/caches/transforms-3/fdfd56624fb49f985db8b5cbaa703690/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/narayan/.gradle/caches/transforms-3/572e6984d5c74806a249d0325e291c8c/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/narayan/.gradle/caches/transforms-3/262c821137a8c6f9514f233090df1ce5/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/narayan/.gradle/caches/transforms-3/d299776e6af76b5e4e2f7337e4f44be6/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/narayan/.gradle/caches/transforms-3/acfd97938d4f935f3146d078efe99919/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/narayan/.gradle/caches/transforms-3/fc8e503517c5e3009c83d0e9c44633c2/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/narayan/.gradle/caches/transforms-3/27c4dfa1263a980d39ffb05d1c7540d6/transformed/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/narayan/.gradle/caches/transforms-3/22c2c0c62f52f78cfe7f07fded2b2a8e/transformed/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/narayan/.gradle/caches/transforms-3/297e68cf5cf6510928c03061b2cce678/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/narayan/.gradle/caches/transforms-3/43110eb624f3036027a9f91c10abafc0/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/narayan/.gradle/caches/transforms-3/2c654659af1742f5c339f34d3bf03b1a/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/narayan/.gradle/caches/transforms-3/f2f4d30facd857855274baaaf3afdccd/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/narayan/.gradle/caches/transforms-3/df3e4df0fdbbc7b17e1406dda8282660/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/narayan/.gradle/caches/transforms-3/7b289f709a59f1a2fdc0d37d9b703862/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/narayan/.gradle/caches/transforms-3/153dae678689bffb6115c3bf367176f4/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/narayan/.gradle/caches/transforms-3/7accf3e83c8a6256414819272b09a992/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/narayan/.gradle/caches/transforms-3/2b00c63ee3d578a5063ef838674f63c5/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/narayan/.gradle/caches/transforms-3/7e1fffdbc9b4457c941ca7729b52949e/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/narayan/.gradle/caches/transforms-3/3ab6c27cdadd7b30f7e99321764e9f13/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/narayan/.gradle/caches/transforms-3/da03058dac9fc4778055d72f56e12195/transformed/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/narayan/.gradle/caches/transforms-3/42c6e2df6a9c1182c4569f1b0dd408c1/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/narayan/.gradle/caches/transforms-3/5c08686cade32ddc296b5c0ab7f1b7ca/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/narayan/.gradle/caches/transforms-3/495f493c4dda6bb2fe7e44b4f8f523eb/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/narayan/.gradle/caches/transforms-3/6b135cd98475669a14c72c0bc9cb0b20/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/narayan/.gradle/caches/transforms-3/19950e11f1d3165aaef9055119075eb8/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/narayan/.gradle/caches/transforms-3/368bb1cc8905f47287f893a2c8a94a99/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/narayan/.gradle/caches/transforms-3/f9cae406ac0d118687f1a1d39f7a1c0b/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/narayan/.gradle/caches/transforms-3/2b2b4097cf3c9a71a185d3af895d7aa2/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/narayan/.gradle/caches/transforms-3/184a7ee68a90309b9a9492be0bda3e4c/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:2:1-70:12
+		INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.NFC
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:9:5-62
+MERGED from [L2Kernel-v1.0.9-Debug.aar] /Users/narayan/.gradle/caches/transforms-3/99e4ed3fd50b1382212d08fba0a0553d/transformed/L2Kernel-v1.0.9-Debug/AndroidManifest.xml:11:5-62
+MERGED from [L2Kernel-v1.0.9-Debug.aar] /Users/narayan/.gradle/caches/transforms-3/99e4ed3fd50b1382212d08fba0a0553d/transformed/L2Kernel-v1.0.9-Debug/AndroidManifest.xml:11:5-62
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:9:22-59
+uses-feature#android.hardware.nfc
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:10:5-81
+MERGED from [L2Kernel-v1.0.9-Debug.aar] /Users/narayan/.gradle/caches/transforms-3/99e4ed3fd50b1382212d08fba0a0553d/transformed/L2Kernel-v1.0.9-Debug/AndroidManifest.xml:13:5-15:35
+MERGED from [L2Kernel-v1.0.9-Debug.aar] /Users/narayan/.gradle/caches/transforms-3/99e4ed3fd50b1382212d08fba0a0553d/transformed/L2Kernel-v1.0.9-Debug/AndroidManifest.xml:13:5-15:35
+	android:required
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:10:55-78
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:10:19-54
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:15:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:16:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:17:22-72
+uses-permission#android.permission.INTERNET
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:18:22-64
+uses-permission#android.permission.ACCESS_GPS
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:19:5-69
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:19:22-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.CAMERA
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:24:22-62
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:25:5-74
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:25:22-71
+uses-feature#android.hardware.camera
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:26:5-60
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:26:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:27:5-70
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:27:19-67
+uses-permission#android.permission.INTERACT_ACROSS_USERS_FULL
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:30:5-33:47
+	android:protectionLevel
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:32:9-44
+	tools:ignore
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:33:9-44
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:31:9-69
+uses-permission#android.permission.INTERACT_ACROSS_USERS
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:34:5-37:47
+	android:protectionLevel
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:36:9-44
+	tools:ignore
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:37:9-44
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:35:9-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:38:5-41:47
+	android:protectionLevel
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:40:9-44
+	tools:ignore
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:41:9-44
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:39:9-68
+uses-feature#android.hardware.usb.host
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:43:5-62
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:43:19-59
+application
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:47:5-69:19
+MERGED from [:library] /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [:library] /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/narayan/.gradle/caches/transforms-3/1b7818b85902c1ea8ee7587c9f38b8b5/transformed/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/narayan/.gradle/caches/transforms-3/1b7818b85902c1ea8ee7587c9f38b8b5/transformed/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.scottyab:rootbeer-lib:0.0.8] /Users/narayan/.gradle/caches/transforms-3/25ecb7408fc4fd7f8331d47cac7c45bb/transformed/rootbeer-lib-0.0.8/AndroidManifest.xml:11:5-20
+MERGED from [com.scottyab:rootbeer-lib:0.0.8] /Users/narayan/.gradle/caches/transforms-3/25ecb7408fc4fd7f8331d47cac7c45bb/transformed/rootbeer-lib-0.0.8/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/narayan/.gradle/caches/transforms-3/2b00c63ee3d578a5063ef838674f63c5/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/narayan/.gradle/caches/transforms-3/2b00c63ee3d578a5063ef838674f63c5/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/narayan/.gradle/caches/transforms-3/7e1fffdbc9b4457c941ca7729b52949e/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/narayan/.gradle/caches/transforms-3/7e1fffdbc9b4457c941ca7729b52949e/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/narayan/.gradle/caches/transforms-3/2b00c63ee3d578a5063ef838674f63c5/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:53:9-35
+	android:label
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:52:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:50:9-43
+	android:resizeableActivity
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:49:9-43
+	android:icon
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:51:9-41
+	android:allowBackup
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:48:9-36
+	android:theme
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:54:9-40
+activity#com.mosambee.MainActivity
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:55:9-67:20
+	android:screenOrientation
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:58:13-49
+	android:label
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:57:13-45
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:56:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:59:13-62:29
+action#android.intent.action.MAIN
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:60:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:61:27-74
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:63:13-65:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:64:17-90
+	android:name
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml:64:25-87
+uses-sdk
+INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+MERGED from [L2Kernel-v1.0.9-Debug.aar] /Users/narayan/.gradle/caches/transforms-3/99e4ed3fd50b1382212d08fba0a0553d/transformed/L2Kernel-v1.0.9-Debug/AndroidManifest.xml:7:5-9:41
+MERGED from [L2Kernel-v1.0.9-Debug.aar] /Users/narayan/.gradle/caches/transforms-3/99e4ed3fd50b1382212d08fba0a0553d/transformed/L2Kernel-v1.0.9-Debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:library] /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:library] /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /Users/narayan/.gradle/caches/transforms-3/1b7818b85902c1ea8ee7587c9f38b8b5/transformed/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/narayan/.gradle/caches/transforms-3/1b7818b85902c1ea8ee7587c9f38b8b5/transformed/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/narayan/.gradle/caches/transforms-3/b62c9ca58a73001cd43f35c2a2388629/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/narayan/.gradle/caches/transforms-3/b62c9ca58a73001cd43f35c2a2388629/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/narayan/.gradle/caches/transforms-3/eeada865c631f771a56fcc2de6427ba0/transformed/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/narayan/.gradle/caches/transforms-3/eeada865c631f771a56fcc2de6427ba0/transformed/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.scottyab:rootbeer-lib:0.0.8] /Users/narayan/.gradle/caches/transforms-3/25ecb7408fc4fd7f8331d47cac7c45bb/transformed/rootbeer-lib-0.0.8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.scottyab:rootbeer-lib:0.0.8] /Users/narayan/.gradle/caches/transforms-3/25ecb7408fc4fd7f8331d47cac7c45bb/transformed/rootbeer-lib-0.0.8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/narayan/.gradle/caches/transforms-3/fdfd56624fb49f985db8b5cbaa703690/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/narayan/.gradle/caches/transforms-3/fdfd56624fb49f985db8b5cbaa703690/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/narayan/.gradle/caches/transforms-3/572e6984d5c74806a249d0325e291c8c/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/narayan/.gradle/caches/transforms-3/572e6984d5c74806a249d0325e291c8c/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/narayan/.gradle/caches/transforms-3/262c821137a8c6f9514f233090df1ce5/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/narayan/.gradle/caches/transforms-3/262c821137a8c6f9514f233090df1ce5/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/narayan/.gradle/caches/transforms-3/d299776e6af76b5e4e2f7337e4f44be6/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/narayan/.gradle/caches/transforms-3/d299776e6af76b5e4e2f7337e4f44be6/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/narayan/.gradle/caches/transforms-3/acfd97938d4f935f3146d078efe99919/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/narayan/.gradle/caches/transforms-3/acfd97938d4f935f3146d078efe99919/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/narayan/.gradle/caches/transforms-3/fc8e503517c5e3009c83d0e9c44633c2/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/narayan/.gradle/caches/transforms-3/fc8e503517c5e3009c83d0e9c44633c2/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/narayan/.gradle/caches/transforms-3/27c4dfa1263a980d39ffb05d1c7540d6/transformed/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/narayan/.gradle/caches/transforms-3/27c4dfa1263a980d39ffb05d1c7540d6/transformed/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/narayan/.gradle/caches/transforms-3/22c2c0c62f52f78cfe7f07fded2b2a8e/transformed/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/narayan/.gradle/caches/transforms-3/22c2c0c62f52f78cfe7f07fded2b2a8e/transformed/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/narayan/.gradle/caches/transforms-3/297e68cf5cf6510928c03061b2cce678/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/narayan/.gradle/caches/transforms-3/297e68cf5cf6510928c03061b2cce678/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/narayan/.gradle/caches/transforms-3/43110eb624f3036027a9f91c10abafc0/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/narayan/.gradle/caches/transforms-3/43110eb624f3036027a9f91c10abafc0/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/narayan/.gradle/caches/transforms-3/2c654659af1742f5c339f34d3bf03b1a/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/narayan/.gradle/caches/transforms-3/2c654659af1742f5c339f34d3bf03b1a/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/narayan/.gradle/caches/transforms-3/f2f4d30facd857855274baaaf3afdccd/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/narayan/.gradle/caches/transforms-3/f2f4d30facd857855274baaaf3afdccd/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/narayan/.gradle/caches/transforms-3/df3e4df0fdbbc7b17e1406dda8282660/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/narayan/.gradle/caches/transforms-3/df3e4df0fdbbc7b17e1406dda8282660/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/narayan/.gradle/caches/transforms-3/7b289f709a59f1a2fdc0d37d9b703862/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/narayan/.gradle/caches/transforms-3/7b289f709a59f1a2fdc0d37d9b703862/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/narayan/.gradle/caches/transforms-3/153dae678689bffb6115c3bf367176f4/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/narayan/.gradle/caches/transforms-3/153dae678689bffb6115c3bf367176f4/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/narayan/.gradle/caches/transforms-3/7accf3e83c8a6256414819272b09a992/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/narayan/.gradle/caches/transforms-3/7accf3e83c8a6256414819272b09a992/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/narayan/.gradle/caches/transforms-3/2b00c63ee3d578a5063ef838674f63c5/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/narayan/.gradle/caches/transforms-3/2b00c63ee3d578a5063ef838674f63c5/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/narayan/.gradle/caches/transforms-3/7e1fffdbc9b4457c941ca7729b52949e/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/narayan/.gradle/caches/transforms-3/7e1fffdbc9b4457c941ca7729b52949e/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/narayan/.gradle/caches/transforms-3/3ab6c27cdadd7b30f7e99321764e9f13/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/narayan/.gradle/caches/transforms-3/3ab6c27cdadd7b30f7e99321764e9f13/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/narayan/.gradle/caches/transforms-3/da03058dac9fc4778055d72f56e12195/transformed/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/narayan/.gradle/caches/transforms-3/da03058dac9fc4778055d72f56e12195/transformed/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/narayan/.gradle/caches/transforms-3/42c6e2df6a9c1182c4569f1b0dd408c1/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/narayan/.gradle/caches/transforms-3/42c6e2df6a9c1182c4569f1b0dd408c1/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/narayan/.gradle/caches/transforms-3/5c08686cade32ddc296b5c0ab7f1b7ca/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/narayan/.gradle/caches/transforms-3/5c08686cade32ddc296b5c0ab7f1b7ca/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/narayan/.gradle/caches/transforms-3/495f493c4dda6bb2fe7e44b4f8f523eb/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/narayan/.gradle/caches/transforms-3/495f493c4dda6bb2fe7e44b4f8f523eb/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/narayan/.gradle/caches/transforms-3/6b135cd98475669a14c72c0bc9cb0b20/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/narayan/.gradle/caches/transforms-3/6b135cd98475669a14c72c0bc9cb0b20/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/narayan/.gradle/caches/transforms-3/19950e11f1d3165aaef9055119075eb8/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/narayan/.gradle/caches/transforms-3/19950e11f1d3165aaef9055119075eb8/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/narayan/.gradle/caches/transforms-3/368bb1cc8905f47287f893a2c8a94a99/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/narayan/.gradle/caches/transforms-3/368bb1cc8905f47287f893a2c8a94a99/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/narayan/.gradle/caches/transforms-3/f9cae406ac0d118687f1a1d39f7a1c0b/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/narayan/.gradle/caches/transforms-3/f9cae406ac0d118687f1a1d39f7a1c0b/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/narayan/.gradle/caches/transforms-3/2b2b4097cf3c9a71a185d3af895d7aa2/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/narayan/.gradle/caches/transforms-3/2b2b4097cf3c9a71a185d3af895d7aa2/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/narayan/.gradle/caches/transforms-3/184a7ee68a90309b9a9492be0bda3e4c/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/narayan/.gradle/caches/transforms-3/184a7ee68a90309b9a9492be0bda3e4c/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+		ADDED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/narayan/Downloads/MosambeeModularThemeV2_CPOC_UL_BOringssl/app/src/main/AndroidManifest.xml

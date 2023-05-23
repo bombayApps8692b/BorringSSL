@@ -1,0 +1,5 @@
+/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/tymeRelease/x86/CMakeFiles/rebuild_cache.dir
+/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/tymeRelease/x86/CMakeFiles/edit_cache.dir
+/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/tymeRelease/x86/CMakeFiles/OpenSSLApi.dir
+/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/tymeRelease/x86/CMakeFiles/keys.dir
+/Users/SFN/Downloads/UL/MosambeeModularThemeV2_CPOC_ULNITIME/app/.cxx/cmake/tymeRelease/x86/CMakeFiles/native-lib.dir
